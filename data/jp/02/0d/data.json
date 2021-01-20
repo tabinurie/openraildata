@@ -1,0 +1,62 @@
+[
+  {
+    "id": "jp020d01",
+    "endonym": "横浜",
+    "exonym": "Yokohama"
+  },
+  {
+    "id": "jp020d02",
+    "endonym": "桜木町",
+    "exonym": "Sakuragicho"
+  },
+  {
+    "id": "jp020d03",
+    "endonym": "関内",
+    "exonym": "Kannai"
+  },
+  {
+    "id": "jp020d04",
+    "endonym": "石川町",
+    "exonym": "Ishikawacho"
+  },
+  {
+    "id": "jp020d05",
+    "endonym": "山手",
+    "exonym": "Yamate"
+  },
+  {
+    "id": "jp020d06",
+    "endonym": "根岸",
+    "exonym": "Negishi"
+  },
+  {
+    "id": "jp020d07",
+    "endonym": "磯子",
+    "exonym": "Isogo"
+  },
+  {
+    "id": "jp020d08",
+    "endonym": "新杉田",
+    "exonym": "Shin-Sugita"
+  },
+  {
+    "id": "jp020d09",
+    "endonym": "洋光台",
+    "exonym": "Yokodai"
+  },
+  {
+    "id": "jp020d0a",
+    "endonym": "港南台",
+    "exonym": "Konandai"
+  },
+  {
+    "id": "jp020d0b",
+    "endonym": "本郷台",
+    "exonym": "Hongodai"
+  },
+  {
+    "id": "jp020d0c",
+    "endonym": "大船",
+    "exonym": "Ofuna"
+  }
+]

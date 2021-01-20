@@ -1,0 +1,232 @@
+[
+  {
+    "id": "cn01c801",
+    "endonym": "沈阳",
+    "exonym": "Shenyang"
+  },
+  {
+    "id": "cn01c802",
+    "endonym": "沈阳北",
+    "exonym": "Shenyang North"
+  },
+  {
+    "id": "cn01c803",
+    "endonym": "沈阳东",
+    "exonym": "Shenyang East"
+  },
+  {
+    "id": "cn01c804",
+    "endonym": "东陵",
+    "exonym": "Dongling"
+  },
+  {
+    "id": "cn01c805",
+    "endonym": "旧站",
+    "exonym": "Jiuzhan"
+  },
+  {
+    "id": "cn01c806",
+    "endonym": "滴台",
+    "exonym": "Ditai"
+  },
+  {
+    "id": "cn01c807",
+    "endonym": "抚顺北",
+    "exonym": "Fushun North"
+  },
+  {
+    "id": "cn01c808",
+    "endonym": "前甸",
+    "exonym": "Qiandian"
+  },
+  {
+    "id": "cn01c809",
+    "endonym": "章党",
+    "exonym": "Zhangdang"
+  },
+  {
+    "id": "cn01c80a",
+    "endonym": "石门岭",
+    "exonym": "Shimenling"
+  },
+  {
+    "id": "cn01c80b",
+    "endonym": "营盘",
+    "exonym": "Yingpan"
+  },
+  {
+    "id": "cn01c80c",
+    "endonym": "铁背山",
+    "exonym": "Tiebeishan"
+  },
+  {
+    "id": "cn01c80d",
+    "endonym": "南杂木",
+    "exonym": "Nanzamu"
+  },
+  {
+    "id": "cn01c80e",
+    "endonym": "苍石",
+    "exonym": "Cangshi"
+  },
+  {
+    "id": "cn01c80f",
+    "endonym": "南口前",
+    "exonym": "Nankouqian"
+  },
+  {
+    "id": "cn01c80g",
+    "endonym": "北三家",
+    "exonym": "Beisanjia"
+  },
+  {
+    "id": "cn01c80h",
+    "endonym": "斗虎屯",
+    "exonym": "Douhutun"
+  },
+  {
+    "id": "cn01c80i",
+    "endonym": "清原",
+    "exonym": "Qingyuan"
+  },
+  {
+    "id": "cn01c80j",
+    "endonym": "长山堡",
+    "exonym": "Changshanbao"
+  },
+  {
+    "id": "cn01c80k",
+    "endonym": "英额门",
+    "exonym": "Ying'emen"
+  },
+  {
+    "id": "cn01c80l",
+    "endonym": "兴隆河",
+    "exonym": "Xinglonghe"
+  },
+  {
+    "id": "cn01c80m",
+    "endonym": "草市",
+    "exonym": "Caoshi"
+  },
+  {
+    "id": "cn01c80n",
+    "endonym": "龙山",
+    "exonym": "Longshan"
+  },
+  {
+    "id": "cn01c80o",
+    "endonym": "山城镇",
+    "exonym": "Shanchengzhen"
+  },
+  {
+    "id": "cn01c80p",
+    "endonym": "黑山头",
+    "exonym": "Heishantou"
+  },
+  {
+    "id": "cn01c80q",
+    "endonym": "宝山",
+    "exonym": "Baoshan"
+  },
+  {
+    "id": "cn01c80r",
+    "endonym": "梅河口",
+    "exonym": "Meihekou"
+  },
+  {
+    "id": "cn01c80s",
+    "endonym": "海龙",
+    "exonym": "Hailong"
+  },
+  {
+    "id": "cn01c80t",
+    "endonym": "朝阳镇",
+    "exonym": "Chaoyangzhen"
+  },
+  {
+    "id": "cn01c80u",
+    "endonym": "团林",
+    "exonym": "Tuanlin"
+  },
+  {
+    "id": "cn01c80v",
+    "endonym": "石家",
+    "exonym": "Shijia"
+  },
+  {
+    "id": "cn01c80w",
+    "endonym": "磐石",
+    "exonym": "Panshi"
+  },
+  {
+    "id": "cn01c80x",
+    "endonym": "永宁",
+    "exonym": "Yongning"
+  },
+  {
+    "id": "cn01c80y",
+    "endonym": "明城",
+    "exonym": "Mingcheng"
+  },
+  {
+    "id": "cn01c80z",
+    "endonym": "烟筒山",
+    "exonym": "Yantongshan"
+  },
+  {
+    "id": "cn01c810",
+    "endonym": "大梨树",
+    "exonym": "Dalishu"
+  },
+  {
+    "id": "cn01c811",
+    "endonym": "取柴河",
+    "exonym": "Quchaihe"
+  },
+  {
+    "id": "cn01c812",
+    "endonym": "双河镇",
+    "exonym": "Shuanghezhen"
+  },
+  {
+    "id": "cn01c813",
+    "endonym": "长岗",
+    "exonym": "Changgang"
+  },
+  {
+    "id": "cn01c814",
+    "endonym": "大黑山",
+    "exonym": "Daheishan"
+  },
+  {
+    "id": "cn01c815",
+    "endonym": "西阳",
+    "exonym": "Xiyang"
+  },
+  {
+    "id": "cn01c816",
+    "endonym": "口前",
+    "exonym": "Kouqian"
+  },
+  {
+    "id": "cn01c817",
+    "endonym": "马相屯",
+    "exonym": "Maxiangtun"
+  },
+  {
+    "id": "cn01c818",
+    "endonym": "吉林西",
+    "exonym": "Jilin West"
+  },
+  {
+    "id": "cn01c819",
+    "endonym": "北山",
+    "exonym": "Beishan"
+  },
+  {
+    "id": "cn01c81a",
+    "endonym": "吉林",
+    "exonym": "Jilin"
+  }
+]

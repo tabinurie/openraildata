@@ -1,0 +1,257 @@
+[
+  {
+    "id": "cn01cn01",
+    "endonym": "长春",
+    "exonym": "Changchun"
+  },
+  {
+    "id": "cn01cn02",
+    "endonym": "长春东",
+    "exonym": "Changchun East"
+  },
+  {
+    "id": "cn01cn03",
+    "endonym": "龙泉",
+    "exonym": "Longquan"
+  },
+  {
+    "id": "cn01cn04",
+    "endonym": "兴隆山",
+    "exonym": "Xinglongshan"
+  },
+  {
+    "id": "cn01cn05",
+    "endonym": "卡伦",
+    "exonym": "Kalun"
+  },
+  {
+    "id": "cn01cn06",
+    "endonym": "龙家堡",
+    "exonym": "Longjiabao"
+  },
+  {
+    "id": "cn01cn07",
+    "endonym": "九台",
+    "exonym": "Jiutai"
+  },
+  {
+    "id": "cn01cn08",
+    "endonym": "营城",
+    "exonym": "Yingcheng"
+  },
+  {
+    "id": "cn01cn09",
+    "endonym": "土们岭",
+    "exonym": "Tumenling"
+  },
+  {
+    "id": "cn01cn0a",
+    "endonym": "左家",
+    "exonym": "Zuojia"
+  },
+  {
+    "id": "cn01cn0b",
+    "endonym": "桦皮厂",
+    "exonym": "Huapichang"
+  },
+  {
+    "id": "cn01cn0c",
+    "endonym": "孤店子",
+    "exonym": "Gudianzi"
+  },
+  {
+    "id": "cn01cn0d",
+    "endonym": "新九站",
+    "exonym": "Xinjiuzhan"
+  },
+  {
+    "id": "cn01cn0e",
+    "endonym": "九站",
+    "exonym": "Jiuzhan"
+  },
+  {
+    "id": "cn01cn0f",
+    "endonym": "哈达湾",
+    "exonym": "Hadawan"
+  },
+  {
+    "id": "cn01cn0g",
+    "endonym": "吉林",
+    "exonym": "Jilin"
+  },
+  {
+    "id": "cn01cn0h",
+    "endonym": "龙潭山",
+    "exonym": "Longyuanshan"
+  },
+  {
+    "id": "cn01cn0i",
+    "endonym": "江北",
+    "exonym": "Jiangbei"
+  },
+  {
+    "id": "cn01cn0j",
+    "endonym": "江密峰",
+    "exonym": "Jiangmifeng"
+  },
+  {
+    "id": "cn01cn0k",
+    "endonym": "天岗",
+    "exonym": "Tiangang"
+  },
+  {
+    "id": "cn01cn0l",
+    "endonym": "六道河",
+    "exonym": "Liudaohe"
+  },
+  {
+    "id": "cn01cn0m",
+    "endonym": "老爷岭",
+    "exonym": "Laoyeling"
+  },
+  {
+    "id": "cn01cn0n",
+    "endonym": "小姑家",
+    "exonym": "Xiaogujia"
+  },
+  {
+    "id": "cn01cn0o",
+    "endonym": "拉法",
+    "exonym": "Lafa"
+  },
+  {
+    "id": "cn01cn0p",
+    "endonym": "蛟河",
+    "exonym": "Jiaohe"
+  },
+  {
+    "id": "cn01cn0q",
+    "endonym": "苇塘",
+    "exonym": "Weitang"
+  },
+  {
+    "id": "cn01cn0r",
+    "endonym": "白石山",
+    "exonym": "Baishishan"
+  },
+  {
+    "id": "cn01cn0s",
+    "endonym": "二道河",
+    "exonym": "Erdaohe"
+  },
+  {
+    "id": "cn01cn0t",
+    "endonym": "黄松甸",
+    "exonym": "Huangsongdian"
+  },
+  {
+    "id": "cn01cn0u",
+    "endonym": "威虎岭",
+    "exonym": "Weihuling"
+  },
+  {
+    "id": "cn01cn0v",
+    "endonym": "黄泥河",
+    "exonym": "Huangnihe"
+  },
+  {
+    "id": "cn01cn0w",
+    "endonym": "秋梨沟",
+    "exonym": "Qiuligou"
+  },
+  {
+    "id": "cn01cn0x",
+    "endonym": "太平岭",
+    "exonym": "Taipingling"
+  },
+  {
+    "id": "cn01cn0y",
+    "endonym": "敦化",
+    "exonym": "Dunhua"
+  },
+  {
+    "id": "cn01cn0z",
+    "endonym": "大桥",
+    "exonym": "Daqiao"
+  },
+  {
+    "id": "cn01cn10",
+    "endonym": "大石头",
+    "exonym": "Dashitou"
+  },
+  {
+    "id": "cn01cn11",
+    "endonym": "哈尔巴岭",
+    "exonym": "Ha'erbaling"
+  },
+  {
+    "id": "cn01cn12",
+    "endonym": "南沟",
+    "exonym": "Nangou"
+  },
+  {
+    "id": "cn01cn13",
+    "endonym": "亮兵台",
+    "exonym": "Liangbingtai"
+  },
+  {
+    "id": "cn01cn14",
+    "endonym": "安图",
+    "exonym": "Antu"
+  },
+  {
+    "id": "cn01cn15",
+    "endonym": "茶条沟",
+    "exonym": "Chatiaogou"
+  },
+  {
+    "id": "cn01cn16",
+    "endonym": "榆树川",
+    "exonym": "Yushuchuan"
+  },
+  {
+    "id": "cn01cn17",
+    "endonym": "葆园",
+    "exonym": "Baoyuan"
+  },
+  {
+    "id": "cn01cn18",
+    "endonym": "铜佛寺",
+    "exonym": "Tongfosi"
+  },
+  {
+    "id": "cn01cn19",
+    "endonym": "朝阳川",
+    "exonym": "Chaoyangchuan"
+  },
+  {
+    "id": "cn01cn1a",
+    "endonym": "延吉",
+    "exonym": "Yanji"
+  },
+  {
+    "id": "cn01cn1b",
+    "endonym": "溪洞",
+    "exonym": "Xidong"
+  },
+  {
+    "id": "cn01cn1c",
+    "endonym": "磨盘山",
+    "exonym": "Mopanshan"
+  },
+  {
+    "id": "cn01cn1d",
+    "endonym": "苇子沟",
+    "exonym": "Weizigou"
+  },
+  {
+    "id": "cn01cn1e",
+    "endonym": "图们北",
+    "exonym": "Tumen North"
+  },
+  {
+    "id": "cn01cn1f",
+    "endonym": "图们",
+    "exonym": "Tumen"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cn012h01",
+    "endonym": "怀化南",
+    "exonym": "Huaihua South"
+  },
+  {
+    "id": "cn012h02",
+    "endonym": "安江东",
+    "exonym": "Anjiang East"
+  },
+  {
+    "id": "cn012h03",
+    "endonym": "月溪",
+    "exonym": "Yuexi"
+  },
+  {
+    "id": "cn012h04",
+    "endonym": "洞口",
+    "exonym": "Dongkou"
+  },
+  {
+    "id": "cn012h05",
+    "endonym": "隆回西",
+    "exonym": "Longhui West"
+  },
+  {
+    "id": "cn012h06",
+    "endonym": "隆回",
+    "exonym": "Longhui"
+  },
+  {
+    "id": "cn012h07",
+    "endonym": "邵阳西",
+    "exonym": "Shaoyang West"
+  },
+  {
+    "id": "cn012h08",
+    "endonym": "邵阳",
+    "exonym": "Shaoyang"
+  },
+  {
+    "id": "cn012h09",
+    "endonym": "邵东",
+    "exonym": "Shaodong"
+  },
+  {
+    "id": "cn012h0a",
+    "endonym": "杨桥",
+    "exonym": "Yangqiao"
+  },
+  {
+    "id": "cn012h0b",
+    "endonym": "库宗桥",
+    "exonym": "Kuzongqiao"
+  },
+  {
+    "id": "cn012h0c",
+    "endonym": "西渡",
+    "exonym": "Xidu"
+  },
+  {
+    "id": "cn012h0d",
+    "endonym": "松木",
+    "exonym": "Songmu"
+  },
+  {
+    "id": "cn012h0e",
+    "endonym": "咸塘",
+    "exonym": "Xiantang"
+  },
+  {
+    "id": "cn012h0f",
+    "endonym": "长塘所",
+    "exonym": "Changtang Signal Base"
+  },
+  {
+    "id": "cn012h0g",
+    "endonym": "衡阳东",
+    "exonym": "Hengyang East"
+  }
+]

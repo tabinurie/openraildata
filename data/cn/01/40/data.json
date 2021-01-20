@@ -1,0 +1,67 @@
+[
+  {
+    "id": "cn014001",
+    "endonym": "石家庄",
+    "exonym": "Shijiazhuang"
+  },
+  {
+    "id": "cn014002",
+    "endonym": "石家庄东",
+    "exonym": "Shijiazhuang East"
+  },
+  {
+    "id": "cn014003",
+    "endonym": "藁城南",
+    "exonym": "Gaocheng South"
+  },
+  {
+    "id": "cn014004",
+    "endonym": "辛集南",
+    "exonym": "Xinji South"
+  },
+  {
+    "id": "cn014005",
+    "endonym": "衡水北",
+    "exonym": "Hengshui North"
+  },
+  {
+    "id": "cn014006",
+    "endonym": "景州",
+    "exonym": "Jingzhou"
+  },
+  {
+    "id": "cn014007",
+    "endonym": "德州东",
+    "exonym": "Dezhou East"
+  },
+  {
+    "id": "cn014008",
+    "endonym": "陵县所",
+    "exonym": "Lingxian Signal Base"
+  },
+  {
+    "id": "cn014009",
+    "endonym": "平原东",
+    "exonym": "Pingyuan East"
+  },
+  {
+    "id": "cn01400a",
+    "endonym": "禹城东",
+    "exonym": "Yucheng East"
+  },
+  {
+    "id": "cn01400b",
+    "endonym": "齐河",
+    "exonym": "Qihe"
+  },
+  {
+    "id": "cn01400c",
+    "endonym": "大郑庄所",
+    "exonym": "Dazhengzhuang Signal Base"
+  },
+  {
+    "id": "cn01400d",
+    "endonym": "济南东",
+    "exonym": "Jinan East"
+  }
+]

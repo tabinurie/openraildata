@@ -1,0 +1,272 @@
+[
+  {
+    "id": "cn019t01",
+    "endonym": "内江",
+    "exonym": "Neijiang"
+  },
+  {
+    "id": "cn019t02",
+    "endonym": "内江南",
+    "exonym": "Neijiang South"
+  },
+  {
+    "id": "cn019t03",
+    "endonym": "凌家场",
+    "exonym": "Lingjiachang"
+  },
+  {
+    "id": "cn019t04",
+    "endonym": "大山铺",
+    "exonym": "Dashanpu"
+  },
+  {
+    "id": "cn019t05",
+    "endonym": "自贡",
+    "exonym": "Zigong"
+  },
+  {
+    "id": "cn019t06",
+    "endonym": "自贡南",
+    "exonym": "Zigong South"
+  },
+  {
+    "id": "cn019t07",
+    "endonym": "俞冲",
+    "exonym": "Yuchong"
+  },
+  {
+    "id": "cn019t08",
+    "endonym": "孔滩",
+    "exonym": "Kongtan"
+  },
+  {
+    "id": "cn019t09",
+    "endonym": "王场",
+    "exonym": "Wangchang"
+  },
+  {
+    "id": "cn019t0a",
+    "endonym": "敬梓场",
+    "exonym": "Jingzichang"
+  },
+  {
+    "id": "cn019t0b",
+    "endonym": "一步滩",
+    "exonym": "Yibutan"
+  },
+  {
+    "id": "cn019t0c",
+    "endonym": "宜宾北",
+    "exonym": "Yibin North"
+  },
+  {
+    "id": "cn019t0d",
+    "endonym": "宜宾",
+    "exonym": "Yibin"
+  },
+  {
+    "id": "cn019t0e",
+    "endonym": "宜宾南",
+    "exonym": "Yibin South"
+  },
+  {
+    "id": "cn019t0f",
+    "endonym": "豆坝",
+    "exonym": "Douba"
+  },
+  {
+    "id": "cn019t0g",
+    "endonym": "水富",
+    "exonym": "Shuifu"
+  },
+  {
+    "id": "cn019t0h",
+    "endonym": "横江",
+    "exonym": "Hengjiang"
+  },
+  {
+    "id": "cn019t0i",
+    "endonym": "小儿坪",
+    "exonym": "Xiao'erping"
+  },
+  {
+    "id": "cn019t0j",
+    "endonym": "铜鼓溪",
+    "exonym": "Tongguxi"
+  },
+  {
+    "id": "cn019t0k",
+    "endonym": "滩头",
+    "exonym": "Tantou"
+  },
+  {
+    "id": "cn019t0l",
+    "endonym": "普洱渡",
+    "exonym": "Pu'erdu"
+  },
+  {
+    "id": "cn019t0m",
+    "endonym": "临江溪",
+    "exonym": "Linjiangxi"
+  },
+  {
+    "id": "cn019t0n",
+    "endonym": "盐津北",
+    "exonym": "Yanjin North"
+  },
+  {
+    "id": "cn019t0o",
+    "endonym": "盐津",
+    "exonym": "Yanjin"
+  },
+  {
+    "id": "cn019t0p",
+    "endonym": "豆沙关",
+    "exonym": "Doushaguan"
+  },
+  {
+    "id": "cn019t0q",
+    "endonym": "沙沙坡",
+    "exonym": "Shashapo"
+  },
+  {
+    "id": "cn019t0r",
+    "endonym": "小关溪",
+    "exonym": "Xiaoguanxi"
+  },
+  {
+    "id": "cn019t0s",
+    "endonym": "岔河",
+    "exonym": "Chahe"
+  },
+  {
+    "id": "cn019t0t",
+    "endonym": "大关",
+    "exonym": "Daguan"
+  },
+  {
+    "id": "cn019t0u",
+    "endonym": "曾家坪子",
+    "exonym": "Zengjiapingzi"
+  },
+  {
+    "id": "cn019t0v",
+    "endonym": "苍坪",
+    "exonym": "Cangping"
+  },
+  {
+    "id": "cn019t0w",
+    "endonym": "邓家湾",
+    "exonym": "Dengjiawan"
+  },
+  {
+    "id": "cn019t0x",
+    "endonym": "田梁子",
+    "exonym": "Tianliangzi"
+  },
+  {
+    "id": "cn019t0y",
+    "endonym": "彝良",
+    "exonym": "Yiliang"
+  },
+  {
+    "id": "cn019t0z",
+    "endonym": "彝良南",
+    "exonym": "Yiliang South"
+  },
+  {
+    "id": "cn019t10",
+    "endonym": "二道桥",
+    "exonym": "Erdaoqiao"
+  },
+  {
+    "id": "cn019t11",
+    "endonym": "昭通北",
+    "exonym": "Zhaotong North"
+  },
+  {
+    "id": "cn019t12",
+    "endonym": "昭通",
+    "exonym": "Zhaotong"
+  },
+  {
+    "id": "cn019t13",
+    "endonym": "昭通南",
+    "exonym": "Zhaotong South"
+  },
+  {
+    "id": "cn019t14",
+    "endonym": "花土坡",
+    "exonym": "Huatupo"
+  },
+  {
+    "id": "cn019t15",
+    "endonym": "仙水",
+    "exonym": "Xianshui"
+  },
+  {
+    "id": "cn019t16",
+    "endonym": "迤那",
+    "exonym": "Yina"
+  },
+  {
+    "id": "cn019t17",
+    "endonym": "老锅厂",
+    "exonym": "Laoguochang"
+  },
+  {
+    "id": "cn019t18",
+    "endonym": "李子沟",
+    "exonym": "Lizigou"
+  },
+  {
+    "id": "cn019t19",
+    "endonym": "朱嘎",
+    "exonym": "Zhuga"
+  },
+  {
+    "id": "cn019t1a",
+    "endonym": "草海",
+    "exonym": "Caohai"
+  },
+  {
+    "id": "cn019t1b",
+    "endonym": "清水沟",
+    "exonym": "Qingshuigou"
+  },
+  {
+    "id": "cn019t1c",
+    "endonym": "金钟",
+    "exonym": "Jinzhong"
+  },
+  {
+    "id": "cn019t1d",
+    "endonym": "凉水井",
+    "exonym": "Liangshuijing"
+  },
+  {
+    "id": "cn019t1e",
+    "endonym": "石丫口",
+    "exonym": "Shiyakou"
+  },
+  {
+    "id": "cn019t1f",
+    "endonym": "梅花山",
+    "exonym": "Meihuashan"
+  },
+  {
+    "id": "cn019t1g",
+    "endonym": "葡萄菁",
+    "exonym": "Putaojing"
+  },
+  {
+    "id": "cn019t1h",
+    "endonym": "马嘎",
+    "exonym": "Maga"
+  },
+  {
+    "id": "cn019t1i",
+    "endonym": "六盘水",
+    "exonym": "Liupanshui"
+  }
+]

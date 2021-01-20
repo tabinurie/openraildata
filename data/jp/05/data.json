@@ -1,0 +1,57 @@
+[
+  {
+    "id": "jp0501",
+    "endonym": "予讃線",
+    "exonym": "Yosan Line"
+  },
+  {
+    "id": "jp0502",
+    "endonym": "予讃線 (向井原 - 内子)",
+    "exonym": "Yosan Line (Mukaibara - Uchiko)"
+  },
+  {
+    "id": "jp0503",
+    "endonym": "予讃線 (新谷 - 伊予大洲)",
+    "exonym": "Yosan Line (Niiya - Iyo-Ozu)"
+  },
+  {
+    "id": "jp0504",
+    "endonym": "本四備讃線",
+    "exonym": "Honshi-Bisan Line"
+  },
+  {
+    "id": "jp0505",
+    "endonym": "内子線",
+    "exonym": "Uchiko Line"
+  },
+  {
+    "id": "jp0506",
+    "endonym": "予土線",
+    "exonym": "Yodo Line"
+  },
+  {
+    "id": "jp0507",
+    "endonym": "高徳線",
+    "exonym": "Kotoku Line"
+  },
+  {
+    "id": "jp0508",
+    "endonym": "鳴門線",
+    "exonym": "Naruto Line"
+  },
+  {
+    "id": "jp0509",
+    "endonym": "徳島線",
+    "exonym": "Tokushima Line"
+  },
+  {
+    "id": "jp050a",
+    "endonym": "牟岐線",
+    "exonym": "Mugi Line"
+  },
+  {
+    "id": "jp050b",
+    "endonym": "土讃線",
+    "exonym": "Dosan Line"
+  }
+]

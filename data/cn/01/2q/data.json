@@ -1,0 +1,312 @@
+[
+  {
+    "id": "cn012q01",
+    "endonym": "杭州东",
+    "exonym": "Hangzhou East"
+  },
+  {
+    "id": "cn012q02",
+    "endonym": "杭州南",
+    "exonym": "Hangzhou South"
+  },
+  {
+    "id": "cn012q03",
+    "endonym": "绍兴北",
+    "exonym": "Shaoxing North"
+  },
+  {
+    "id": "cn012q04",
+    "endonym": "绍兴东",
+    "exonym": "Shaoxing East"
+  },
+  {
+    "id": "cn012q05",
+    "endonym": "余姚北",
+    "exonym": "Yuyao North"
+  },
+  {
+    "id": "cn012q06",
+    "endonym": "庄桥",
+    "exonym": "Zhuangqiao"
+  },
+  {
+    "id": "cn012q07",
+    "endonym": "宁波",
+    "exonym": "Ningbo"
+  },
+  {
+    "id": "cn012q08",
+    "endonym": "宁波东",
+    "exonym": "Ningbo East"
+  },
+  {
+    "id": "cn012q09",
+    "endonym": "云龙",
+    "exonym": "Yunlong"
+  },
+  {
+    "id": "cn012q0a",
+    "endonym": "奉化",
+    "exonym": "Fenghua"
+  },
+  {
+    "id": "cn012q0b",
+    "endonym": "宁海",
+    "exonym": "Ninghai"
+  },
+  {
+    "id": "cn012q0c",
+    "endonym": "三门县",
+    "exonym": "Sanmenxian"
+  },
+  {
+    "id": "cn012q0d",
+    "endonym": "临海",
+    "exonym": "Linhai"
+  },
+  {
+    "id": "cn012q0e",
+    "endonym": "台州",
+    "exonym": "Taizhou"
+  },
+  {
+    "id": "cn012q0f",
+    "endonym": "台州南",
+    "exonym": "Taizhou South"
+  },
+  {
+    "id": "cn012q0g",
+    "endonym": "温岭",
+    "exonym": "Wenling"
+  },
+  {
+    "id": "cn012q0h",
+    "endonym": "雁荡山",
+    "exonym": "Yandangshan"
+  },
+  {
+    "id": "cn012q0i",
+    "endonym": "绅坊",
+    "exonym": "Shenfang"
+  },
+  {
+    "id": "cn012q0j",
+    "endonym": "乐清",
+    "exonym": "Yueqing"
+  },
+  {
+    "id": "cn012q0k",
+    "endonym": "永嘉",
+    "exonym": "Yongjia"
+  },
+  {
+    "id": "cn012q0l",
+    "endonym": "温州南",
+    "exonym": "Wenzhou South"
+  },
+  {
+    "id": "cn012q0m",
+    "endonym": "瑞安",
+    "exonym": "Rui'an"
+  },
+  {
+    "id": "cn012q0n",
+    "endonym": "平阳",
+    "exonym": "Pingyang"
+  },
+  {
+    "id": "cn012q0o",
+    "endonym": "苍南",
+    "exonym": "Cangnan"
+  },
+  {
+    "id": "cn012q0p",
+    "endonym": "福鼎",
+    "exonym": "Fuding"
+  },
+  {
+    "id": "cn012q0q",
+    "endonym": "太姥山",
+    "exonym": "Taimushan"
+  },
+  {
+    "id": "cn012q0r",
+    "endonym": "霞浦",
+    "exonym": "Xiapu"
+  },
+  {
+    "id": "cn012q0s",
+    "endonym": "福安",
+    "exonym": "Fu'an"
+  },
+  {
+    "id": "cn012q0t",
+    "endonym": "宁德",
+    "exonym": "Ningde"
+  },
+  {
+    "id": "cn012q0u",
+    "endonym": "罗源",
+    "exonym": "Luoyuan"
+  },
+  {
+    "id": "cn012q0v",
+    "endonym": "透堡",
+    "exonym": "Toubao"
+  },
+  {
+    "id": "cn012q0w",
+    "endonym": "连江",
+    "exonym": "Lianjiang"
+  },
+  {
+    "id": "cn012q0x",
+    "endonym": "福州南",
+    "exonym": "Fuzhou South"
+  },
+  {
+    "id": "cn012q0y",
+    "endonym": "福清",
+    "exonym": "Fuqing"
+  },
+  {
+    "id": "cn012q0z",
+    "endonym": "渔溪",
+    "exonym": "Yuxi"
+  },
+  {
+    "id": "cn012q10",
+    "endonym": "涵江",
+    "exonym": "Hanjiang"
+  },
+  {
+    "id": "cn012q11",
+    "endonym": "莆田",
+    "exonym": "Putian"
+  },
+  {
+    "id": "cn012q12",
+    "endonym": "仙游",
+    "exonym": "Xianyou"
+  },
+  {
+    "id": "cn012q13",
+    "endonym": "惠安",
+    "exonym": "Hui'an"
+  },
+  {
+    "id": "cn012q14",
+    "endonym": "泉州",
+    "exonym": "Quanzhou"
+  },
+  {
+    "id": "cn012q15",
+    "endonym": "晋江",
+    "exonym": "Jinjiang"
+  },
+  {
+    "id": "cn012q16",
+    "endonym": "翔安",
+    "exonym": "Xiang'an"
+  },
+  {
+    "id": "cn012q17",
+    "endonym": "厦门北",
+    "exonym": "Xiamen North"
+  },
+  {
+    "id": "cn012q18",
+    "endonym": "前场",
+    "exonym": "Qianchang"
+  },
+  {
+    "id": "cn012q19",
+    "endonym": "角美",
+    "exonym": "Jiaomei"
+  },
+  {
+    "id": "cn012q1a",
+    "endonym": "漳州",
+    "exonym": "Zhangzhou"
+  },
+  {
+    "id": "cn012q1b",
+    "endonym": "漳浦",
+    "exonym": "Zhangpu"
+  },
+  {
+    "id": "cn012q1c",
+    "endonym": "云霄",
+    "exonym": "Yunxiao"
+  },
+  {
+    "id": "cn012q1d",
+    "endonym": "诏安",
+    "exonym": "Zhao'an"
+  },
+  {
+    "id": "cn012q1e",
+    "endonym": "饶平",
+    "exonym": "Raoping"
+  },
+  {
+    "id": "cn012q1f",
+    "endonym": "韩江桥所",
+    "exonym": "Hanjiangqiaosuo"
+  },
+  {
+    "id": "cn012q1g",
+    "endonym": "潮汕",
+    "exonym": "Chaoshan"
+  },
+  {
+    "id": "cn012q1h",
+    "endonym": "潮阳",
+    "exonym": "Chaoyang"
+  },
+  {
+    "id": "cn012q1i",
+    "endonym": "普宁",
+    "exonym": "Puning"
+  },
+  {
+    "id": "cn012q1j",
+    "endonym": "葵潭",
+    "exonym": "Kuitan"
+  },
+  {
+    "id": "cn012q1k",
+    "endonym": "陆丰",
+    "exonym": "Lufeng"
+  },
+  {
+    "id": "cn012q1l",
+    "endonym": "汕尾",
+    "exonym": "Shanwei"
+  },
+  {
+    "id": "cn012q1m",
+    "endonym": "鲘门",
+    "exonym": "Houmen"
+  },
+  {
+    "id": "cn012q1n",
+    "endonym": "惠东",
+    "exonym": "Huidong"
+  },
+  {
+    "id": "cn012q1o",
+    "endonym": "惠州南",
+    "exonym": "Huizhou South"
+  },
+  {
+    "id": "cn012q1p",
+    "endonym": "深圳坪山",
+    "exonym": "Shenzhen Pingshan"
+  },
+  {
+    "id": "cn012q1q",
+    "endonym": "深圳北",
+    "exonym": "Shenzhen North"
+  }
+]

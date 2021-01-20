@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tw030101",
+    "endonym": "南港",
+    "exonym": "Nangang"
+  },
+  {
+    "id": "tw030102",
+    "endonym": "台北",
+    "exonym": "Taipei"
+  },
+  {
+    "id": "tw030103",
+    "endonym": "板橋",
+    "exonym": "Banqiao"
+  },
+  {
+    "id": "tw030104",
+    "endonym": "桃園",
+    "exonym": "Taoyuan"
+  },
+  {
+    "id": "tw030105",
+    "endonym": "新竹",
+    "exonym": "Hsinchu"
+  },
+  {
+    "id": "tw030106",
+    "endonym": "苗栗",
+    "exonym": "Miaoli"
+  },
+  {
+    "id": "tw030107",
+    "endonym": "台中",
+    "exonym": "Taichung"
+  },
+  {
+    "id": "tw030108",
+    "endonym": "彰化",
+    "exonym": "Changhua"
+  },
+  {
+    "id": "tw030109",
+    "endonym": "雲林",
+    "exonym": "Yunlin"
+  },
+  {
+    "id": "tw03010a",
+    "endonym": "嘉義",
+    "exonym": "Chiayi"
+  },
+  {
+    "id": "tw03010b",
+    "endonym": "台南",
+    "exonym": "Tainan"
+  },
+  {
+    "id": "tw03010c",
+    "endonym": "左營",
+    "exonym": "Zuoying"
+  }
+]

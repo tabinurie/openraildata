@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tw0101",
+    "endonym": "縱貫線 (北段)",
+    "exonym": "Main Line (Northern Section)"
+  },
+  {
+    "id": "tw0102",
+    "endonym": "海岸線",
+    "exonym": "Coast Line"
+  },
+  {
+    "id": "tw0103",
+    "endonym": "縱貫線 (南段)",
+    "exonym": "Main Line (Southern Section)"
+  },
+  {
+    "id": "tw0104",
+    "endonym": "臺中線",
+    "exonym": "Taichung Line"
+  },
+  {
+    "id": "tw0105",
+    "endonym": "成追線",
+    "exonym": "Chengzhui Line"
+  },
+  {
+    "id": "tw0106",
+    "endonym": "屏東線",
+    "exonym": "Pingtung Line"
+  },
+  {
+    "id": "tw0107",
+    "endonym": "宜蘭線",
+    "exonym": "Yilan Line"
+  },
+  {
+    "id": "tw0108",
+    "endonym": "北迴線",
+    "exonym": "North-Link Line"
+  },
+  {
+    "id": "tw0109",
+    "endonym": "臺東線",
+    "exonym": "Hualien-Taitung Line"
+  },
+  {
+    "id": "tw010a",
+    "endonym": "南迴線",
+    "exonym": "South-Link Line"
+  },
+  {
+    "id": "tw010b",
+    "endonym": "平溪線",
+    "exonym": "Pingxi Line"
+  },
+  {
+    "id": "tw010c",
+    "endonym": "深澳線",
+    "exonym": "Shen'ao Line"
+  },
+  {
+    "id": "tw010d",
+    "endonym": "內灣線",
+    "exonym": "Neiwan Line"
+  },
+  {
+    "id": "tw010e",
+    "endonym": "六家線",
+    "exonym": "Liujia Line"
+  },
+  {
+    "id": "tw010f",
+    "endonym": "集集線",
+    "exonym": "Ji-ji Line"
+  },
+  {
+    "id": "tw010g",
+    "endonym": "沙崙線",
+    "exonym": "Shalun Line"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tw01",
+    "endonym": "臺灣鐵路管理局",
+    "exonym": "Taiwan Railway Administration"
+  },
+  {
+    "id": "tw02",
+    "endonym": "阿里山森林鐵路",
+    "exonym": "Alishan Forest Railway"
+  },
+  {
+    "id": "tw03",
+    "endonym": "台灣高速鐵路",
+    "exonym": "Taiwan High Speed Rail"
+  },
+  {
+    "id": "tw04",
+    "endonym": "台北捷運",
+    "exonym": "Taipei Metro"
+  },
+  {
+    "id": "tw05",
+    "endonym": "高雄捷運",
+    "exonym": "Kaohsiung MRT"
+  },
+  {
+    "id": "tw06",
+    "endonym": "桃園捷運",
+    "exonym": "Taoyuan Metro"
+  },
+  {
+    "id": "tw07",
+    "endonym": "新北捷運",
+    "exonym": "New Taipei Metro"
+  },
+  {
+    "id": "tw08",
+    "endonym": "桃園國際機場股份有限公司",
+    "exonym": "Taoyuan International Airport Corporation"
+  }
+]

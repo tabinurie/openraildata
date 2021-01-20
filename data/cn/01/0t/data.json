@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cn010t01",
+    "endonym": "济南东",
+    "exonym": "Jinan East"
+  },
+  {
+    "id": "cn010t02",
+    "endonym": "章丘北",
+    "exonym": "Zhangqiu North"
+  },
+  {
+    "id": "cn010t03",
+    "endonym": "邹平",
+    "exonym": "Zouping"
+  },
+  {
+    "id": "cn010t04",
+    "endonym": "淄博北",
+    "exonym": "Zibo North"
+  },
+  {
+    "id": "cn010t05",
+    "endonym": "临淄北",
+    "exonym": "Linzi North"
+  },
+  {
+    "id": "cn010t06",
+    "endonym": "青州市北",
+    "exonym": "Qingzhoushi North"
+  },
+  {
+    "id": "cn010t07",
+    "endonym": "潍坊北",
+    "exonym": "Weifang North"
+  },
+  {
+    "id": "cn010t08",
+    "endonym": "高密北",
+    "exonym": "Gaomi North"
+  },
+  {
+    "id": "cn010t09",
+    "endonym": "胶州北",
+    "exonym": "Jiaozhou North"
+  },
+  {
+    "id": "cn010t0a",
+    "endonym": "青岛机场",
+    "exonym": "Qingdao Airport"
+  },
+  {
+    "id": "cn010t0b",
+    "endonym": "疃村所",
+    "exonym": "Tuancun Signal Base"
+  },
+  {
+    "id": "cn010t0c",
+    "endonym": "红岛",
+    "exonym": "Hongdao"
+  }
+]

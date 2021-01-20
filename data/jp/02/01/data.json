@@ -1,0 +1,152 @@
+[
+  {
+    "id": "jp020101",
+    "endonym": "東京",
+    "exonym": "Tokyo"
+  },
+  {
+    "id": "jp020102",
+    "endonym": "有楽町",
+    "exonym": "Yurakucho"
+  },
+  {
+    "id": "jp020103",
+    "endonym": "新橋",
+    "exonym": "Shimbashi"
+  },
+  {
+    "id": "jp020104",
+    "endonym": "浜松町",
+    "exonym": "Hamamatsucho"
+  },
+  {
+    "id": "jp020105",
+    "endonym": "田町",
+    "exonym": "Tamachi"
+  },
+  {
+    "id": "jp020106",
+    "endonym": "高輪ゲートウェイ",
+    "exonym": "Takanawa Gateway"
+  },
+  {
+    "id": "jp020107",
+    "endonym": "品川",
+    "exonym": "Shinagawa"
+  },
+  {
+    "id": "jp020108",
+    "endonym": "大井町",
+    "exonym": "Oimachi"
+  },
+  {
+    "id": "jp020109",
+    "endonym": "大森",
+    "exonym": "Omori"
+  },
+  {
+    "id": "jp02010a",
+    "endonym": "川崎",
+    "exonym": "Kawasaki"
+  },
+  {
+    "id": "jp02010b",
+    "endonym": "鶴見",
+    "exonym": "Tsurumi"
+  },
+  {
+    "id": "jp02010c",
+    "endonym": "新子安",
+    "exonym": "Shin-Koyasu"
+  },
+  {
+    "id": "jp02010d",
+    "endonym": "東神奈川",
+    "exonym": "Higashi-Kanagawa"
+  },
+  {
+    "id": "jp02010e",
+    "endonym": "横浜",
+    "exonym": "Yokohama"
+  },
+  {
+    "id": "jp02010f",
+    "endonym": "戸塚",
+    "exonym": "Totsuka"
+  },
+  {
+    "id": "jp02010g",
+    "endonym": "大船",
+    "exonym": "Ofuna"
+  },
+  {
+    "id": "jp02010h",
+    "endonym": "藤沢",
+    "exonym": "Fujisawa"
+  },
+  {
+    "id": "jp02010i",
+    "endonym": "辻堂",
+    "exonym": "Tsujido"
+  },
+  {
+    "id": "jp02010j",
+    "endonym": "茅ヶ崎",
+    "exonym": "Chigasaki"
+  },
+  {
+    "id": "jp02010k",
+    "endonym": "平塚",
+    "exonym": "Hiratsuka"
+  },
+  {
+    "id": "jp02010l",
+    "endonym": "大磯",
+    "exonym": "Oiso"
+  },
+  {
+    "id": "jp02010m",
+    "endonym": "二宮",
+    "exonym": "Ninomiya"
+  },
+  {
+    "id": "jp02010n",
+    "endonym": "国府津",
+    "exonym": "Kozu"
+  },
+  {
+    "id": "jp02010o",
+    "endonym": "鴨宮",
+    "exonym": "Kamonomiya"
+  },
+  {
+    "id": "jp02010p",
+    "endonym": "小田原",
+    "exonym": "Odawara"
+  },
+  {
+    "id": "jp02010q",
+    "endonym": "早川",
+    "exonym": "Hayakawa"
+  },
+  {
+    "id": "jp02010r",
+    "endonym": "根府川",
+    "exonym": "Nebukawa"
+  },
+  {
+    "id": "jp02010s",
+    "endonym": "真鶴",
+    "exonym": "Manazuru"
+  },
+  {
+    "id": "jp02010t",
+    "endonym": "湯河原",
+    "exonym": "Yugawara"
+  },
+  {
+    "id": "jp02010u",
+    "endonym": "熱海",
+    "exonym": "Atami"
+  }
+]

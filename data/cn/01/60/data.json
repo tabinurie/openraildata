@@ -1,0 +1,342 @@
+[
+  {
+    "id": "cn016001",
+    "endonym": "沙河",
+    "exonym": "Shahe"
+  },
+  {
+    "id": "cn016002",
+    "endonym": "昌平",
+    "exonym": "Changping"
+  },
+  {
+    "id": "cn016003",
+    "endonym": "南口",
+    "exonym": "Nankou"
+  },
+  {
+    "id": "cn016004",
+    "endonym": "东园",
+    "exonym": "Dongyuan"
+  },
+  {
+    "id": "cn016005",
+    "endonym": "居庸关",
+    "exonym": "Juyongguan"
+  },
+  {
+    "id": "cn016006",
+    "endonym": "三堡",
+    "exonym": "Sanbu"
+  },
+  {
+    "id": "cn016007",
+    "endonym": "青龙桥西",
+    "exonym": "Qinglongqiao West"
+  },
+  {
+    "id": "cn016008",
+    "endonym": "青龙桥",
+    "exonym": "Qinglongqiao"
+  },
+  {
+    "id": "cn016009",
+    "endonym": "八达岭",
+    "exonym": "Badaling"
+  },
+  {
+    "id": "cn01600a",
+    "endonym": "康庄",
+    "exonym": "Kangzhuang"
+  },
+  {
+    "id": "cn01600b",
+    "endonym": "东花园",
+    "exonym": "Donghuayuan"
+  },
+  {
+    "id": "cn01600c",
+    "endonym": "狼山",
+    "exonym": "Langshan"
+  },
+  {
+    "id": "cn01600d",
+    "endonym": "土木",
+    "exonym": "Tumu"
+  },
+  {
+    "id": "cn01600e",
+    "endonym": "沙城",
+    "exonym": "Shacheng"
+  },
+  {
+    "id": "cn01600f",
+    "endonym": "新保安",
+    "exonym": "Xinbao'an"
+  },
+  {
+    "id": "cn01600g",
+    "endonym": "西八里",
+    "exonym": "Xibali"
+  },
+  {
+    "id": "cn01600h",
+    "endonym": "下花园",
+    "exonym": "Xiahuayuan"
+  },
+  {
+    "id": "cn01600i",
+    "endonym": "辛庄子",
+    "exonym": "Xinzhuangzi"
+  },
+  {
+    "id": "cn01600j",
+    "endonym": "宣化",
+    "exonym": "Xuanhua"
+  },
+  {
+    "id": "cn01600k",
+    "endonym": "沙岭子",
+    "exonym": "Shalingzi"
+  },
+  {
+    "id": "cn01600l",
+    "endonym": "张家口",
+    "exonym": "Zhangjiakou"
+  },
+  {
+    "id": "cn01600m",
+    "endonym": "孔家庄",
+    "exonym": "Kongjiazhuang"
+  },
+  {
+    "id": "cn01600n",
+    "endonym": "王玉庄",
+    "exonym": "Wangyuzhuang"
+  },
+  {
+    "id": "cn01600o",
+    "endonym": "郭磊庄",
+    "exonym": "Guoleizhuang"
+  },
+  {
+    "id": "cn01600p",
+    "endonym": "柴沟堡",
+    "exonym": "Chaigoubu"
+  },
+  {
+    "id": "cn01600q",
+    "endonym": "西湾堡",
+    "exonym": "Xiwanbu"
+  },
+  {
+    "id": "cn01600r",
+    "endonym": "永嘉堡",
+    "exonym": "Yongjiabu"
+  },
+  {
+    "id": "cn01600s",
+    "endonym": "天镇",
+    "exonym": "Tianzhen"
+  },
+  {
+    "id": "cn01600t",
+    "endonym": "罗文皂",
+    "exonym": "Luowenzao"
+  },
+  {
+    "id": "cn01600u",
+    "endonym": "阳高",
+    "exonym": "Yanggao"
+  },
+  {
+    "id": "cn01600v",
+    "endonym": "周士庄",
+    "exonym": "Zhoushizhuang"
+  },
+  {
+    "id": "cn01600w",
+    "endonym": "大同东",
+    "exonym": "Datong East"
+  },
+  {
+    "id": "cn01600x",
+    "endonym": "大同",
+    "exonym": "Datong"
+  },
+  {
+    "id": "cn01600y",
+    "endonym": "古店",
+    "exonym": "Gudian"
+  },
+  {
+    "id": "cn01600z",
+    "endonym": "孤山",
+    "exonym": "Gushan"
+  },
+  {
+    "id": "cn016010",
+    "endonym": "堡子湾",
+    "exonym": "Buziwan"
+  },
+  {
+    "id": "cn016011",
+    "endonym": "丰镇",
+    "exonym": "Fengzhen"
+  },
+  {
+    "id": "cn016012",
+    "endonym": "新安庄",
+    "exonym": "Xin'anzhuang"
+  },
+  {
+    "id": "cn016013",
+    "endonym": "红砂坝",
+    "exonym": "Hongshaba"
+  },
+  {
+    "id": "cn016014",
+    "endonym": "土贵乌拉",
+    "exonym": "Tuguiwula"
+  },
+  {
+    "id": "cn016015",
+    "endonym": "苏集",
+    "exonym": "Suji"
+  },
+  {
+    "id": "cn016016",
+    "endonym": "古营盘",
+    "exonym": "Guyingpan"
+  },
+  {
+    "id": "cn016017",
+    "endonym": "集宁南",
+    "exonym": "Jining South"
+  },
+  {
+    "id": "cn016018",
+    "endonym": "葫芦",
+    "exonym": "Hulu"
+  },
+  {
+    "id": "cn016019",
+    "endonym": "八苏木",
+    "exonym": "Basumu"
+  },
+  {
+    "id": "cn01601a",
+    "endonym": "十八台",
+    "exonym": "Shibatai"
+  },
+  {
+    "id": "cn01601b",
+    "endonym": "马盖图",
+    "exonym": "Magaitu"
+  },
+  {
+    "id": "cn01601c",
+    "endonym": "姑家堡",
+    "exonym": "Gujiabao"
+  },
+  {
+    "id": "cn01601d",
+    "endonym": "卓资山",
+    "exonym": "Zhuozishan"
+  },
+  {
+    "id": "cn01601e",
+    "endonym": "福生庄",
+    "exonym": "Fushengzhuang"
+  },
+  {
+    "id": "cn01601f",
+    "endonym": "三道营",
+    "exonym": "Sandaoying"
+  },
+  {
+    "id": "cn01601g",
+    "endonym": "旗下营",
+    "exonym": "Qixiaying"
+  },
+  {
+    "id": "cn01601h",
+    "endonym": "民族",
+    "exonym": "Minzu"
+  },
+  {
+    "id": "cn01601i",
+    "endonym": "陶卜齐",
+    "exonym": "Taoboqi"
+  },
+  {
+    "id": "cn01601j",
+    "endonym": "沙良",
+    "exonym": "Shaliang"
+  },
+  {
+    "id": "cn01601k",
+    "endonym": "呼和浩特南",
+    "exonym": "Hohhot South"
+  },
+  {
+    "id": "cn01601l",
+    "endonym": "瓜房子",
+    "exonym": "Guafangzi"
+  },
+  {
+    "id": "cn01601m",
+    "endonym": "毕克齐",
+    "exonym": "Bikeqi"
+  },
+  {
+    "id": "cn01601n",
+    "endonym": "察素齐",
+    "exonym": "Chasuqi"
+  },
+  {
+    "id": "cn01601o",
+    "endonym": "陶思浩",
+    "exonym": "Taosihao"
+  },
+  {
+    "id": "cn01601p",
+    "endonym": "美岱召",
+    "exonym": "Meidaizhao"
+  },
+  {
+    "id": "cn01601q",
+    "endonym": "萨拉齐东",
+    "exonym": "Salaqi East"
+  },
+  {
+    "id": "cn01601r",
+    "endonym": "公积坂",
+    "exonym": "Gongjiban"
+  },
+  {
+    "id": "cn01601s",
+    "endonym": "东兴",
+    "exonym": "Dongxing"
+  },
+  {
+    "id": "cn01601t",
+    "endonym": "古城湾",
+    "exonym": "Guchengwan"
+  },
+  {
+    "id": "cn01601u",
+    "endonym": "包头东",
+    "exonym": "Baotou East"
+  },
+  {
+    "id": "cn01601v",
+    "endonym": "万水泉",
+    "exonym": "Wanshuiquan"
+  },
+  {
+    "id": "cn01601w",
+    "endonym": "包头",
+    "exonym": "Baotou"
+  }
+]

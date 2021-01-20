@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kr040101",
+    "endonym": "서울역",
+    "exonym": "Seoul Station"
+  },
+  {
+    "id": "kr040102",
+    "endonym": "시청",
+    "exonym": "City Hall"
+  },
+  {
+    "id": "kr040103",
+    "endonym": "종각",
+    "exonym": "Jonggak"
+  },
+  {
+    "id": "kr040104",
+    "endonym": "종로3가",
+    "exonym": "Jongno 3(sam)-ga"
+  },
+  {
+    "id": "kr040105",
+    "endonym": "종로5가",
+    "exonym": "Jongno 5(o)-ga"
+  },
+  {
+    "id": "kr040106",
+    "endonym": "동대문",
+    "exonym": "Dongdaemun"
+  },
+  {
+    "id": "kr040107",
+    "endonym": "동묘앞",
+    "exonym": "Dongmyo"
+  },
+  {
+    "id": "kr040108",
+    "endonym": "신설동",
+    "exonym": "Sinseol-dong"
+  },
+  {
+    "id": "kr040109",
+    "endonym": "제기동",
+    "exonym": "Jegi-dong"
+  },
+  {
+    "id": "kr04010a",
+    "endonym": "청량리",
+    "exonym": "Cheongnyangni"
+  }
+]

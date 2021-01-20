@@ -1,0 +1,837 @@
+[
+  {
+    "id": "vn010101",
+    "endonym": "Hà Nội",
+    "exonym": "Hanoi"
+  },
+  {
+    "id": "vn010102",
+    "endonym": "Giáp Bát",
+    "exonym": "Giap Bat"
+  },
+  {
+    "id": "vn010103",
+    "endonym": "Văn Điển",
+    "exonym": "Van Dien"
+  },
+  {
+    "id": "vn010104",
+    "endonym": "Thường Tín",
+    "exonym": "Thuong Tin"
+  },
+  {
+    "id": "vn010105",
+    "endonym": "Chợ Tía",
+    "exonym": "Cho Tia"
+  },
+  {
+    "id": "vn010106",
+    "endonym": "Vạn Điểm",
+    "exonym": "Van Diem"
+  },
+  {
+    "id": "vn010107",
+    "endonym": "Phú Xuyên",
+    "exonym": "Phu Xuyen"
+  },
+  {
+    "id": "vn010108",
+    "endonym": "Đồng Văn",
+    "exonym": "Dong Van"
+  },
+  {
+    "id": "vn010109",
+    "endonym": "Phủ Lý",
+    "exonym": "Phu Ly"
+  },
+  {
+    "id": "vn01010a",
+    "endonym": "Bình Lục",
+    "exonym": "Binh Luc"
+  },
+  {
+    "id": "vn01010b",
+    "endonym": "Cầu Họ",
+    "exonym": "Cau Ho"
+  },
+  {
+    "id": "vn01010c",
+    "endonym": "Đặng Xá",
+    "exonym": "Dang Xa"
+  },
+  {
+    "id": "vn01010d",
+    "endonym": "Nam Định",
+    "exonym": "Nam Dinh"
+  },
+  {
+    "id": "vn01010e",
+    "endonym": "Trình Xuyên",
+    "exonym": "Trinh Xuyen"
+  },
+  {
+    "id": "vn01010f",
+    "endonym": "Núi Gôi",
+    "exonym": "Nui Goi"
+  },
+  {
+    "id": "vn01010g",
+    "endonym": "Cát Đằng",
+    "exonym": "Cat Dang"
+  },
+  {
+    "id": "vn01010h",
+    "endonym": "Ninh Bình",
+    "exonym": "Ninh Binh"
+  },
+  {
+    "id": "vn01010i",
+    "endonym": "Cầu Yên",
+    "exonym": "Cau Yen"
+  },
+  {
+    "id": "vn01010j",
+    "endonym": "Ghềnh",
+    "exonym": "Ghenh"
+  },
+  {
+    "id": "vn01010k",
+    "endonym": "Đồng Giao",
+    "exonym": "Dong Giao"
+  },
+  {
+    "id": "vn01010l",
+    "endonym": "Bỉm Sơn",
+    "exonym": "Bim Son"
+  },
+  {
+    "id": "vn01010m",
+    "endonym": "Đò Lèn",
+    "exonym": "Do Len"
+  },
+  {
+    "id": "vn01010n",
+    "endonym": "Nghĩa Trang",
+    "exonym": "Nghia Trang"
+  },
+  {
+    "id": "vn01010o",
+    "endonym": "Thanh Hóa",
+    "exonym": "Thanh Hoa"
+  },
+  {
+    "id": "vn01010p",
+    "endonym": "Yên Thái",
+    "exonym": "Yen Thai"
+  },
+  {
+    "id": "vn01010q",
+    "endonym": "Minh Khôi",
+    "exonym": "Minh Khoi"
+  },
+  {
+    "id": "vn01010r",
+    "endonym": "Thị Long",
+    "exonym": "Thi Long"
+  },
+  {
+    "id": "vn01010s",
+    "endonym": "Văn Trai",
+    "exonym": "Van Trai"
+  },
+  {
+    "id": "vn01010t",
+    "endonym": "Khoa Trường",
+    "exonym": "Khoa Truong"
+  },
+  {
+    "id": "vn01010u",
+    "endonym": "Trường Lâm",
+    "exonym": "Truong Lam"
+  },
+  {
+    "id": "vn01010v",
+    "endonym": "Hoàng Mai",
+    "exonym": "Hoang Mai"
+  },
+  {
+    "id": "vn01010w",
+    "endonym": "Cầu Giát",
+    "exonym": "Cau Giat"
+  },
+  {
+    "id": "vn01010x",
+    "endonym": "Yên Lý",
+    "exonym": "Yen Ly"
+  },
+  {
+    "id": "vn01010y",
+    "endonym": "Chợ Sy",
+    "exonym": "Cho Sy"
+  },
+  {
+    "id": "vn01010z",
+    "endonym": "Mỹ Lý",
+    "exonym": "My Ly"
+  },
+  {
+    "id": "vn010110",
+    "endonym": "Quán Hành",
+    "exonym": "Quan Hanh"
+  },
+  {
+    "id": "vn010111",
+    "endonym": "Vinh",
+    "exonym": "Vinh"
+  },
+  {
+    "id": "vn010112",
+    "endonym": "Yên Xuân",
+    "exonym": "Yen Xuan"
+  },
+  {
+    "id": "vn010113",
+    "endonym": "Yên Trung",
+    "exonym": "Yen Trung"
+  },
+  {
+    "id": "vn010114",
+    "endonym": "Đức Lạc",
+    "exonym": "Duc Lac"
+  },
+  {
+    "id": "vn010115",
+    "endonym": "Yên Duệ",
+    "exonym": "Yen Due"
+  },
+  {
+    "id": "vn010116",
+    "endonym": "Hoà Duyệt",
+    "exonym": "Hoa Duyet"
+  },
+  {
+    "id": "vn010117",
+    "endonym": "Thanh Luyện",
+    "exonym": "Thanh Luyen"
+  },
+  {
+    "id": "vn010118",
+    "endonym": "Chu Lễ",
+    "exonym": "Chu Le"
+  },
+  {
+    "id": "vn010119",
+    "endonym": "Hương Phố",
+    "exonym": "Huong Pho"
+  },
+  {
+    "id": "vn01011a",
+    "endonym": "Phúc Trạch",
+    "exonym": "Phuc Trach"
+  },
+  {
+    "id": "vn01011b",
+    "endonym": "La Khê",
+    "exonym": "La Khe"
+  },
+  {
+    "id": "vn01011c",
+    "endonym": "Tân Ấp",
+    "exonym": "Tan Ap"
+  },
+  {
+    "id": "vn01011d",
+    "endonym": "Đồng Chuối",
+    "exonym": "Dong Chuoi"
+  },
+  {
+    "id": "vn01011e",
+    "endonym": "Kim Lũ",
+    "exonym": "Kim Lu"
+  },
+  {
+    "id": "vn01011f",
+    "endonym": "Đồng Lê",
+    "exonym": "Dong Le"
+  },
+  {
+    "id": "vn01011g",
+    "endonym": "Ngọc Lâm",
+    "exonym": "Ngoc Lam"
+  },
+  {
+    "id": "vn01011h",
+    "endonym": "Lạc Sơn",
+    "exonym": "Lac Son"
+  },
+  {
+    "id": "vn01011i",
+    "endonym": "Lệ Sơn",
+    "exonym": "Le Son"
+  },
+  {
+    "id": "vn01011j",
+    "endonym": "Minh Lệ",
+    "exonym": "Minh Le"
+  },
+  {
+    "id": "vn01011k",
+    "endonym": "Ngân Sơn",
+    "exonym": "Ngan Son"
+  },
+  {
+    "id": "vn01011l",
+    "endonym": "Thọ Lộc",
+    "exonym": "Tho Loc"
+  },
+  {
+    "id": "vn01011m",
+    "endonym": "Hoàn Lão",
+    "exonym": "Hoan Lao"
+  },
+  {
+    "id": "vn01011n",
+    "endonym": "Phúc Tự",
+    "exonym": "Phuc Tu"
+  },
+  {
+    "id": "vn01011o",
+    "endonym": "Đồng Hới",
+    "exonym": "Dong Hoi"
+  },
+  {
+    "id": "vn01011p",
+    "endonym": "Lệ Kỳ",
+    "exonym": "Le Ky"
+  },
+  {
+    "id": "vn01011q",
+    "endonym": "Long Đại",
+    "exonym": "Long Dai"
+  },
+  {
+    "id": "vn01011r",
+    "endonym": "Mỹ Đức",
+    "exonym": "My Duc"
+  },
+  {
+    "id": "vn01011s",
+    "endonym": "Phú Hòa",
+    "exonym": "Phu Hoa"
+  },
+  {
+    "id": "vn01011t",
+    "endonym": "Mỹ Trạch",
+    "exonym": "My Trach"
+  },
+  {
+    "id": "vn01011u",
+    "endonym": "Thượng Lâm",
+    "exonym": "Thuong Lam"
+  },
+  {
+    "id": "vn01011v",
+    "endonym": "Sa Lung",
+    "exonym": "Sa Lung"
+  },
+  {
+    "id": "vn01011w",
+    "endonym": "Tiên An",
+    "exonym": "Tien An"
+  },
+  {
+    "id": "vn01011x",
+    "endonym": "Hà Thanh",
+    "exonym": "Ha Thanh"
+  },
+  {
+    "id": "vn01011y",
+    "endonym": "Đông Hà",
+    "exonym": "Dong Ha"
+  },
+  {
+    "id": "vn01011z",
+    "endonym": "Quảng Trị",
+    "exonym": "Quang Tri"
+  },
+  {
+    "id": "vn010120",
+    "endonym": "Diên Sanh",
+    "exonym": "Dien Sanh"
+  },
+  {
+    "id": "vn010121",
+    "endonym": "Mỹ Chánh",
+    "exonym": "My Chanh"
+  },
+  {
+    "id": "vn010122",
+    "endonym": "Phò Trạch",
+    "exonym": "Pho Trach"
+  },
+  {
+    "id": "vn010123",
+    "endonym": "Hiền Sỹ",
+    "exonym": "Hien Sy"
+  },
+  {
+    "id": "vn010124",
+    "endonym": "Văn Xá",
+    "exonym": "Van Xa"
+  },
+  {
+    "id": "vn010125",
+    "endonym": "Huế",
+    "exonym": "Hue"
+  },
+  {
+    "id": "vn010126",
+    "endonym": "Hương Thuỷ",
+    "exonym": "Huong Thuy"
+  },
+  {
+    "id": "vn010127",
+    "endonym": "Truồi",
+    "exonym": "Truoi"
+  },
+  {
+    "id": "vn010128",
+    "endonym": "Cầu Hai",
+    "exonym": "Cau Hai"
+  },
+  {
+    "id": "vn010129",
+    "endonym": "Thừa Lưu",
+    "exonym": "Thua Luu"
+  },
+  {
+    "id": "vn01012a",
+    "endonym": "Lăng Cô",
+    "exonym": "Lang Co"
+  },
+  {
+    "id": "vn01012b",
+    "endonym": "Hải Vân Bắc",
+    "exonym": "Hai Van Bac"
+  },
+  {
+    "id": "vn01012c",
+    "endonym": "Hải Vân",
+    "exonym": "Hai Van"
+  },
+  {
+    "id": "vn01012d",
+    "endonym": "Hải Vân Nam",
+    "exonym": "Hai Van Nam"
+  },
+  {
+    "id": "vn01012e",
+    "endonym": "Kim Liên",
+    "exonym": "Kim Lien"
+  },
+  {
+    "id": "vn01012f",
+    "endonym": "Thanh Khê",
+    "exonym": "Thanh Khe"
+  },
+  {
+    "id": "vn01012g",
+    "endonym": "Đà Nẵng",
+    "exonym": "Da Nang"
+  },
+  {
+    "id": "vn01012h",
+    "endonym": "Lệ Trạch",
+    "exonym": "Le Trach"
+  },
+  {
+    "id": "vn01012i",
+    "endonym": "Nông Sơn",
+    "exonym": "Nong Son"
+  },
+  {
+    "id": "vn01012j",
+    "endonym": "Trà Kiệu",
+    "exonym": "Tra Kieu"
+  },
+  {
+    "id": "vn01012k",
+    "endonym": "Phú Cang",
+    "exonym": "Phu Cang"
+  },
+  {
+    "id": "vn01012l",
+    "endonym": "An Mỹ",
+    "exonym": "An My"
+  },
+  {
+    "id": "vn01012m",
+    "endonym": "Tam Kỳ",
+    "exonym": "Tam Ky"
+  },
+  {
+    "id": "vn01012n",
+    "endonym": "Diêm Phổ",
+    "exonym": "Diem Pho"
+  },
+  {
+    "id": "vn01012o",
+    "endonym": "Núi Thành",
+    "exonym": "Nui Thanh"
+  },
+  {
+    "id": "vn01012p",
+    "endonym": "Trị Bình",
+    "exonym": "Tri Binh"
+  },
+  {
+    "id": "vn01012q",
+    "endonym": "Bình Sơn",
+    "exonym": "Binh Son"
+  },
+  {
+    "id": "vn01012r",
+    "endonym": "Đại Lộc",
+    "exonym": "Dai Loc"
+  },
+  {
+    "id": "vn01012s",
+    "endonym": "Quảng Ngãi",
+    "exonym": "Quang Ngai"
+  },
+  {
+    "id": "vn01012t",
+    "endonym": "Hòa Vinh Tây",
+    "exonym": "Hoa Vinh Tay"
+  },
+  {
+    "id": "vn01012u",
+    "endonym": "Mộ Đức",
+    "exonym": "Mo Duc"
+  },
+  {
+    "id": "vn01012v",
+    "endonym": "Thạch Trụ",
+    "exonym": "Thach Tru"
+  },
+  {
+    "id": "vn01012w",
+    "endonym": "Đức Phổ",
+    "exonym": "Duc Pho"
+  },
+  {
+    "id": "vn01012x",
+    "endonym": "Thủy Trạch",
+    "exonym": "Thuy Trach"
+  },
+  {
+    "id": "vn01012y",
+    "endonym": "Sa Huỳnh",
+    "exonym": "Sa Huynh"
+  },
+  {
+    "id": "vn01012z",
+    "endonym": "Tam Quan",
+    "exonym": "Tam Quan"
+  },
+  {
+    "id": "vn010130",
+    "endonym": "Bồng Sơn",
+    "exonym": "Bong Son"
+  },
+  {
+    "id": "vn010131",
+    "endonym": "Vạn Phú",
+    "exonym": "Van Phu"
+  },
+  {
+    "id": "vn010132",
+    "endonym": "Phù Mỹ",
+    "exonym": "Phu My"
+  },
+  {
+    "id": "vn010133",
+    "endonym": "Khánh Phước",
+    "exonym": "Khanh Phuoc"
+  },
+  {
+    "id": "vn010134",
+    "endonym": "Phù Cát",
+    "exonym": "Phu Cat"
+  },
+  {
+    "id": "vn010135",
+    "endonym": "Bình Định",
+    "exonym": "Binh Dinh"
+  },
+  {
+    "id": "vn010136",
+    "endonym": "Diêu Trì",
+    "exonym": "Dieu Tri"
+  },
+  {
+    "id": "vn010137",
+    "endonym": "Tân Vinh",
+    "exonym": "Tan Vinh"
+  },
+  {
+    "id": "vn010138",
+    "endonym": "Vân Canh",
+    "exonym": "Van Canh"
+  },
+  {
+    "id": "vn010139",
+    "endonym": "Phước Lãnh",
+    "exonym": "Phuoc Lanh"
+  },
+  {
+    "id": "vn01013a",
+    "endonym": "La Hai",
+    "exonym": "La Hai"
+  },
+  {
+    "id": "vn01013b",
+    "endonym": "Chí Thạnh",
+    "exonym": "Chi Thanh"
+  },
+  {
+    "id": "vn01013c",
+    "endonym": "Hòa Đa",
+    "exonym": "Hoa Da"
+  },
+  {
+    "id": "vn01013d",
+    "endonym": "Tuy Hòa",
+    "exonym": "Tuy Hoa"
+  },
+  {
+    "id": "vn01013e",
+    "endonym": "Đông Tác",
+    "exonym": "Dong Tac"
+  },
+  {
+    "id": "vn01013f",
+    "endonym": "Phú Hiệp",
+    "exonym": "Phu Hiep"
+  },
+  {
+    "id": "vn01013g",
+    "endonym": "Hảo Sơn",
+    "exonym": "Hao Son"
+  },
+  {
+    "id": "vn01013h",
+    "endonym": "Đại Lãnh",
+    "exonym": "Dai Lanh"
+  },
+  {
+    "id": "vn01013i",
+    "endonym": "Tu Bông",
+    "exonym": "Tu Bong"
+  },
+  {
+    "id": "vn01013j",
+    "endonym": "Giã",
+    "exonym": "Gia"
+  },
+  {
+    "id": "vn01013k",
+    "endonym": "Hòa Huỳnh",
+    "exonym": "Hoa Huynh"
+  },
+  {
+    "id": "vn01013l",
+    "endonym": "Ninh Hoà",
+    "exonym": "Ninh Hoa"
+  },
+  {
+    "id": "vn01013m",
+    "endonym": "Phong Thạnh",
+    "exonym": "Phong Thanh"
+  },
+  {
+    "id": "vn01013n",
+    "endonym": "Lương Sơn",
+    "exonym": "Luong Son"
+  },
+  {
+    "id": "vn01013o",
+    "endonym": "Nha Trang",
+    "exonym": "Nha Trang"
+  },
+  {
+    "id": "vn01013p",
+    "endonym": "Cây Cầy",
+    "exonym": "Cay Cay"
+  },
+  {
+    "id": "vn01013q",
+    "endonym": "Hòa Tân",
+    "exonym": "Hoa Tan"
+  },
+  {
+    "id": "vn01013r",
+    "endonym": "Suối Cát",
+    "exonym": "Suoi Cat"
+  },
+  {
+    "id": "vn01013s",
+    "endonym": "Ngã Ba",
+    "exonym": "Nga Ba"
+  },
+  {
+    "id": "vn01013t",
+    "endonym": "Cà Rôm",
+    "exonym": "Ca Rom"
+  },
+  {
+    "id": "vn01013u",
+    "endonym": "Phước Nhơn",
+    "exonym": "Phuoc Nhon"
+  },
+  {
+    "id": "vn01013v",
+    "endonym": "Tháp Chàm",
+    "exonym": "Thap Cham"
+  },
+  {
+    "id": "vn01013w",
+    "endonym": "Hòa Trinh",
+    "exonym": "Hoa Trinh"
+  },
+  {
+    "id": "vn01013x",
+    "endonym": "Cà Ná",
+    "exonym": "Ca Na"
+  },
+  {
+    "id": "vn01013y",
+    "endonym": "Vĩnh Hảo",
+    "exonym": "Vinh Hao"
+  },
+  {
+    "id": "vn01013z",
+    "endonym": "Sông Lòng Sông",
+    "exonym": "Song Long Song"
+  },
+  {
+    "id": "vn010140",
+    "endonym": "Sông Mao",
+    "exonym": "Song Mao"
+  },
+  {
+    "id": "vn010141",
+    "endonym": "Châu Hanh",
+    "exonym": "Chau Hanh"
+  },
+  {
+    "id": "vn010142",
+    "endonym": "Sông Lũy",
+    "exonym": "Song Luy"
+  },
+  {
+    "id": "vn010143",
+    "endonym": "Long Thạnh",
+    "exonym": "Long Thanh"
+  },
+  {
+    "id": "vn010144",
+    "endonym": "Ma Lâm",
+    "exonym": "Ma Lam"
+  },
+  {
+    "id": "vn010145",
+    "endonym": "Bình Thuận",
+    "exonym": "Binh Thuan"
+  },
+  {
+    "id": "vn010146",
+    "endonym": "Suối Vận",
+    "exonym": "Suoi Van"
+  },
+  {
+    "id": "vn010147",
+    "endonym": "Sông Phan",
+    "exonym": "Song Phan"
+  },
+  {
+    "id": "vn010148",
+    "endonym": "Sông Dinh",
+    "exonym": "Song Dinh"
+  },
+  {
+    "id": "vn010149",
+    "endonym": "Suối Kiết",
+    "exonym": "Suoi Kiet"
+  },
+  {
+    "id": "vn01014a",
+    "endonym": "Gia Huynh",
+    "exonym": "Gia Huynh"
+  },
+  {
+    "id": "vn01014b",
+    "endonym": "Trản Táo",
+    "exonym": "Tran Tao"
+  },
+  {
+    "id": "vn01014c",
+    "endonym": "Gia Ray",
+    "exonym": "Gia Ray"
+  },
+  {
+    "id": "vn01014d",
+    "endonym": "Bảo Chánh",
+    "exonym": "Bao Chanh"
+  },
+  {
+    "id": "vn01014e",
+    "endonym": "Long Khánh",
+    "exonym": "Long Khanh"
+  },
+  {
+    "id": "vn01014f",
+    "endonym": "Dầu Giây",
+    "exonym": "Dau Giay"
+  },
+  {
+    "id": "vn01014g",
+    "endonym": "Trảng Bom",
+    "exonym": "Trang Bom"
+  },
+  {
+    "id": "vn01014h",
+    "endonym": "Hố Nai",
+    "exonym": "Ho Nai"
+  },
+  {
+    "id": "vn01014i",
+    "endonym": "Biên Hòa",
+    "exonym": "Bien Hoa"
+  },
+  {
+    "id": "vn01014j",
+    "endonym": "Dĩ An",
+    "exonym": "Di An"
+  },
+  {
+    "id": "vn01014k",
+    "endonym": "Sóng Thần",
+    "exonym": "Song Than"
+  },
+  {
+    "id": "vn01014l",
+    "endonym": "Bình Triệu",
+    "exonym": "Binh Trieu"
+  },
+  {
+    "id": "vn01014m",
+    "endonym": "Gò Vấp",
+    "exonym": "Go Vap"
+  },
+  {
+    "id": "vn01014n",
+    "endonym": "Sài Gòn",
+    "exonym": "Sai Gon"
+  }
+]

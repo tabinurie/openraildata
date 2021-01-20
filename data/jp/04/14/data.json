@@ -1,0 +1,97 @@
+[
+  {
+    "id": "jp041401",
+    "endonym": "鳥取",
+    "exonym": "Tottori"
+  },
+  {
+    "id": "jp041402",
+    "endonym": "津ノ井",
+    "exonym": "Tsunoi"
+  },
+  {
+    "id": "jp041403",
+    "endonym": "東郡家",
+    "exonym": "Higashi-Koge"
+  },
+  {
+    "id": "jp041404",
+    "endonym": "郡家",
+    "exonym": "Koge"
+  },
+  {
+    "id": "jp041405",
+    "endonym": "河原",
+    "exonym": "Kawahara"
+  },
+  {
+    "id": "jp041406",
+    "endonym": "国英",
+    "exonym": "Kunifusa"
+  },
+  {
+    "id": "jp041407",
+    "endonym": "鷹狩",
+    "exonym": "Takagari"
+  },
+  {
+    "id": "jp041408",
+    "endonym": "用瀬",
+    "exonym": "Mochigase"
+  },
+  {
+    "id": "jp041409",
+    "endonym": "因幡社",
+    "exonym": "Inaba-Yashiro"
+  },
+  {
+    "id": "jp04140a",
+    "endonym": "智頭",
+    "exonym": "Chizu"
+  },
+  {
+    "id": "jp04140b",
+    "endonym": "土師",
+    "exonym": "Haji"
+  },
+  {
+    "id": "jp04140c",
+    "endonym": "那岐",
+    "exonym": "Nagi"
+  },
+  {
+    "id": "jp04140d",
+    "endonym": "美作河井",
+    "exonym": "Mimasaka-Kawai"
+  },
+  {
+    "id": "jp04140e",
+    "endonym": "知和",
+    "exonym": "Chiwa"
+  },
+  {
+    "id": "jp04140f",
+    "endonym": "美作加茂",
+    "exonym": "Mimasaka-Kamo"
+  },
+  {
+    "id": "jp04140g",
+    "endonym": "三浦",
+    "exonym": "Miura"
+  },
+  {
+    "id": "jp04140h",
+    "endonym": "美作滝尾",
+    "exonym": "Mimasaka-Takio"
+  },
+  {
+    "id": "jp04140i",
+    "endonym": "高野",
+    "exonym": "Takano"
+  },
+  {
+    "id": "jp04140j",
+    "endonym": "東津山",
+    "exonym": "Higashi-Tsuyama"
+  }
+]

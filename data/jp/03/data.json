@@ -1,0 +1,77 @@
+[
+  {
+    "id": "jp0301",
+    "endonym": "東海道本線",
+    "exonym": "Tokaido Main Line"
+  },
+  {
+    "id": "jp0302",
+    "endonym": "東海道本線 (美濃赤坂支線)",
+    "exonym": "Tokaido Main Line (Mino-Akasaka Branch)"
+  },
+  {
+    "id": "jp0303",
+    "endonym": "東海道本線 (新垂井経由)",
+    "exonym": "Tokaido Main Line (via Shin-Tarui)"
+  },
+  {
+    "id": "jp0304",
+    "endonym": "東海道新幹線",
+    "exonym": "Tokaido Shinkansen"
+  },
+  {
+    "id": "jp0305",
+    "endonym": "御殿場線",
+    "exonym": "Gotemba Line"
+  },
+  {
+    "id": "jp0306",
+    "endonym": "身延線",
+    "exonym": "Minobu Line"
+  },
+  {
+    "id": "jp0307",
+    "endonym": "飯田線",
+    "exonym": "Iida Line"
+  },
+  {
+    "id": "jp0308",
+    "endonym": "武豊線",
+    "exonym": "Taketoyo Line"
+  },
+  {
+    "id": "jp0309",
+    "endonym": "高山本線",
+    "exonym": "Takayama Main Line"
+  },
+  {
+    "id": "jp030a",
+    "endonym": "中央本線",
+    "exonym": "Chuo Main Line"
+  },
+  {
+    "id": "jp030b",
+    "endonym": "太多線",
+    "exonym": "Taita Line"
+  },
+  {
+    "id": "jp030c",
+    "endonym": "関西本線",
+    "exonym": "Kansai Main Line"
+  },
+  {
+    "id": "jp030d",
+    "endonym": "紀勢本線",
+    "exonym": "Kisei Main Line"
+  },
+  {
+    "id": "jp030e",
+    "endonym": "名松線",
+    "exonym": "Meisho Line"
+  },
+  {
+    "id": "jp030f",
+    "endonym": "参宮線",
+    "exonym": "Sangu Line"
+  }
+]

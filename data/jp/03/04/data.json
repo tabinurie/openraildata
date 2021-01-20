@@ -1,0 +1,87 @@
+[
+  {
+    "id": "jp030401",
+    "endonym": "東京",
+    "exonym": "Tokyo"
+  },
+  {
+    "id": "jp030402",
+    "endonym": "品川",
+    "exonym": "Shinagawa"
+  },
+  {
+    "id": "jp030403",
+    "endonym": "新横浜",
+    "exonym": "Shin-Yokohama"
+  },
+  {
+    "id": "jp030404",
+    "endonym": "小田原",
+    "exonym": "Odawara"
+  },
+  {
+    "id": "jp030405",
+    "endonym": "熱海",
+    "exonym": "Atami"
+  },
+  {
+    "id": "jp030406",
+    "endonym": "三島",
+    "exonym": "Mishima"
+  },
+  {
+    "id": "jp030407",
+    "endonym": "新富士",
+    "exonym": "Shin-Fuji"
+  },
+  {
+    "id": "jp030408",
+    "endonym": "静岡",
+    "exonym": "Shizuoka"
+  },
+  {
+    "id": "jp030409",
+    "endonym": "掛川",
+    "exonym": "Kakegawa"
+  },
+  {
+    "id": "jp03040a",
+    "endonym": "浜松",
+    "exonym": "Hamamatsu"
+  },
+  {
+    "id": "jp03040b",
+    "endonym": "豊橋",
+    "exonym": "Toyohashi"
+  },
+  {
+    "id": "jp03040c",
+    "endonym": "三河安城",
+    "exonym": "Mikawa-Anjo"
+  },
+  {
+    "id": "jp03040d",
+    "endonym": "名古屋",
+    "exonym": "Nagoya"
+  },
+  {
+    "id": "jp03040e",
+    "endonym": "岐阜羽島",
+    "exonym": "Gifu-Hashima"
+  },
+  {
+    "id": "jp03040f",
+    "endonym": "米原",
+    "exonym": "Maibara"
+  },
+  {
+    "id": "jp03040g",
+    "endonym": "京都",
+    "exonym": "Kyoto"
+  },
+  {
+    "id": "jp03040h",
+    "endonym": "新大阪",
+    "exonym": "Shin-Osaka"
+  }
+]

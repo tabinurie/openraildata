@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sg0201",
+    "endonym": "North South Line",
+    "exonym": "North South Line"
+  },
+  {
+    "id": "sg0202",
+    "endonym": "East West Line",
+    "exonym": "East West Line"
+  },
+  {
+    "id": "sg0203",
+    "endonym": "East West Line (Changi Airport Line)",
+    "exonym": "East West Line (Changi Airport Line)"
+  },
+  {
+    "id": "sg0204",
+    "endonym": "Circle Line",
+    "exonym": "Circle Line"
+  },
+  {
+    "id": "sg0205",
+    "endonym": "Circle Line (Extension)",
+    "exonym": "Circle Line (Extension)"
+  },
+  {
+    "id": "sg0206",
+    "endonym": "Thomson-East Coast Line",
+    "exonym": "Thomson-East Coast Line"
+  },
+  {
+    "id": "sg0207",
+    "endonym": "Bukit Panjang LRT line",
+    "exonym": "Bukit Panjang LRT line"
+  }
+]

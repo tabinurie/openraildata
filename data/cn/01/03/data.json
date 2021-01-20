@@ -1,0 +1,137 @@
+[
+  {
+    "id": "cn010301",
+    "endonym": "北京南",
+    "exonym": "Beijing South"
+  },
+  {
+    "id": "cn010302",
+    "endonym": "廊坊",
+    "exonym": "Langfang"
+  },
+  {
+    "id": "cn010303",
+    "endonym": "京津线路所",
+    "exonym": "Jingjin Signal Base"
+  },
+  {
+    "id": "cn010304",
+    "endonym": "津沪线路所",
+    "exonym": "Jinhu Signal Base"
+  },
+  {
+    "id": "cn010305",
+    "endonym": "天津南",
+    "exonym": "Tianjin South"
+  },
+  {
+    "id": "cn010306",
+    "endonym": "沧州西",
+    "exonym": "Cangzhou West"
+  },
+  {
+    "id": "cn010307",
+    "endonym": "德州东",
+    "exonym": "Dezhou East"
+  },
+  {
+    "id": "cn010308",
+    "endonym": "济南西",
+    "exonym": "Jinan West"
+  },
+  {
+    "id": "cn010309",
+    "endonym": "崔马庄线路所",
+    "exonym": "Cuimazhuang Signal Base"
+  },
+  {
+    "id": "cn01030a",
+    "endonym": "泰安",
+    "exonym": "Taian"
+  },
+  {
+    "id": "cn01030b",
+    "endonym": "曲阜东",
+    "exonym": "Qufu East"
+  },
+  {
+    "id": "cn01030c",
+    "endonym": "滕州东",
+    "exonym": "Tengzhou East"
+  },
+  {
+    "id": "cn01030d",
+    "endonym": "枣庄",
+    "exonym": "Zaozhuang"
+  },
+  {
+    "id": "cn01030e",
+    "endonym": "徐州东",
+    "exonym": "Xuzhou East"
+  },
+  {
+    "id": "cn01030f",
+    "endonym": "宿州东",
+    "exonym": "Suzhou East"
+  },
+  {
+    "id": "cn01030g",
+    "endonym": "蚌埠南",
+    "exonym": "Bengbu South"
+  },
+  {
+    "id": "cn01030h",
+    "endonym": "定远",
+    "exonym": "Dingyuan"
+  },
+  {
+    "id": "cn01030i",
+    "endonym": "滁州",
+    "exonym": "Chuzhou"
+  },
+  {
+    "id": "cn01030j",
+    "endonym": "南京南",
+    "exonym": "Nanjing South"
+  },
+  {
+    "id": "cn01030k",
+    "endonym": "镇江南",
+    "exonym": "Zhenjiang South"
+  },
+  {
+    "id": "cn01030l",
+    "endonym": "丹阳北",
+    "exonym": "Danyang North"
+  },
+  {
+    "id": "cn01030m",
+    "endonym": "常州北",
+    "exonym": "Changzhou North"
+  },
+  {
+    "id": "cn01030n",
+    "endonym": "无锡东",
+    "exonym": "Wuxi East"
+  },
+  {
+    "id": "cn01030o",
+    "endonym": "苏州北",
+    "exonym": "Suzhou North"
+  },
+  {
+    "id": "cn01030p",
+    "endonym": "昆山南",
+    "exonym": "Kunshan South"
+  },
+  {
+    "id": "cn01030q",
+    "endonym": "黄渡线路所",
+    "exonym": "Huangdu Signal Base"
+  },
+  {
+    "id": "cn01030r",
+    "endonym": "上海虹桥",
+    "exonym": "Shanghai Hongqiao"
+  }
+]

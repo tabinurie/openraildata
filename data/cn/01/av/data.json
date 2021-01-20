@@ -1,0 +1,442 @@
+[
+  {
+    "id": "cn01av01",
+    "endonym": "北京",
+    "exonym": "Beijing"
+  },
+  {
+    "id": "cn01av02",
+    "endonym": "北京东",
+    "exonym": "Beijing East"
+  },
+  {
+    "id": "cn01av03",
+    "endonym": "双桥",
+    "exonym": "Shuangqiao"
+  },
+  {
+    "id": "cn01av04",
+    "endonym": "通州",
+    "exonym": "Tongzhou"
+  },
+  {
+    "id": "cn01av05",
+    "endonym": "燕郊",
+    "exonym": "Yanjiao"
+  },
+  {
+    "id": "cn01av06",
+    "endonym": "大厂县",
+    "exonym": "Dachangxian"
+  },
+  {
+    "id": "cn01av07",
+    "endonym": "三平",
+    "exonym": "Sanping"
+  },
+  {
+    "id": "cn01av08",
+    "endonym": "三河县",
+    "exonym": "Sanhenxian"
+  },
+  {
+    "id": "cn01av09",
+    "endonym": "段甲岭",
+    "exonym": "Duanjialing"
+  },
+  {
+    "id": "cn01av0a",
+    "endonym": "蓟州",
+    "exonym": "Jizhou"
+  },
+  {
+    "id": "cn01av0b",
+    "endonym": "别山",
+    "exonym": "Bieshan"
+  },
+  {
+    "id": "cn01av0c",
+    "endonym": "螺山",
+    "exonym": "Luoshan"
+  },
+  {
+    "id": "cn01av0d",
+    "endonym": "玉田县",
+    "exonym": "Yutianxian"
+  },
+  {
+    "id": "cn01av0e",
+    "endonym": "富庄子",
+    "exonym": "Fuzhuangzi"
+  },
+  {
+    "id": "cn01av0f",
+    "endonym": "唐山北",
+    "exonym": "Tangshan North"
+  },
+  {
+    "id": "cn01av0g",
+    "endonym": "银城铺",
+    "exonym": "Yinchengpu"
+  },
+  {
+    "id": "cn01av0h",
+    "endonym": "狼窝铺",
+    "exonym": "Langwopu"
+  },
+  {
+    "id": "cn01av0i",
+    "endonym": "石郎庄",
+    "exonym": "Shilangzhuang"
+  },
+  {
+    "id": "cn01av0j",
+    "endonym": "福山寺",
+    "exonym": "Fushansi"
+  },
+  {
+    "id": "cn01av0k",
+    "endonym": "马柳",
+    "exonym": "Maliu"
+  },
+  {
+    "id": "cn01av0l",
+    "endonym": "杨各庄",
+    "exonym": "Yanggezhuang"
+  },
+  {
+    "id": "cn01av0m",
+    "endonym": "滦县",
+    "exonym": "Luanxian"
+  },
+  {
+    "id": "cn01av0n",
+    "endonym": "滦县东",
+    "exonym": "Luanxian East"
+  },
+  {
+    "id": "cn01av0o",
+    "endonym": "朱各庄",
+    "exonym": "Zhugezhuang"
+  },
+  {
+    "id": "cn01av0p",
+    "endonym": "石门",
+    "exonym": "Shimen"
+  },
+  {
+    "id": "cn01av0q",
+    "endonym": "九龙山",
+    "exonym": "Jiulongshan"
+  },
+  {
+    "id": "cn01av0r",
+    "endonym": "后封台",
+    "exonym": "Houfengtai"
+  },
+  {
+    "id": "cn01av0s",
+    "endonym": "昌黎",
+    "exonym": "Changli"
+  },
+  {
+    "id": "cn01av0t",
+    "endonym": "张家庄",
+    "exonym": "Zhangjiazhuang"
+  },
+  {
+    "id": "cn01av0u",
+    "endonym": "留守营",
+    "exonym": "Liushouying"
+  },
+  {
+    "id": "cn01av0v",
+    "endonym": "北戴河",
+    "exonym": "Beidaihe"
+  },
+  {
+    "id": "cn01av0w",
+    "endonym": "南大寺",
+    "exonym": "Nandasi"
+  },
+  {
+    "id": "cn01av0x",
+    "endonym": "秦皇岛",
+    "exonym": "Qinhuangdao"
+  },
+  {
+    "id": "cn01av0y",
+    "endonym": "龙家营",
+    "exonym": "Longjiaying"
+  },
+  {
+    "id": "cn01av0z",
+    "endonym": "龙家营线路所",
+    "exonym": "Longjiaying Signal Base"
+  },
+  {
+    "id": "cn01av10",
+    "endonym": "山海关",
+    "exonym": "Shanhaiguan"
+  },
+  {
+    "id": "cn01av11",
+    "endonym": "东戴河",
+    "exonym": "Dongdaihe"
+  },
+  {
+    "id": "cn01av12",
+    "endonym": "绥中北",
+    "exonym": "Suizhong North"
+  },
+  {
+    "id": "cn01av13",
+    "endonym": "葫芦岛北",
+    "exonym": "Huludao North"
+  },
+  {
+    "id": "cn01av14",
+    "endonym": "锦州南",
+    "exonym": "Jinzhou South"
+  },
+  {
+    "id": "cn01av15",
+    "endonym": "盘锦北",
+    "exonym": "Panjin North"
+  },
+  {
+    "id": "cn01av16",
+    "endonym": "台安",
+    "exonym": "Tai'an"
+  },
+  {
+    "id": "cn01av17",
+    "endonym": "辽中",
+    "exonym": "Liaozhong"
+  },
+  {
+    "id": "cn01av18",
+    "endonym": "皇姑屯",
+    "exonym": "Huanggutun"
+  },
+  {
+    "id": "cn01av19",
+    "endonym": "沈阳北",
+    "exonym": "Shenyang North"
+  },
+  {
+    "id": "cn01av1a",
+    "endonym": "文官屯",
+    "exonym": "Wenguantun"
+  },
+  {
+    "id": "cn01av1b",
+    "endonym": "虎石台",
+    "exonym": "Hushitai"
+  },
+  {
+    "id": "cn01av1c",
+    "endonym": "新城子",
+    "exonym": "Xinchengzi"
+  },
+  {
+    "id": "cn01av1d",
+    "endonym": "新台子",
+    "exonym": "Xintaizi"
+  },
+  {
+    "id": "cn01av1e",
+    "endonym": "乱石山",
+    "exonym": "Luanshishan"
+  },
+  {
+    "id": "cn01av1f",
+    "endonym": "得胜台",
+    "exonym": "Deshengtai"
+  },
+  {
+    "id": "cn01av1g",
+    "endonym": "铁岭",
+    "exonym": "Tieling"
+  },
+  {
+    "id": "cn01av1h",
+    "endonym": "平顶堡",
+    "exonym": "Pingdingpu"
+  },
+  {
+    "id": "cn01av1i",
+    "endonym": "中固",
+    "exonym": "Zhonggu"
+  },
+  {
+    "id": "cn01av1j",
+    "endonym": "开原",
+    "exonym": "Kaiyuan"
+  },
+  {
+    "id": "cn01av1k",
+    "endonym": "马仲河",
+    "exonym": "Mazhonghe"
+  },
+  {
+    "id": "cn01av1l",
+    "endonym": "昌图",
+    "exonym": "Changtu"
+  },
+  {
+    "id": "cn01av1m",
+    "endonym": "双庙子",
+    "exonym": "Shuangmiaozi"
+  },
+  {
+    "id": "cn01av1n",
+    "endonym": "毛家店",
+    "exonym": "Maojiadian"
+  },
+  {
+    "id": "cn01av1o",
+    "endonym": "四平",
+    "exonym": "Siping"
+  },
+  {
+    "id": "cn01av1p",
+    "endonym": "十家堡",
+    "exonym": "Shijiapu"
+  },
+  {
+    "id": "cn01av1q",
+    "endonym": "郭家店",
+    "exonym": "Guojiadian"
+  },
+  {
+    "id": "cn01av1r",
+    "endonym": "蔡家",
+    "exonym": "Caijia"
+  },
+  {
+    "id": "cn01av1s",
+    "endonym": "大榆树",
+    "exonym": "Dayushu"
+  },
+  {
+    "id": "cn01av1t",
+    "endonym": "公主岭",
+    "exonym": "Gongzhuling"
+  },
+  {
+    "id": "cn01av1u",
+    "endonym": "陶家屯",
+    "exonym": "Taojiatun"
+  },
+  {
+    "id": "cn01av1v",
+    "endonym": "范家屯",
+    "exonym": "Fanjiatun"
+  },
+  {
+    "id": "cn01av1w",
+    "endonym": "大屯",
+    "exonym": "Datun"
+  },
+  {
+    "id": "cn01av1x",
+    "endonym": "长春南",
+    "exonym": "Changchun South"
+  },
+  {
+    "id": "cn01av1y",
+    "endonym": "长春",
+    "exonym": "Changchun"
+  },
+  {
+    "id": "cn01av1z",
+    "endonym": "长春北",
+    "exonym": "Changchun North"
+  },
+  {
+    "id": "cn01av20",
+    "endonym": "一间堡",
+    "exonym": "Yijianpu"
+  },
+  {
+    "id": "cn01av21",
+    "endonym": "米沙子",
+    "exonym": "Mishazi"
+  },
+  {
+    "id": "cn01av22",
+    "endonym": "沃皮",
+    "exonym": "Wopi"
+  },
+  {
+    "id": "cn01av23",
+    "endonym": "布海",
+    "exonym": "Buhai"
+  },
+  {
+    "id": "cn01av24",
+    "endonym": "德惠",
+    "exonym": "Dehui"
+  },
+  {
+    "id": "cn01av25",
+    "endonym": "达家沟",
+    "exonym": "Dajiagou"
+  },
+  {
+    "id": "cn01av26",
+    "endonym": "姚家",
+    "exonym": "Yaojia"
+  },
+  {
+    "id": "cn01av27",
+    "endonym": "陶赖昭",
+    "exonym": "Taolaizhao"
+  },
+  {
+    "id": "cn01av28",
+    "endonym": "团山",
+    "exonym": "Tuanshan"
+  },
+  {
+    "id": "cn01av29",
+    "endonym": "扶余",
+    "exonym": "Fuyu"
+  },
+  {
+    "id": "cn01av2a",
+    "endonym": "蔡家沟",
+    "exonym": "Caijiagou"
+  },
+  {
+    "id": "cn01av2b",
+    "endonym": "兰棱",
+    "exonym": "Lanleng"
+  },
+  {
+    "id": "cn01av2c",
+    "endonym": "双城堡",
+    "exonym": "Shuangchengpu"
+  },
+  {
+    "id": "cn01av2d",
+    "endonym": "五家",
+    "exonym": "Wujia"
+  },
+  {
+    "id": "cn01av2e",
+    "endonym": "王岗",
+    "exonym": "Wanggang"
+  },
+  {
+    "id": "cn01av2f",
+    "endonym": "哈尔滨西",
+    "exonym": "Harbin West"
+  },
+  {
+    "id": "cn01av2g",
+    "endonym": "哈尔滨",
+    "exonym": "Harbin"
+  }
+]

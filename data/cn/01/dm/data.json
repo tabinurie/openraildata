@@ -1,0 +1,337 @@
+[
+  {
+    "id": "cn01dm01",
+    "endonym": "哈尔滨",
+    "exonym": "Harbin"
+  },
+  {
+    "id": "cn01dm02",
+    "endonym": "庙台子",
+    "exonym": "Miaotaizi"
+  },
+  {
+    "id": "cn01dm03",
+    "endonym": "哈尔滨北",
+    "exonym": "Harbin North"
+  },
+  {
+    "id": "cn01dm04",
+    "endonym": "万乐",
+    "exonym": "Wanle"
+  },
+  {
+    "id": "cn01dm05",
+    "endonym": "对青山",
+    "exonym": "Duiqingshan"
+  },
+  {
+    "id": "cn01dm06",
+    "endonym": "里木店",
+    "exonym": "Limudian"
+  },
+  {
+    "id": "cn01dm07",
+    "endonym": "姜家",
+    "exonym": "Jiangjia"
+  },
+  {
+    "id": "cn01dm08",
+    "endonym": "肇东",
+    "exonym": "Zhaodong"
+  },
+  {
+    "id": "cn01dm09",
+    "endonym": "尚家",
+    "exonym": "Shangjia"
+  },
+  {
+    "id": "cn01dm0a",
+    "endonym": "宋",
+    "exonym": "Song"
+  },
+  {
+    "id": "cn01dm0b",
+    "endonym": "羊草",
+    "exonym": "Yangcao"
+  },
+  {
+    "id": "cn01dm0c",
+    "endonym": "安达",
+    "exonym": "Anda"
+  },
+  {
+    "id": "cn01dm0d",
+    "endonym": "卧里屯",
+    "exonym": "Wolitun"
+  },
+  {
+    "id": "cn01dm0e",
+    "endonym": "大庆东",
+    "exonym": "Daqing East"
+  },
+  {
+    "id": "cn01dm0f",
+    "endonym": "大庆",
+    "exonym": "Daqing"
+  },
+  {
+    "id": "cn01dm0g",
+    "endonym": "大庆西",
+    "exonym": "Daqing West"
+  },
+  {
+    "id": "cn01dm0h",
+    "endonym": "喇嘛甸",
+    "exonym": "Lamadian"
+  },
+  {
+    "id": "cn01dm0i",
+    "endonym": "高家",
+    "exonym": "Gaojia"
+  },
+  {
+    "id": "cn01dm0j",
+    "endonym": "杜尔伯特",
+    "exonym": "Dorbod"
+  },
+  {
+    "id": "cn01dm0k",
+    "endonym": "烟筒屯",
+    "exonym": "Yantongtun"
+  },
+  {
+    "id": "cn01dm0l",
+    "endonym": "红旗营",
+    "exonym": "Hongqiying"
+  },
+  {
+    "id": "cn01dm0m",
+    "endonym": "昂昂溪",
+    "exonym": "Ang'angxi"
+  },
+  {
+    "id": "cn01dm0n",
+    "endonym": "嫩江",
+    "exonym": "Nen River"
+  },
+  {
+    "id": "cn01dm0o",
+    "endonym": "富拉尔基",
+    "exonym": "Fula'erji"
+  },
+  {
+    "id": "cn01dm0p",
+    "endonym": "虎尔虎拉",
+    "exonym": "Hu'erhula"
+  },
+  {
+    "id": "cn01dm0q",
+    "endonym": "白山乡",
+    "exonym": "Baishanxiang"
+  },
+  {
+    "id": "cn01dm0r",
+    "endonym": "龙江",
+    "exonym": "Longjiang"
+  },
+  {
+    "id": "cn01dm0s",
+    "endonym": "鲁河",
+    "exonym": "Luhe"
+  },
+  {
+    "id": "cn01dm0t",
+    "endonym": "碾子山",
+    "exonym": "Nianzishan"
+  },
+  {
+    "id": "cn01dm0u",
+    "endonym": "吉新河",
+    "exonym": "Jixinhe"
+  },
+  {
+    "id": "cn01dm0v",
+    "endonym": "成吉思汗",
+    "exonym": "Chengjisihan"
+  },
+  {
+    "id": "cn01dm0w",
+    "endonym": "高台子",
+    "exonym": "Gaotaizi"
+  },
+  {
+    "id": "cn01dm0x",
+    "endonym": "扎兰屯",
+    "exonym": "Zhalantun"
+  },
+  {
+    "id": "cn01dm0y",
+    "endonym": "卧牛河",
+    "exonym": "Woniuhe"
+  },
+  {
+    "id": "cn01dm0z",
+    "endonym": "哈拉苏",
+    "exonym": "Halasu"
+  },
+  {
+    "id": "cn01dm10",
+    "endonym": "南木",
+    "exonym": "Nanmu"
+  },
+  {
+    "id": "cn01dm11",
+    "endonym": "巴林",
+    "exonym": "Balin"
+  },
+  {
+    "id": "cn01dm12",
+    "endonym": "喇嘛山",
+    "exonym": "Lamashan"
+  },
+  {
+    "id": "cn01dm13",
+    "endonym": "雅鲁",
+    "exonym": "Yalu"
+  },
+  {
+    "id": "cn01dm14",
+    "endonym": "沟口",
+    "exonym": "Goukou"
+  },
+  {
+    "id": "cn01dm15",
+    "endonym": "博克图",
+    "exonym": "Boketu"
+  },
+  {
+    "id": "cn01dm16",
+    "endonym": "兴安岭",
+    "exonym": "Xing'anling"
+  },
+  {
+    "id": "cn01dm17",
+    "endonym": "伊列克得",
+    "exonym": "Yiliekede"
+  },
+  {
+    "id": "cn01dm18",
+    "endonym": "西岭口",
+    "exonym": "Xilingkou"
+  },
+  {
+    "id": "cn01dm19",
+    "endonym": "乌奴耳",
+    "exonym": "Wunu'er"
+  },
+  {
+    "id": "cn01dm1a",
+    "endonym": "三根河",
+    "exonym": "Sangenhe"
+  },
+  {
+    "id": "cn01dm1b",
+    "endonym": "免渡河",
+    "exonym": "Mianduhe"
+  },
+  {
+    "id": "cn01dm1c",
+    "endonym": "卓山",
+    "exonym": "Zhuoshan"
+  },
+  {
+    "id": "cn01dm1d",
+    "endonym": "牙克石",
+    "exonym": "Yakeshi"
+  },
+  {
+    "id": "cn01dm1e",
+    "endonym": "海满",
+    "exonym": "Haiman"
+  },
+  {
+    "id": "cn01dm1f",
+    "endonym": "大雁",
+    "exonym": "Dayan"
+  },
+  {
+    "id": "cn01dm1g",
+    "endonym": "扎罗木得",
+    "exonym": "Zhaluomude"
+  },
+  {
+    "id": "cn01dm1h",
+    "endonym": "顺河",
+    "exonym": "Shunhe"
+  },
+  {
+    "id": "cn01dm1i",
+    "endonym": "哈克",
+    "exonym": "Hake"
+  },
+  {
+    "id": "cn01dm1j",
+    "endonym": "海拉尔南",
+    "exonym": "Hailar South"
+  },
+  {
+    "id": "cn01dm1k",
+    "endonym": "海拉尔东",
+    "exonym": "Hailar East"
+  },
+  {
+    "id": "cn01dm1l",
+    "endonym": "海拉尔",
+    "exonym": "Hailar"
+  },
+  {
+    "id": "cn01dm1m",
+    "endonym": "安邑",
+    "exonym": "Anyi"
+  },
+  {
+    "id": "cn01dm1n",
+    "endonym": "乌固诺尔",
+    "exonym": "Wugunuo'er"
+  },
+  {
+    "id": "cn01dm1o",
+    "endonym": "完工",
+    "exonym": "Wangong"
+  },
+  {
+    "id": "cn01dm1p",
+    "endonym": "赫尔洪得",
+    "exonym": "He'erhongde"
+  },
+  {
+    "id": "cn01dm1q",
+    "endonym": "嵯岗",
+    "exonym": "Cuogang"
+  },
+  {
+    "id": "cn01dm1r",
+    "endonym": "扎赉诺尔",
+    "exonym": "Zhalainuo'er"
+  },
+  {
+    "id": "cn01dm1s",
+    "endonym": "扎赉诺尔西",
+    "exonym": "Zhalainuo'er West"
+  },
+  {
+    "id": "cn01dm1t",
+    "endonym": "胪滨",
+    "exonym": "Lubin"
+  },
+  {
+    "id": "cn01dm1u",
+    "endonym": "满洲里",
+    "exonym": "Manzhouli"
+  },
+  {
+    "id": "cn01dm1v",
+    "endonym": "国界(俄罗斯)",
+    "exonym": "Border (Russia)"
+  }
+]

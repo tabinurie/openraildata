@@ -1,0 +1,312 @@
+[
+  {
+    "id": "cn01du01",
+    "endonym": "富裕",
+    "exonym": "Fuyu"
+  },
+  {
+    "id": "cn01du02",
+    "endonym": "小榆树",
+    "exonym": "Xiaoyushu"
+  },
+  {
+    "id": "cn01du03",
+    "endonym": "二道湾",
+    "exonym": "Erdaowan"
+  },
+  {
+    "id": "cn01du04",
+    "endonym": "青水山",
+    "exonym": "Qingshuishan"
+  },
+  {
+    "id": "cn01du05",
+    "endonym": "团结",
+    "exonym": "Tuanjie"
+  },
+  {
+    "id": "cn01du06",
+    "endonym": "拉哈",
+    "exonym": "Laha"
+  },
+  {
+    "id": "cn01du07",
+    "endonym": "光明",
+    "exonym": "Guangming"
+  },
+  {
+    "id": "cn01du08",
+    "endonym": "六合镇",
+    "exonym": "Liuhezhen"
+  },
+  {
+    "id": "cn01du09",
+    "endonym": "八方",
+    "exonym": "Bafang"
+  },
+  {
+    "id": "cn01du0a",
+    "endonym": "讷河",
+    "exonym": "Nehe"
+  },
+  {
+    "id": "cn01du0b",
+    "endonym": "恒地营",
+    "exonym": "Hengdiying"
+  },
+  {
+    "id": "cn01du0c",
+    "endonym": "老莱",
+    "exonym": "Laolai"
+  },
+  {
+    "id": "cn01du0d",
+    "endonym": "伊拉哈",
+    "exonym": "Yilaha"
+  },
+  {
+    "id": "cn01du0e",
+    "endonym": "九三",
+    "exonym": "Jiusan"
+  },
+  {
+    "id": "cn01du0f",
+    "endonym": "弯道",
+    "exonym": "Wandao"
+  },
+  {
+    "id": "cn01du0g",
+    "endonym": "鹤山",
+    "exonym": "Heshan"
+  },
+  {
+    "id": "cn01du0h",
+    "endonym": "新高峰",
+    "exonym": "Xingaofeng"
+  },
+  {
+    "id": "cn01du0i",
+    "endonym": "新彦",
+    "exonym": "Xinyan"
+  },
+  {
+    "id": "cn01du0j",
+    "endonym": "嫩江",
+    "exonym": "Nenjiang"
+  },
+  {
+    "id": "cn01du0k",
+    "endonym": "哈达阳",
+    "exonym": "Hadayang"
+  },
+  {
+    "id": "cn01du0l",
+    "endonym": "哈力图",
+    "exonym": "Halitu"
+  },
+  {
+    "id": "cn01du0m",
+    "endonym": "小黑山",
+    "exonym": "Xiaoheishan"
+  },
+  {
+    "id": "cn01du0n",
+    "endonym": "红彦",
+    "exonym": "Hongyan"
+  },
+  {
+    "id": "cn01du0o",
+    "endonym": "杨木山",
+    "exonym": "Yangmushan"
+  },
+  {
+    "id": "cn01du0p",
+    "endonym": "达拉滨",
+    "exonym": "Dalabin"
+  },
+  {
+    "id": "cn01du0q",
+    "endonym": "大杨树东",
+    "exonym": "Dayangshu East"
+  },
+  {
+    "id": "cn01du0r",
+    "endonym": "大杨树",
+    "exonym": "Dayangshu"
+  },
+  {
+    "id": "cn01du0s",
+    "endonym": "春亭阁",
+    "exonym": "Chuntingge"
+  },
+  {
+    "id": "cn01du0t",
+    "endonym": "乌鲁布铁",
+    "exonym": "Wulubutie"
+  },
+  {
+    "id": "cn01du0u",
+    "endonym": "朝阳村",
+    "exonym": "Chaoyangcun"
+  },
+  {
+    "id": "cn01du0v",
+    "endonym": "讷尔克气",
+    "exonym": "Ne'erkeqi"
+  },
+  {
+    "id": "cn01du0w",
+    "endonym": "白桦排",
+    "exonym": "Baihuapai"
+  },
+  {
+    "id": "cn01du0x",
+    "endonym": "加南",
+    "exonym": "Jianan"
+  },
+  {
+    "id": "cn01du0y",
+    "endonym": "加格达奇",
+    "exonym": "Jagdaqi"
+  },
+  {
+    "id": "cn01du0z",
+    "endonym": "松树林",
+    "exonym": "Songshulin"
+  },
+  {
+    "id": "cn01du10",
+    "endonym": "翠峰",
+    "exonym": "Cuifeng"
+  },
+  {
+    "id": "cn01du11",
+    "endonym": "小扬气",
+    "exonym": "Xiaoyangqi"
+  },
+  {
+    "id": "cn01du12",
+    "endonym": "古源",
+    "exonym": "Guyuan"
+  },
+  {
+    "id": "cn01du13",
+    "endonym": "大扬气",
+    "exonym": "Dayangqi"
+  },
+  {
+    "id": "cn01du14",
+    "endonym": "劲松",
+    "exonym": "Jinsong"
+  },
+  {
+    "id": "cn01du15",
+    "endonym": "新天",
+    "exonym": "Xintian"
+  },
+  {
+    "id": "cn01du16",
+    "endonym": "太阳沟",
+    "exonym": "Taiyanggou"
+  },
+  {
+    "id": "cn01du17",
+    "endonym": "塔源",
+    "exonym": "Tayuan"
+  },
+  {
+    "id": "cn01du18",
+    "endonym": "林海",
+    "exonym": "Linhai"
+  },
+  {
+    "id": "cn01du19",
+    "endonym": "新林",
+    "exonym": "Xinlin"
+  },
+  {
+    "id": "cn01du1a",
+    "endonym": "大乌苏",
+    "exonym": "Dawusu"
+  },
+  {
+    "id": "cn01du1b",
+    "endonym": "碧州",
+    "exonym": "Bizhou"
+  },
+  {
+    "id": "cn01du1c",
+    "endonym": "翠岗",
+    "exonym": "Cuigang"
+  },
+  {
+    "id": "cn01du1d",
+    "endonym": "塔尔根",
+    "exonym": "Ta'ergen"
+  },
+  {
+    "id": "cn01du1e",
+    "endonym": "塔河",
+    "exonym": "Tahe"
+  },
+  {
+    "id": "cn01du1f",
+    "endonym": "绣峰",
+    "exonym": "Xiufeng"
+  },
+  {
+    "id": "cn01du1g",
+    "endonym": "瓦拉干",
+    "exonym": "Walagan"
+  },
+  {
+    "id": "cn01du1h",
+    "endonym": "蒙克山",
+    "exonym": "Mengkeshan"
+  },
+  {
+    "id": "cn01du1i",
+    "endonym": "盘古",
+    "exonym": "Pangu"
+  },
+  {
+    "id": "cn01du1j",
+    "endonym": "樟岭",
+    "exonym": "Zhangling"
+  },
+  {
+    "id": "cn01du1k",
+    "endonym": "聂河",
+    "exonym": "Niehe"
+  },
+  {
+    "id": "cn01du1l",
+    "endonym": "长缨",
+    "exonym": "Changying"
+  },
+  {
+    "id": "cn01du1m",
+    "endonym": "阿木尔",
+    "exonym": "Amu'er"
+  },
+  {
+    "id": "cn01du1n",
+    "endonym": "图强",
+    "exonym": "Tuqiang"
+  },
+  {
+    "id": "cn01du1o",
+    "endonym": "育英",
+    "exonym": "Yuying"
+  },
+  {
+    "id": "cn01du1p",
+    "endonym": "漠河",
+    "exonym": "Mohe"
+  },
+  {
+    "id": "cn01du1q",
+    "endonym": "古莲",
+    "exonym": "Gulian"
+  }
+]

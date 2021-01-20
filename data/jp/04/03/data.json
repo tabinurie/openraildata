@@ -1,0 +1,97 @@
+[
+  {
+    "id": "jp040301",
+    "endonym": "天王寺",
+    "exonym": "Tennoji"
+  },
+  {
+    "id": "jp040302",
+    "endonym": "寺田町",
+    "exonym": "Teradacho"
+  },
+  {
+    "id": "jp040303",
+    "endonym": "桃谷",
+    "exonym": "Momodani"
+  },
+  {
+    "id": "jp040304",
+    "endonym": "鶴橋",
+    "exonym": "Tsuruhashi"
+  },
+  {
+    "id": "jp040305",
+    "endonym": "玉造",
+    "exonym": "Tamatsukuri"
+  },
+  {
+    "id": "jp040306",
+    "endonym": "森ノ宮",
+    "exonym": "Morinomiya"
+  },
+  {
+    "id": "jp040307",
+    "endonym": "大阪城公園",
+    "exonym": "Osakajo-koen"
+  },
+  {
+    "id": "jp040308",
+    "endonym": "京橋",
+    "exonym": "Kyobashi"
+  },
+  {
+    "id": "jp040309",
+    "endonym": "桜ノ宮",
+    "exonym": "Sakuranomiya"
+  },
+  {
+    "id": "jp04030a",
+    "endonym": "天満",
+    "exonym": "Temma"
+  },
+  {
+    "id": "jp04030b",
+    "endonym": "大阪",
+    "exonym": "Osaka"
+  },
+  {
+    "id": "jp04030c",
+    "endonym": "福島",
+    "exonym": "Fukushima"
+  },
+  {
+    "id": "jp04030d",
+    "endonym": "野田",
+    "exonym": "Noda"
+  },
+  {
+    "id": "jp04030e",
+    "endonym": "西九条",
+    "exonym": "Nishikujo"
+  },
+  {
+    "id": "jp04030f",
+    "endonym": "弁天町",
+    "exonym": "Bentencho"
+  },
+  {
+    "id": "jp04030g",
+    "endonym": "大正",
+    "exonym": "Taisho"
+  },
+  {
+    "id": "jp04030h",
+    "endonym": "芦原橋",
+    "exonym": "Ashiharabashi"
+  },
+  {
+    "id": "jp04030i",
+    "endonym": "今宮",
+    "exonym": "Imamiya"
+  },
+  {
+    "id": "jp04030j",
+    "endonym": "新今宮",
+    "exonym": "Shin-Imamiya"
+  }
+]

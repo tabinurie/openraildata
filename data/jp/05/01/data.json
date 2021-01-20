@@ -1,0 +1,292 @@
+[
+  {
+    "id": "jp050101",
+    "endonym": "伊予西条",
+    "exonym": "Iyo-Saijo"
+  },
+  {
+    "id": "jp050102",
+    "endonym": "石鎚山",
+    "exonym": "Ishizuchiyama"
+  },
+  {
+    "id": "jp050103",
+    "endonym": "伊予氷見",
+    "exonym": "Iyo-Himi"
+  },
+  {
+    "id": "jp050104",
+    "endonym": "伊予小松",
+    "exonym": "Iyo-Komatsu"
+  },
+  {
+    "id": "jp050105",
+    "endonym": "玉之江",
+    "exonym": "Tamanoe"
+  },
+  {
+    "id": "jp050106",
+    "endonym": "壬生川",
+    "exonym": "Nyugawa"
+  },
+  {
+    "id": "jp050107",
+    "endonym": "伊予三芳",
+    "exonym": "Iyo-Miyoshi"
+  },
+  {
+    "id": "jp050108",
+    "endonym": "伊予桜井",
+    "exonym": "Iyo-Sakurai"
+  },
+  {
+    "id": "jp050109",
+    "endonym": "伊予富田",
+    "exonym": "Iyo-Tomita"
+  },
+  {
+    "id": "jp05010a",
+    "endonym": "今治",
+    "exonym": "Imabari"
+  },
+  {
+    "id": "jp05010b",
+    "endonym": "波止浜",
+    "exonym": "Hashihama"
+  },
+  {
+    "id": "jp05010c",
+    "endonym": "波方",
+    "exonym": "Namikata"
+  },
+  {
+    "id": "jp05010d",
+    "endonym": "大西",
+    "exonym": "Onishi"
+  },
+  {
+    "id": "jp05010e",
+    "endonym": "伊予亀岡",
+    "exonym": "Iyo-Kameoka"
+  },
+  {
+    "id": "jp05010f",
+    "endonym": "菊間",
+    "exonym": "Kikuma"
+  },
+  {
+    "id": "jp05010g",
+    "endonym": "浅海",
+    "exonym": "Asanami"
+  },
+  {
+    "id": "jp05010h",
+    "endonym": "大浦",
+    "exonym": "Oura"
+  },
+  {
+    "id": "jp05010i",
+    "endonym": "伊予北条",
+    "exonym": "Iyo-Hojo"
+  },
+  {
+    "id": "jp05010j",
+    "endonym": "柳原",
+    "exonym": "Yanagihara"
+  },
+  {
+    "id": "jp05010k",
+    "endonym": "粟井",
+    "exonym": "Awai"
+  },
+  {
+    "id": "jp05010l",
+    "endonym": "光洋台",
+    "exonym": "Koyodai"
+  },
+  {
+    "id": "jp05010m",
+    "endonym": "堀江",
+    "exonym": "Horie"
+  },
+  {
+    "id": "jp05010n",
+    "endonym": "伊予和気",
+    "exonym": "Iyo-Wake"
+  },
+  {
+    "id": "jp05010o",
+    "endonym": "三津浜",
+    "exonym": "Mitsuhama"
+  },
+  {
+    "id": "jp05010p",
+    "endonym": "松山",
+    "exonym": "Matsuyama"
+  },
+  {
+    "id": "jp05010q",
+    "endonym": "市坪",
+    "exonym": "Ichitsubo"
+  },
+  {
+    "id": "jp05010r",
+    "endonym": "北伊予",
+    "exonym": "Kita-Iyo"
+  },
+  {
+    "id": "jp05010s",
+    "endonym": "南伊予",
+    "exonym": "Minami-Iyo"
+  },
+  {
+    "id": "jp05010t",
+    "endonym": "伊予横田",
+    "exonym": "Iyo-Yokota"
+  },
+  {
+    "id": "jp05010u",
+    "endonym": "鳥ノ木",
+    "exonym": "Torinoki"
+  },
+  {
+    "id": "jp05010v",
+    "endonym": "伊予市",
+    "exonym": "Iyoshi"
+  },
+  {
+    "id": "jp05010w",
+    "endonym": "向井原",
+    "exonym": "Mukaibara"
+  },
+  {
+    "id": "jp05010x",
+    "endonym": "高野川",
+    "exonym": "Konokawa"
+  },
+  {
+    "id": "jp05010y",
+    "endonym": "伊予上灘",
+    "exonym": "Iyo-Kaminada"
+  },
+  {
+    "id": "jp05010z",
+    "endonym": "下灘",
+    "exonym": "Shimonada"
+  },
+  {
+    "id": "jp050110",
+    "endonym": "串",
+    "exonym": "Kushi"
+  },
+  {
+    "id": "jp050111",
+    "endonym": "喜多灘",
+    "exonym": "Kitanada"
+  },
+  {
+    "id": "jp050112",
+    "endonym": "伊予長浜",
+    "exonym": "Iyo-Nagahama"
+  },
+  {
+    "id": "jp050113",
+    "endonym": "伊予出石",
+    "exonym": "Iyo-Izushi"
+  },
+  {
+    "id": "jp050114",
+    "endonym": "伊予白滝",
+    "exonym": "Iyo-Shirataki"
+  },
+  {
+    "id": "jp050115",
+    "endonym": "八多喜",
+    "exonym": "Hataki"
+  },
+  {
+    "id": "jp050116",
+    "endonym": "春賀",
+    "exonym": "Haruka"
+  },
+  {
+    "id": "jp050117",
+    "endonym": "五郎",
+    "exonym": "Goro"
+  },
+  {
+    "id": "jp050118",
+    "endonym": "伊予大洲",
+    "exonym": "Iyo-Ozu"
+  },
+  {
+    "id": "jp050119",
+    "endonym": "西大洲",
+    "exonym": "Nishi-Ozu"
+  },
+  {
+    "id": "jp05011a",
+    "endonym": "伊予平野",
+    "exonym": "Iyo-Hirano"
+  },
+  {
+    "id": "jp05011b",
+    "endonym": "千丈",
+    "exonym": "Senjo"
+  },
+  {
+    "id": "jp05011c",
+    "endonym": "八幡浜",
+    "exonym": "Yawatahama"
+  },
+  {
+    "id": "jp05011d",
+    "endonym": "双岩",
+    "exonym": "Futaiwa"
+  },
+  {
+    "id": "jp05011e",
+    "endonym": "伊予石城",
+    "exonym": "Iyo-Iwaki"
+  },
+  {
+    "id": "jp05011f",
+    "endonym": "上宇和",
+    "exonym": "Kami-Uwa"
+  },
+  {
+    "id": "jp05011g",
+    "endonym": "卯之町",
+    "exonym": "Unomachi"
+  },
+  {
+    "id": "jp05011h",
+    "endonym": "下宇和",
+    "exonym": "Shimo-Uwa"
+  },
+  {
+    "id": "jp05011i",
+    "endonym": "立間",
+    "exonym": "Tachima"
+  },
+  {
+    "id": "jp05011j",
+    "endonym": "伊予吉田",
+    "exonym": "Iyo-Yoshida"
+  },
+  {
+    "id": "jp05011k",
+    "endonym": "高光",
+    "exonym": "Takamitsu"
+  },
+  {
+    "id": "jp05011l",
+    "endonym": "北宇和島",
+    "exonym": "Kita-Uwajima"
+  },
+  {
+    "id": "jp05011m",
+    "endonym": "宇和島",
+    "exonym": "Uwajima"
+  }
+]

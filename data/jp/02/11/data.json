@@ -1,0 +1,177 @@
+[
+  {
+    "id": "jp021101",
+    "endonym": "高崎",
+    "exonym": "Takasaki"
+  },
+  {
+    "id": "jp021102",
+    "endonym": "高崎問屋町",
+    "exonym": "Takasakitonyamachi"
+  },
+  {
+    "id": "jp021103",
+    "endonym": "井野",
+    "exonym": "Ino"
+  },
+  {
+    "id": "jp021104",
+    "endonym": "新前橋",
+    "exonym": "Shin-Maebashi"
+  },
+  {
+    "id": "jp021105",
+    "endonym": "群馬総社",
+    "exonym": "Gumma-Soja"
+  },
+  {
+    "id": "jp021106",
+    "endonym": "八木原",
+    "exonym": "Yagihara"
+  },
+  {
+    "id": "jp021107",
+    "endonym": "渋川",
+    "exonym": "Shibukawa"
+  },
+  {
+    "id": "jp021108",
+    "endonym": "敷島",
+    "exonym": "Shikishima"
+  },
+  {
+    "id": "jp021109",
+    "endonym": "津久田",
+    "exonym": "Tsukuda"
+  },
+  {
+    "id": "jp02110a",
+    "endonym": "岩本",
+    "exonym": "Iwamoto"
+  },
+  {
+    "id": "jp02110b",
+    "endonym": "沼田",
+    "exonym": "Numata"
+  },
+  {
+    "id": "jp02110c",
+    "endonym": "後閑",
+    "exonym": "Gokan"
+  },
+  {
+    "id": "jp02110d",
+    "endonym": "上牧",
+    "exonym": "Kamimoku"
+  },
+  {
+    "id": "jp02110e",
+    "endonym": "水上",
+    "exonym": "Minakami"
+  },
+  {
+    "id": "jp02110f",
+    "endonym": "湯檜曽",
+    "exonym": "Yubiso"
+  },
+  {
+    "id": "jp02110g",
+    "endonym": "土合",
+    "exonym": "Doai"
+  },
+  {
+    "id": "jp02110h",
+    "endonym": "土樽",
+    "exonym": "Tsuchitaru"
+  },
+  {
+    "id": "jp02110i",
+    "endonym": "越後中里",
+    "exonym": "Echigo-Nakazato"
+  },
+  {
+    "id": "jp02110j",
+    "endonym": "岩原スキー場前",
+    "exonym": "Iwappara-Skiing Ground"
+  },
+  {
+    "id": "jp02110k",
+    "endonym": "越後湯沢",
+    "exonym": "Echigo-Yuzawa"
+  },
+  {
+    "id": "jp02110l",
+    "endonym": "石打",
+    "exonym": "Ishiuchi"
+  },
+  {
+    "id": "jp02110m",
+    "endonym": "大沢",
+    "exonym": "Osawa"
+  },
+  {
+    "id": "jp02110n",
+    "endonym": "上越国際スキー場前",
+    "exonym": "Joetsu International Skiing Ground"
+  },
+  {
+    "id": "jp02110o",
+    "endonym": "塩沢",
+    "exonym": "Shiozawa"
+  },
+  {
+    "id": "jp02110p",
+    "endonym": "六日町",
+    "exonym": "Muikamachi"
+  },
+  {
+    "id": "jp02110q",
+    "endonym": "五日町",
+    "exonym": "Itsukamachi"
+  },
+  {
+    "id": "jp02110r",
+    "endonym": "浦佐",
+    "exonym": "Urasa"
+  },
+  {
+    "id": "jp02110s",
+    "endonym": "八色",
+    "exonym": "Yairo"
+  },
+  {
+    "id": "jp02110t",
+    "endonym": "小出",
+    "exonym": "Koide"
+  },
+  {
+    "id": "jp02110u",
+    "endonym": "越後堀之内",
+    "exonym": "Echigo-Horinouchi"
+  },
+  {
+    "id": "jp02110v",
+    "endonym": "北堀之内",
+    "exonym": "Kita-Horinouchi"
+  },
+  {
+    "id": "jp02110w",
+    "endonym": "越後川口",
+    "exonym": "Echigo-Kawaguchi"
+  },
+  {
+    "id": "jp02110x",
+    "endonym": "小千谷",
+    "exonym": "Ojiya"
+  },
+  {
+    "id": "jp02110y",
+    "endonym": "越後滝谷",
+    "exonym": "Echigo-Takiya"
+  },
+  {
+    "id": "jp02110z",
+    "endonym": "宮内",
+    "exonym": "Miyauchi"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tw0401",
+    "endonym": "文山線",
+    "exonym": "Wenshan Line"
+  },
+  {
+    "id": "tw0402",
+    "endonym": "內湖線",
+    "exonym": "Neihu Line"
+  },
+  {
+    "id": "tw0403",
+    "endonym": "淡水線",
+    "exonym": "Tamsui Line"
+  },
+  {
+    "id": "tw0404",
+    "endonym": "信義線",
+    "exonym": "Xinyi Line"
+  },
+  {
+    "id": "tw0405",
+    "endonym": "新北投支線",
+    "exonym": "Xinbeitou Branch Line"
+  },
+  {
+    "id": "tw0406",
+    "endonym": "新店線",
+    "exonym": "Xindian Line"
+  },
+  {
+    "id": "tw0407",
+    "endonym": "小南門線",
+    "exonym": "Xiaonanmen Line"
+  },
+  {
+    "id": "tw0408",
+    "endonym": "松山線",
+    "exonym": "Songshan Line"
+  },
+  {
+    "id": "tw0409",
+    "endonym": "小碧潭支線",
+    "exonym": "Xiaobitan Branch Line"
+  },
+  {
+    "id": "tw040a",
+    "endonym": "中和線",
+    "exonym": "Zhonghe Line"
+  },
+  {
+    "id": "tw040b",
+    "endonym": "新莊線",
+    "exonym": "Xinzhuang Line"
+  },
+  {
+    "id": "tw040c",
+    "endonym": "蘆洲線",
+    "exonym": "Luzhou Line"
+  },
+  {
+    "id": "tw040d",
+    "endonym": "南港線",
+    "exonym": "Nangang Line"
+  },
+  {
+    "id": "tw040e",
+    "endonym": "板橋線",
+    "exonym": "Banqiao Line"
+  },
+  {
+    "id": "tw040f",
+    "endonym": "土城線",
+    "exonym": "Tucheng Line"
+  },
+  {
+    "id": "tw040g",
+    "endonym": "環狀線",
+    "exonym": "Circular line"
+  }
+]

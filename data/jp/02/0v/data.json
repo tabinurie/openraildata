@@ -1,0 +1,117 @@
+[
+  {
+    "id": "jp020v01",
+    "endonym": "東京",
+    "exonym": "Tokyo"
+  },
+  {
+    "id": "jp020v02",
+    "endonym": "上野",
+    "exonym": "Ueno"
+  },
+  {
+    "id": "jp020v03",
+    "endonym": "大宮",
+    "exonym": "Omiya"
+  },
+  {
+    "id": "jp020v04",
+    "endonym": "小山",
+    "exonym": "Oyama"
+  },
+  {
+    "id": "jp020v05",
+    "endonym": "宇都宮",
+    "exonym": "Utsunomiya"
+  },
+  {
+    "id": "jp020v06",
+    "endonym": "那須塩原",
+    "exonym": "Nasushiobara"
+  },
+  {
+    "id": "jp020v07",
+    "endonym": "新白河",
+    "exonym": "Shin-Shirakawa"
+  },
+  {
+    "id": "jp020v08",
+    "endonym": "郡山",
+    "exonym": "Koriyama"
+  },
+  {
+    "id": "jp020v09",
+    "endonym": "福島",
+    "exonym": "Fukushima"
+  },
+  {
+    "id": "jp020v0a",
+    "endonym": "白石蔵王",
+    "exonym": "Shiroishi-Zao"
+  },
+  {
+    "id": "jp020v0b",
+    "endonym": "仙台",
+    "exonym": "Sendai"
+  },
+  {
+    "id": "jp020v0c",
+    "endonym": "古川",
+    "exonym": "Furukawa"
+  },
+  {
+    "id": "jp020v0d",
+    "endonym": "くりこま高原",
+    "exonym": "Kurikoma-Kogen"
+  },
+  {
+    "id": "jp020v0e",
+    "endonym": "一ノ関",
+    "exonym": "Ichinoseki"
+  },
+  {
+    "id": "jp020v0f",
+    "endonym": "水沢江刺",
+    "exonym": "Mizusawa-Esashi"
+  },
+  {
+    "id": "jp020v0g",
+    "endonym": "北上",
+    "exonym": "Kitakami"
+  },
+  {
+    "id": "jp020v0h",
+    "endonym": "新花巻",
+    "exonym": "Shin-Hanamaki"
+  },
+  {
+    "id": "jp020v0i",
+    "endonym": "盛岡",
+    "exonym": "Morioka"
+  },
+  {
+    "id": "jp020v0j",
+    "endonym": "いわて沼宮内",
+    "exonym": "Iwate-Numakunai"
+  },
+  {
+    "id": "jp020v0k",
+    "endonym": "二戸",
+    "exonym": "Ninohe"
+  },
+  {
+    "id": "jp020v0l",
+    "endonym": "八戸",
+    "exonym": "Hachinohe"
+  },
+  {
+    "id": "jp020v0m",
+    "endonym": "七戸十和田",
+    "exonym": "Shichinohe-Towada"
+  },
+  {
+    "id": "jp020v0n",
+    "endonym": "新青森",
+    "exonym": "Shin-Aomori"
+  }
+]

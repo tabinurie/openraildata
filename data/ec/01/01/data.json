@@ -1,0 +1,432 @@
+[
+  {
+    "id": "ec010101",
+    "endonym": "San Lorenzo",
+    "exonym": "San Lorenzo"
+  },
+  {
+    "id": "ec010102",
+    "endonym": "Najurungo",
+    "exonym": "Najurungo"
+  },
+  {
+    "id": "ec010103",
+    "endonym": "La Boca",
+    "exonym": "La Boca"
+  },
+  {
+    "id": "ec010104",
+    "endonym": "San Javier",
+    "exonym": "San Javier"
+  },
+  {
+    "id": "ec010105",
+    "endonym": "Cachavi/El Progreso",
+    "exonym": "Cachavi/El Progreso"
+  },
+  {
+    "id": "ec010106",
+    "endonym": "Alto Tambo",
+    "exonym": "Alto Tambo"
+  },
+  {
+    "id": "ec010107",
+    "endonym": "Lita",
+    "exonym": "Lita"
+  },
+  {
+    "id": "ec010108",
+    "endonym": "Carolina",
+    "exonym": "Carolina"
+  },
+  {
+    "id": "ec010109",
+    "endonym": "Primer Paso",
+    "exonym": "Primer Paso"
+  },
+  {
+    "id": "ec01010a",
+    "endonym": "Carchi",
+    "exonym": "Carchi"
+  },
+  {
+    "id": "ec01010b",
+    "endonym": "Cabuyal",
+    "exonym": "Cabuyal"
+  },
+  {
+    "id": "ec01010c",
+    "endonym": "Tulquizán",
+    "exonym": "Tulquizán"
+  },
+  {
+    "id": "ec01010d",
+    "endonym": "Palacara Desvío",
+    "exonym": "Palacara Desvío"
+  },
+  {
+    "id": "ec01010e",
+    "endonym": "Salinas",
+    "exonym": "Salinas"
+  },
+  {
+    "id": "ec01010f",
+    "endonym": "Hoja Blanca",
+    "exonym": "Hoja Blanca"
+  },
+  {
+    "id": "ec01010g",
+    "endonym": "Imbaya",
+    "exonym": "Imbaya"
+  },
+  {
+    "id": "ec01010h",
+    "endonym": "Ibarra",
+    "exonym": "Ibarra"
+  },
+  {
+    "id": "ec01010i",
+    "endonym": "San Antonio",
+    "exonym": "San Antonio"
+  },
+  {
+    "id": "ec01010j",
+    "endonym": "Andrade Marín",
+    "exonym": "Andrade Marín"
+  },
+  {
+    "id": "ec01010k",
+    "endonym": "San Roque",
+    "exonym": "San Roque"
+  },
+  {
+    "id": "ec01010l",
+    "endonym": "Otavalo",
+    "exonym": "Otavalo"
+  },
+  {
+    "id": "ec01010m",
+    "endonym": "Quito",
+    "exonym": "Quito"
+  },
+  {
+    "id": "ec01010n",
+    "endonym": "Santa Rosa",
+    "exonym": "Santa Rosa"
+  },
+  {
+    "id": "ec01010o",
+    "endonym": "Tambillo",
+    "exonym": "Tambillo"
+  },
+  {
+    "id": "ec01010p",
+    "endonym": "Aloag",
+    "exonym": "Aloag"
+  },
+  {
+    "id": "ec01010q",
+    "endonym": "Machachi",
+    "exonym": "Machachi"
+  },
+  {
+    "id": "ec01010r",
+    "endonym": "Chaupi",
+    "exonym": "Chaupi"
+  },
+  {
+    "id": "ec01010s",
+    "endonym": "El Boliche",
+    "exonym": "El Boliche"
+  },
+  {
+    "id": "ec01010t",
+    "endonym": "Lasso",
+    "exonym": "Lasso"
+  },
+  {
+    "id": "ec01010u",
+    "endonym": "Avelino",
+    "exonym": "Avelino"
+  },
+  {
+    "id": "ec01010v",
+    "endonym": "Guaytacama",
+    "exonym": "Guaytacama"
+  },
+  {
+    "id": "ec01010w",
+    "endonym": "Latacunga",
+    "exonym": "Latacunga"
+  },
+  {
+    "id": "ec01010x",
+    "endonym": "Salcedo",
+    "exonym": "Salcedo"
+  },
+  {
+    "id": "ec01010y",
+    "endonym": "Yambo",
+    "exonym": "Yambo"
+  },
+  {
+    "id": "ec01010z",
+    "endonym": "Ambato",
+    "exonym": "Ambato"
+  },
+  {
+    "id": "ec010110",
+    "endonym": "Huachi",
+    "exonym": "Huachi"
+  },
+  {
+    "id": "ec010111",
+    "endonym": "Cevallos",
+    "exonym": "Cevallos"
+  },
+  {
+    "id": "ec010112",
+    "endonym": "Mocha",
+    "exonym": "Mocha"
+  },
+  {
+    "id": "ec010113",
+    "endonym": "Urbina",
+    "exonym": "Urbina"
+  },
+  {
+    "id": "ec010114",
+    "endonym": "Montalvo",
+    "exonym": "Montalvo"
+  },
+  {
+    "id": "ec010115",
+    "endonym": "Luisa",
+    "exonym": "Luisa"
+  },
+  {
+    "id": "ec010116",
+    "endonym": "Córdova",
+    "exonym": "Córdova"
+  },
+  {
+    "id": "ec010117",
+    "endonym": "Riobamba",
+    "exonym": "Riobamba"
+  },
+  {
+    "id": "ec010118",
+    "endonym": "San Juan Chico",
+    "exonym": "San Juan Chico"
+  },
+  {
+    "id": "ec010119",
+    "endonym": "Cajabamba",
+    "exonym": "Cajabamba"
+  },
+  {
+    "id": "ec01011a",
+    "endonym": "Colta",
+    "exonym": "Colta"
+  },
+  {
+    "id": "ec01011b",
+    "endonym": "Mancheno",
+    "exonym": "Mancheno"
+  },
+  {
+    "id": "ec01011c",
+    "endonym": "Miraflores",
+    "exonym": "Miraflores"
+  },
+  {
+    "id": "ec01011d",
+    "endonym": "Columbe",
+    "exonym": "Columbe"
+  },
+  {
+    "id": "ec01011e",
+    "endonym": "Guamote",
+    "exonym": "Guamote"
+  },
+  {
+    "id": "ec01011f",
+    "endonym": "Inca",
+    "exonym": "Inca"
+  },
+  {
+    "id": "ec01011g",
+    "endonym": "Palmira",
+    "exonym": "Palmira"
+  },
+  {
+    "id": "ec01011h",
+    "endonym": "Carolina",
+    "exonym": "Carolina"
+  },
+  {
+    "id": "ec01011i",
+    "endonym": "Tixán",
+    "exonym": "Tixán"
+  },
+  {
+    "id": "ec01011j",
+    "endonym": "Alausí",
+    "exonym": "Alausí"
+  },
+  {
+    "id": "ec01011k",
+    "endonym": "Chiripungo",
+    "exonym": "Chiripungo"
+  },
+  {
+    "id": "ec01011l",
+    "endonym": "Piedra Grande",
+    "exonym": "Piedra Grande"
+  },
+  {
+    "id": "ec01011m",
+    "endonym": "Zigzag Alto",
+    "exonym": "Zigzag Alto"
+  },
+  {
+    "id": "ec01011n",
+    "endonym": "Nariz del Diablo",
+    "exonym": "Nariz del Diablo"
+  },
+  {
+    "id": "ec01011o",
+    "endonym": "Sibambe",
+    "exonym": "Sibambe"
+  },
+  {
+    "id": "ec01011p",
+    "endonym": "Huigra",
+    "exonym": "Huigra"
+  },
+  {
+    "id": "ec01011q",
+    "endonym": "Ventura",
+    "exonym": "Ventura"
+  },
+  {
+    "id": "ec01011r",
+    "endonym": "Naranjapata",
+    "exonym": "Naranjapata"
+  },
+  {
+    "id": "ec01011s",
+    "endonym": "Bucay",
+    "exonym": "Bucay"
+  },
+  {
+    "id": "ec01011t",
+    "endonym": "Teresita",
+    "exonym": "Teresita"
+  },
+  {
+    "id": "ec01011u",
+    "endonym": "Adelina",
+    "exonym": "Adelina"
+  },
+  {
+    "id": "ec01011v",
+    "endonym": "Lolita",
+    "exonym": "Lolita"
+  },
+  {
+    "id": "ec01011w",
+    "endonym": "Martínez",
+    "exonym": "Martínez"
+  },
+  {
+    "id": "ec01011x",
+    "endonym": "San Rafael",
+    "exonym": "San Rafael"
+  },
+  {
+    "id": "ec01011y",
+    "endonym": "Nuquez",
+    "exonym": "Nuquez"
+  },
+  {
+    "id": "ec01011z",
+    "endonym": "Barraganetal",
+    "exonym": "Barraganetal"
+  },
+  {
+    "id": "ec010120",
+    "endonym": "Rocafuerte",
+    "exonym": "Rocafuerte"
+  },
+  {
+    "id": "ec010121",
+    "endonym": "Puente Limón",
+    "exonym": "Puente Limón"
+  },
+  {
+    "id": "ec010122",
+    "endonym": "Supaypungo",
+    "exonym": "Supaypungo"
+  },
+  {
+    "id": "ec010123",
+    "endonym": "Pérez",
+    "exonym": "Pérez"
+  },
+  {
+    "id": "ec010124",
+    "endonym": "Naranjito",
+    "exonym": "Naranjito"
+  },
+  {
+    "id": "ec010125",
+    "endonym": "Conducta",
+    "exonym": "Conducta"
+  },
+  {
+    "id": "ec010126",
+    "endonym": "Venecia",
+    "exonym": "Venecia"
+  },
+  {
+    "id": "ec010127",
+    "endonym": "San Miguel",
+    "exonym": "San Miguel"
+  },
+  {
+    "id": "ec010128",
+    "endonym": "Zea",
+    "exonym": "Zea"
+  },
+  {
+    "id": "ec010129",
+    "endonym": "Milagro",
+    "exonym": "Milagro"
+  },
+  {
+    "id": "ec01012a",
+    "endonym": "Valdez",
+    "exonym": "Valdez"
+  },
+  {
+    "id": "ec01012b",
+    "endonym": "Yaguachi",
+    "exonym": "Yaguachi"
+  },
+  {
+    "id": "ec01012c",
+    "endonym": "Casiguaña",
+    "exonym": "Casiguaña"
+  },
+  {
+    "id": "ec01012d",
+    "endonym": "El Recreo",
+    "exonym": "El Recreo"
+  },
+  {
+    "id": "ec01012e",
+    "endonym": "Durán",
+    "exonym": "Durán"
+  }
+]

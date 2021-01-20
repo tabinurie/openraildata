@@ -1,0 +1,277 @@
+[
+  {
+    "id": "jp0401",
+    "endonym": "東海道本線",
+    "exonym": "Tokaido Main Line"
+  },
+  {
+    "id": "jp0402",
+    "endonym": "湖西線",
+    "exonym": "Kosei Line"
+  },
+  {
+    "id": "jp0403",
+    "endonym": "大阪環状線",
+    "exonym": "Osaka Loop Line"
+  },
+  {
+    "id": "jp0404",
+    "endonym": "桜島線",
+    "exonym": "Sakurajima Line"
+  },
+  {
+    "id": "jp0405",
+    "endonym": "JR東西線",
+    "exonym": "JR Tozai Line"
+  },
+  {
+    "id": "jp0406",
+    "endonym": "福知山線",
+    "exonym": "Fukuchiyama Line"
+  },
+  {
+    "id": "jp0407",
+    "endonym": "北陸本線",
+    "exonym": "Hokuriku Main Line"
+  },
+  {
+    "id": "jp0408",
+    "endonym": "小浜線",
+    "exonym": "Obama Line"
+  },
+  {
+    "id": "jp0409",
+    "endonym": "越美北線",
+    "exonym": "Etsumi-Hoku Line"
+  },
+  {
+    "id": "jp040a",
+    "endonym": "七尾線",
+    "exonym": "Nanao Line"
+  },
+  {
+    "id": "jp040b",
+    "endonym": "城端線",
+    "exonym": "Johana Line"
+  },
+  {
+    "id": "jp040c",
+    "endonym": "氷見線",
+    "exonym": "Himi Line"
+  },
+  {
+    "id": "jp040d",
+    "endonym": "高山本線",
+    "exonym": "Takayama Main Line"
+  },
+  {
+    "id": "jp040e",
+    "endonym": "大糸線",
+    "exonym": "Oito Line"
+  },
+  {
+    "id": "jp040f",
+    "endonym": "山陽本線",
+    "exonym": "San'yo Main Line"
+  },
+  {
+    "id": "jp040g",
+    "endonym": "山陽本線 (和田岬線)",
+    "exonym": "San'yo Main Line (Wadamisaki Branch)"
+  },
+  {
+    "id": "jp040h",
+    "endonym": "山陽新幹線",
+    "exonym": "San'yo Shinkansen"
+  },
+  {
+    "id": "jp040i",
+    "endonym": "加古川線",
+    "exonym": "Kakogawa Line"
+  },
+  {
+    "id": "jp040j",
+    "endonym": "播但線",
+    "exonym": "Bantan Line"
+  },
+  {
+    "id": "jp040k",
+    "endonym": "姫新線",
+    "exonym": "Kishin Line"
+  },
+  {
+    "id": "jp040l",
+    "endonym": "赤穂線",
+    "exonym": "Ako Line"
+  },
+  {
+    "id": "jp040m",
+    "endonym": "津山線",
+    "exonym": "Tsuyama Line"
+  },
+  {
+    "id": "jp040n",
+    "endonym": "吉備線",
+    "exonym": "Kibi Line"
+  },
+  {
+    "id": "jp040o",
+    "endonym": "宇野線",
+    "exonym": "Uno Line"
+  },
+  {
+    "id": "jp040p",
+    "endonym": "本四備讃線",
+    "exonym": "Honshi-Bisan Line"
+  },
+  {
+    "id": "jp040q",
+    "endonym": "伯備線",
+    "exonym": "Hakubi Line"
+  },
+  {
+    "id": "jp040r",
+    "endonym": "芸備線",
+    "exonym": "Geibi Line"
+  },
+  {
+    "id": "jp040s",
+    "endonym": "福塩線",
+    "exonym": "Fukuen Line"
+  },
+  {
+    "id": "jp040t",
+    "endonym": "呉線",
+    "exonym": "Kure Line"
+  },
+  {
+    "id": "jp040u",
+    "endonym": "可部線",
+    "exonym": "Kabe Line"
+  },
+  {
+    "id": "jp040v",
+    "endonym": "岩徳線",
+    "exonym": "Gantoku Line"
+  },
+  {
+    "id": "jp040w",
+    "endonym": "山口線",
+    "exonym": "Yamaguchi Line"
+  },
+  {
+    "id": "jp040x",
+    "endonym": "宇部線",
+    "exonym": "Ube Line"
+  },
+  {
+    "id": "jp040y",
+    "endonym": "小野田線",
+    "exonym": "Hokuriku Shinkansen"
+  },
+  {
+    "id": "jp040z",
+    "endonym": "小野田線",
+    "exonym": "Hokuriku Shinkansen"
+  },
+  {
+    "id": "jp0410",
+    "endonym": "美祢線",
+    "exonym": "Mine Line"
+  },
+  {
+    "id": "jp0411",
+    "endonym": "山陰本線",
+    "exonym": "San'in Main Line"
+  },
+  {
+    "id": "jp0412",
+    "endonym": "山陰本線 (仙崎支線)",
+    "exonym": "San'in Main Line (Senzaki Line)"
+  },
+  {
+    "id": "jp0413",
+    "endonym": "舞鶴線",
+    "exonym": "Maizuru Line"
+  },
+  {
+    "id": "jp0414",
+    "endonym": "因美線",
+    "exonym": "Inbi Line"
+  },
+  {
+    "id": "jp0415",
+    "endonym": "境線",
+    "exonym": "Sakai Line"
+  },
+  {
+    "id": "jp0416",
+    "endonym": "木次線",
+    "exonym": "Kisuki Line"
+  },
+  {
+    "id": "jp0417",
+    "endonym": "関西本線",
+    "exonym": "Kansai Main Line"
+  },
+  {
+    "id": "jp0418",
+    "endonym": "草津線",
+    "exonym": "Kusatsu Line"
+  },
+  {
+    "id": "jp0419",
+    "endonym": "奈良線",
+    "exonym": "Nara Line"
+  },
+  {
+    "id": "jp041a",
+    "endonym": "桜井線",
+    "exonym": "Sakurai Line"
+  },
+  {
+    "id": "jp041b",
+    "endonym": "片町線",
+    "exonym": "Katamachi Line"
+  },
+  {
+    "id": "jp041c",
+    "endonym": "おおさか東線",
+    "exonym": "Osaka Higashi Line"
+  },
+  {
+    "id": "jp041d",
+    "endonym": "和歌山線",
+    "exonym": "Wakayama Line"
+  },
+  {
+    "id": "jp041e",
+    "endonym": "阪和線",
+    "exonym": "Hanwa Line"
+  },
+  {
+    "id": "jp041f",
+    "endonym": "阪和線 (羽衣支線)",
+    "exonym": "Hanwa Line (Hagoromo Branch)"
+  },
+  {
+    "id": "jp041g",
+    "endonym": "関西空港線",
+    "exonym": "Kansai Airport Line"
+  },
+  {
+    "id": "jp041h",
+    "endonym": "紀勢本線",
+    "exonym": "Kisei Main Line"
+  },
+  {
+    "id": "jp041i",
+    "endonym": "北陸新幹線",
+    "exonym": "Hokuriku Shinkansen"
+  },
+  {
+    "id": "jp041j",
+    "endonym": "博多南線",
+    "exonym": "Hakata-minami Line"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "jp030101",
+    "endonym": "熱海",
+    "exonym": "Atami"
+  },
+  {
+    "id": "jp030102",
+    "endonym": "函南",
+    "exonym": "Kannami"
+  },
+  {
+    "id": "jp030103",
+    "endonym": "三島",
+    "exonym": "Mishima"
+  },
+  {
+    "id": "jp030104",
+    "endonym": "沼津",
+    "exonym": "Numazu"
+  },
+  {
+    "id": "jp030105",
+    "endonym": "片浜",
+    "exonym": "Katahama"
+  },
+  {
+    "id": "jp030106",
+    "endonym": "原",
+    "exonym": "Hara"
+  },
+  {
+    "id": "jp030107",
+    "endonym": "東田子の浦",
+    "exonym": "Higashi-Tagonoura"
+  },
+  {
+    "id": "jp030108",
+    "endonym": "吉原",
+    "exonym": "Yoshiwara"
+  },
+  {
+    "id": "jp030109",
+    "endonym": "富士",
+    "exonym": "Fuji"
+  },
+  {
+    "id": "jp03010a",
+    "endonym": "富士川",
+    "exonym": "Fujikawa"
+  },
+  {
+    "id": "jp03010b",
+    "endonym": "新蒲原",
+    "exonym": "Shin-Kambara"
+  },
+  {
+    "id": "jp03010c",
+    "endonym": "蒲原",
+    "exonym": "Kambara"
+  },
+  {
+    "id": "jp03010d",
+    "endonym": "由比",
+    "exonym": "Yui"
+  },
+  {
+    "id": "jp03010e",
+    "endonym": "興津",
+    "exonym": "Okitsu"
+  },
+  {
+    "id": "jp03010f",
+    "endonym": "清水",
+    "exonym": "Shimizu"
+  },
+  {
+    "id": "jp03010g",
+    "endonym": "草薙",
+    "exonym": "Kusanagi"
+  },
+  {
+    "id": "jp03010h",
+    "endonym": "東静岡",
+    "exonym": "Higashi-Shizuoka"
+  },
+  {
+    "id": "jp03010i",
+    "endonym": "静岡",
+    "exonym": "Shizuoka"
+  },
+  {
+    "id": "jp03010j",
+    "endonym": "安倍川",
+    "exonym": "Abekawa"
+  },
+  {
+    "id": "jp03010k",
+    "endonym": "用宗",
+    "exonym": "Mochimune"
+  },
+  {
+    "id": "jp03010l",
+    "endonym": "焼津",
+    "exonym": "Yaizu"
+  },
+  {
+    "id": "jp03010m",
+    "endonym": "西焼津",
+    "exonym": "Nishi-Yaizu"
+  },
+  {
+    "id": "jp03010n",
+    "endonym": "藤枝",
+    "exonym": "Fujieda"
+  },
+  {
+    "id": "jp03010o",
+    "endonym": "六合",
+    "exonym": "Rokugo"
+  },
+  {
+    "id": "jp03010p",
+    "endonym": "島田",
+    "exonym": "Shimada"
+  },
+  {
+    "id": "jp03010q",
+    "endonym": "金谷",
+    "exonym": "Kanaya"
+  },
+  {
+    "id": "jp03010r",
+    "endonym": "菊川",
+    "exonym": "Kikugawa"
+  },
+  {
+    "id": "jp03010s",
+    "endonym": "掛川",
+    "exonym": "Kakegawa"
+  },
+  {
+    "id": "jp03010t",
+    "endonym": "愛野",
+    "exonym": "Aino"
+  },
+  {
+    "id": "jp03010u",
+    "endonym": "袋井",
+    "exonym": "Fukuroi"
+  },
+  {
+    "id": "jp03010v",
+    "endonym": "御厨",
+    "exonym": "Mikuriya"
+  },
+  {
+    "id": "jp03010w",
+    "endonym": "磐田",
+    "exonym": "Iwata"
+  },
+  {
+    "id": "jp03010x",
+    "endonym": "豊田町",
+    "exonym": "Toyodacho"
+  },
+  {
+    "id": "jp03010y",
+    "endonym": "天竜川",
+    "exonym": "Tenryugawa"
+  },
+  {
+    "id": "jp03010z",
+    "endonym": "浜松",
+    "exonym": "Hamamatsu"
+  },
+  {
+    "id": "jp030110",
+    "endonym": "高塚",
+    "exonym": "Takatsuka"
+  },
+  {
+    "id": "jp030111",
+    "endonym": "舞阪",
+    "exonym": "Maisaka"
+  },
+  {
+    "id": "jp030112",
+    "endonym": "弁天島",
+    "exonym": "Bentenjima"
+  },
+  {
+    "id": "jp030113",
+    "endonym": "新居町",
+    "exonym": "Araimachi"
+  },
+  {
+    "id": "jp030114",
+    "endonym": "鷲津",
+    "exonym": "Washizu"
+  },
+  {
+    "id": "jp030115",
+    "endonym": "新所原",
+    "exonym": "Shinjohara"
+  },
+  {
+    "id": "jp030116",
+    "endonym": "二川",
+    "exonym": "Futagawa"
+  },
+  {
+    "id": "jp030117",
+    "endonym": "豊橋",
+    "exonym": "Toyohashi"
+  },
+  {
+    "id": "jp030118",
+    "endonym": "西小坂井",
+    "exonym": "Nishi-Kozakai"
+  },
+  {
+    "id": "jp030119",
+    "endonym": "愛知御津",
+    "exonym": "Aichi-Mito"
+  },
+  {
+    "id": "jp03011a",
+    "endonym": "三河大塚",
+    "exonym": "Mikawa-Otsuka"
+  },
+  {
+    "id": "jp03011b",
+    "endonym": "三河三谷",
+    "exonym": "Mikawa-Miya"
+  },
+  {
+    "id": "jp03011c",
+    "endonym": "蒲郡",
+    "exonym": "Gamagori"
+  },
+  {
+    "id": "jp03011d",
+    "endonym": "三河塩津",
+    "exonym": "Mikawa-Shiotsu"
+  },
+  {
+    "id": "jp03011e",
+    "endonym": "三ヶ根",
+    "exonym": "Sangane"
+  },
+  {
+    "id": "jp03011f",
+    "endonym": "幸田",
+    "exonym": "Koda"
+  },
+  {
+    "id": "jp03011g",
+    "endonym": "相見",
+    "exonym": "Aimi"
+  },
+  {
+    "id": "jp03011h",
+    "endonym": "岡崎",
+    "exonym": "Okazaki"
+  },
+  {
+    "id": "jp03011i",
+    "endonym": "西岡崎",
+    "exonym": "Nishi-Okazaki"
+  },
+  {
+    "id": "jp03011j",
+    "endonym": "安城",
+    "exonym": "Anjo"
+  },
+  {
+    "id": "jp03011k",
+    "endonym": "三河安城",
+    "exonym": "Mikawa-Anjo"
+  },
+  {
+    "id": "jp03011l",
+    "endonym": "東刈谷",
+    "exonym": "Higashi-Kariya"
+  },
+  {
+    "id": "jp03011m",
+    "endonym": "野田新町",
+    "exonym": "Noda-Shinmachi"
+  },
+  {
+    "id": "jp03011n",
+    "endonym": "刈谷",
+    "exonym": "Kariya"
+  },
+  {
+    "id": "jp03011o",
+    "endonym": "逢妻",
+    "exonym": "Aizuma"
+  },
+  {
+    "id": "jp03011p",
+    "endonym": "大府",
+    "exonym": "Obu"
+  },
+  {
+    "id": "jp03011q",
+    "endonym": "共和",
+    "exonym": "Kyowa"
+  },
+  {
+    "id": "jp03011r",
+    "endonym": "南大高",
+    "exonym": "Minami-Odaka"
+  },
+  {
+    "id": "jp03011s",
+    "endonym": "大高",
+    "exonym": "Odaka"
+  },
+  {
+    "id": "jp03011t",
+    "endonym": "笠寺",
+    "exonym": "Kasadera"
+  },
+  {
+    "id": "jp03011u",
+    "endonym": "熱田",
+    "exonym": "Atsuta"
+  },
+  {
+    "id": "jp03011v",
+    "endonym": "金山",
+    "exonym": "Kanayama"
+  },
+  {
+    "id": "jp03011w",
+    "endonym": "尾頭橋",
+    "exonym": "Otobashi"
+  },
+  {
+    "id": "jp03011x",
+    "endonym": "名古屋",
+    "exonym": "Nagoya"
+  },
+  {
+    "id": "jp03011y",
+    "endonym": "枇杷島",
+    "exonym": "Biwajima"
+  },
+  {
+    "id": "jp03011z",
+    "endonym": "清洲",
+    "exonym": "Kiyosu"
+  },
+  {
+    "id": "jp030120",
+    "endonym": "稲沢",
+    "exonym": "Inazawa"
+  },
+  {
+    "id": "jp030121",
+    "endonym": "尾張一宮",
+    "exonym": "Owari-Ichinomiya"
+  },
+  {
+    "id": "jp030122",
+    "endonym": "木曽川",
+    "exonym": "Kisogawa"
+  },
+  {
+    "id": "jp030123",
+    "endonym": "岐阜",
+    "exonym": "Gifu"
+  },
+  {
+    "id": "jp030124",
+    "endonym": "西岐阜",
+    "exonym": "Nishi-Gifu"
+  },
+  {
+    "id": "jp030125",
+    "endonym": "穂積",
+    "exonym": "Hozumi"
+  },
+  {
+    "id": "jp030126",
+    "endonym": "大垣",
+    "exonym": "Ogaki"
+  },
+  {
+    "id": "jp030127",
+    "endonym": "垂井",
+    "exonym": "Tarui"
+  },
+  {
+    "id": "jp030128",
+    "endonym": "関ヶ原",
+    "exonym": "Sekigahara"
+  },
+  {
+    "id": "jp030129",
+    "endonym": "柏原",
+    "exonym": "Kashiwabara"
+  },
+  {
+    "id": "jp03012a",
+    "endonym": "近江長岡",
+    "exonym": "Omi-Nagaoka"
+  },
+  {
+    "id": "jp03012b",
+    "endonym": "醒ヶ井",
+    "exonym": "Samegai"
+  },
+  {
+    "id": "jp03012c",
+    "endonym": "米原",
+    "exonym": "Maibara"
+  }
+]

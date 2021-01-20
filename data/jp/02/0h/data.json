@@ -1,0 +1,297 @@
+[
+  {
+    "id": "jp020h01",
+    "endonym": "新宿",
+    "exonym": "Shinjuku"
+  },
+  {
+    "id": "jp020h02",
+    "endonym": "大久保",
+    "exonym": "Okubo"
+  },
+  {
+    "id": "jp020h03",
+    "endonym": "東中野",
+    "exonym": "Higashi-Nakano"
+  },
+  {
+    "id": "jp020h04",
+    "endonym": "中野",
+    "exonym": "Nakano"
+  },
+  {
+    "id": "jp020h05",
+    "endonym": "高円寺",
+    "exonym": "Koenji"
+  },
+  {
+    "id": "jp020h06",
+    "endonym": "阿佐ケ谷",
+    "exonym": "Asagaya"
+  },
+  {
+    "id": "jp020h07",
+    "endonym": "荻窪",
+    "exonym": "Ogikubo"
+  },
+  {
+    "id": "jp020h08",
+    "endonym": "西荻窪",
+    "exonym": "Nishi-Ogikubo"
+  },
+  {
+    "id": "jp020h09",
+    "endonym": "吉祥寺",
+    "exonym": "Kichijoji"
+  },
+  {
+    "id": "jp020h0a",
+    "endonym": "三鷹",
+    "exonym": "Mitaka"
+  },
+  {
+    "id": "jp020h0b",
+    "endonym": "武蔵境",
+    "exonym": "Musashi-Sakai"
+  },
+  {
+    "id": "jp020h0c",
+    "endonym": "東小金井",
+    "exonym": "Higashi-Koganei"
+  },
+  {
+    "id": "jp020h0d",
+    "endonym": "武蔵小金井",
+    "exonym": "Musashi-Koganei"
+  },
+  {
+    "id": "jp020h0e",
+    "endonym": "国分寺",
+    "exonym": "Kokubunji"
+  },
+  {
+    "id": "jp020h0f",
+    "endonym": "西国分寺",
+    "exonym": "Nishi-Kokubunji"
+  },
+  {
+    "id": "jp020h0g",
+    "endonym": "国立",
+    "exonym": "Kunitachi"
+  },
+  {
+    "id": "jp020h0h",
+    "endonym": "立川",
+    "exonym": "Tachikawa"
+  },
+  {
+    "id": "jp020h0i",
+    "endonym": "日野",
+    "exonym": "Hino"
+  },
+  {
+    "id": "jp020h0j",
+    "endonym": "豊田",
+    "exonym": "Toyoda"
+  },
+  {
+    "id": "jp020h0k",
+    "endonym": "八王子",
+    "exonym": "Hachioji"
+  },
+  {
+    "id": "jp020h0l",
+    "endonym": "西八王子",
+    "exonym": "Nishi-Hachioji"
+  },
+  {
+    "id": "jp020h0m",
+    "endonym": "高尾",
+    "exonym": "Takao"
+  },
+  {
+    "id": "jp020h0n",
+    "endonym": "相模湖",
+    "exonym": "Sagamiko"
+  },
+  {
+    "id": "jp020h0o",
+    "endonym": "藤野",
+    "exonym": "Fujino"
+  },
+  {
+    "id": "jp020h0p",
+    "endonym": "上野原",
+    "exonym": "Uenohara"
+  },
+  {
+    "id": "jp020h0q",
+    "endonym": "四方津",
+    "exonym": "Shiotsu"
+  },
+  {
+    "id": "jp020h0r",
+    "endonym": "梁川",
+    "exonym": "Yanagawa"
+  },
+  {
+    "id": "jp020h0s",
+    "endonym": "鳥沢",
+    "exonym": "Torisawa"
+  },
+  {
+    "id": "jp020h0t",
+    "endonym": "猿橋",
+    "exonym": "Saruhashi"
+  },
+  {
+    "id": "jp020h0u",
+    "endonym": "大月",
+    "exonym": "Otsuki"
+  },
+  {
+    "id": "jp020h0v",
+    "endonym": "初狩",
+    "exonym": "Hatsukari"
+  },
+  {
+    "id": "jp020h0w",
+    "endonym": "笹子",
+    "exonym": "Sasago"
+  },
+  {
+    "id": "jp020h0x",
+    "endonym": "甲斐大和",
+    "exonym": "Kai-Yamato"
+  },
+  {
+    "id": "jp020h0y",
+    "endonym": "勝沼ぶどう郷",
+    "exonym": "Katsunuma-Budokyo"
+  },
+  {
+    "id": "jp020h0z",
+    "endonym": "塩山",
+    "exonym": "Enzan"
+  },
+  {
+    "id": "jp020h10",
+    "endonym": "東山梨",
+    "exonym": "Higashi-Yamanashi"
+  },
+  {
+    "id": "jp020h11",
+    "endonym": "山梨市",
+    "exonym": "Yamanashishi"
+  },
+  {
+    "id": "jp020h12",
+    "endonym": "春日居町",
+    "exonym": "Kasugaicho"
+  },
+  {
+    "id": "jp020h13",
+    "endonym": "石和温泉",
+    "exonym": "Isawa-Onsen"
+  },
+  {
+    "id": "jp020h14",
+    "endonym": "酒折",
+    "exonym": "Sakaori"
+  },
+  {
+    "id": "jp020h15",
+    "endonym": "甲府",
+    "exonym": "Kofu"
+  },
+  {
+    "id": "jp020h16",
+    "endonym": "竜王",
+    "exonym": "Ryuo"
+  },
+  {
+    "id": "jp020h17",
+    "endonym": "塩崎",
+    "exonym": "Shiozaki"
+  },
+  {
+    "id": "jp020h18",
+    "endonym": "韮崎",
+    "exonym": "Nirasaki"
+  },
+  {
+    "id": "jp020h19",
+    "endonym": "新府",
+    "exonym": "Shimpu"
+  },
+  {
+    "id": "jp020h1a",
+    "endonym": "穴山",
+    "exonym": "Anayama"
+  },
+  {
+    "id": "jp020h1b",
+    "endonym": "日野春",
+    "exonym": "Hinoharu"
+  },
+  {
+    "id": "jp020h1c",
+    "endonym": "長坂",
+    "exonym": "Nagasaka"
+  },
+  {
+    "id": "jp020h1d",
+    "endonym": "小淵沢",
+    "exonym": "Kobuchizawa"
+  },
+  {
+    "id": "jp020h1e",
+    "endonym": "信濃境",
+    "exonym": "Shinano-Sakai"
+  },
+  {
+    "id": "jp020h1f",
+    "endonym": "富士見",
+    "exonym": "Fujimi"
+  },
+  {
+    "id": "jp020h1g",
+    "endonym": "すずらんの里",
+    "exonym": "Suzurannosato"
+  },
+  {
+    "id": "jp020h1h",
+    "endonym": "青柳",
+    "exonym": "Aoyagi"
+  },
+  {
+    "id": "jp020h1i",
+    "endonym": "茅野",
+    "exonym": "Chino"
+  },
+  {
+    "id": "jp020h1j",
+    "endonym": "上諏訪",
+    "exonym": "Kami-Suwa"
+  },
+  {
+    "id": "jp020h1k",
+    "endonym": "下諏訪",
+    "exonym": "Shimo-Suwa"
+  },
+  {
+    "id": "jp020h1l",
+    "endonym": "岡谷",
+    "exonym": "Okaya"
+  },
+  {
+    "id": "jp020h1m",
+    "endonym": "みどり湖",
+    "exonym": "Midoriko"
+  },
+  {
+    "id": "jp020h1n",
+    "endonym": "塩尻",
+    "exonym": "Shiojiri"
+  }
+]

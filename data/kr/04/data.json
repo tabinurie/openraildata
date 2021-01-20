@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kr0401",
+    "endonym": "서울 지하철 1호선",
+    "exonym": "Seoul Subway Line 1"
+  },
+  {
+    "id": "kr0402",
+    "endonym": "서울 지하철 2호선 (본선)",
+    "exonym": "Seoul Subway Line 2 (Main Line)"
+  },
+  {
+    "id": "kr0403",
+    "endonym": "서울 지하철 2호선 (성수지선)",
+    "exonym": "Seoul Subway Line 2 (Seongsu Branch)"
+  },
+  {
+    "id": "kr0404",
+    "endonym": "서울 지하철 2호선 (신정지선)",
+    "exonym": "Seoul Subway Line 2 (Sinjeong Branch)"
+  },
+  {
+    "id": "kr0405",
+    "endonym": "서울 지하철 3호선",
+    "exonym": "Seoul Subway Line 3"
+  },
+  {
+    "id": "kr0406",
+    "endonym": "서울 지하철 4호선",
+    "exonym": "Seoul Subway Line 4"
+  },
+  {
+    "id": "kr0407",
+    "endonym": "서울 지하철 5호선",
+    "exonym": "Seoul Subway Line 5"
+  },
+  {
+    "id": "kr0408",
+    "endonym": "서울 지하철 5호선 (오금지선)",
+    "exonym": "Seoul Subway Line 5 (Macheon Branch)"
+  },
+  {
+    "id": "kr0409",
+    "endonym": "서울 지하철 6호선",
+    "exonym": "Seoul Subway Line 6"
+  },
+  {
+    "id": "kr040a",
+    "endonym": "서울 지하철 7호선",
+    "exonym": "Seoul Subway Line 7"
+  },
+  {
+    "id": "kr040b",
+    "endonym": "서울 지하철 8호선",
+    "exonym": "Seoul Subway Line 8"
+  },
+  {
+    "id": "kr040c",
+    "endonym": "김포골드라인",
+    "exonym": "Gimpo Goldline"
+  },
+  {
+    "id": "kr040d",
+    "endonym": "서해선",
+    "exonym": "Seohae Line"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "jp0101",
+    "endonym": "函館本線",
+    "exonym": "Hakodate Main Line"
+  },
+  {
+    "id": "jp0102",
+    "endonym": "函館本線 (鹿部経由)",
+    "exonym": "Hakodate Main Line (via Shikabe)"
+  },
+  {
+    "id": "jp0103",
+    "endonym": "北海道新幹線",
+    "exonym": "Hokkaido Shinkansen"
+  },
+  {
+    "id": "jp0104",
+    "endonym": "札沼線",
+    "exonym": "Sassho Line"
+  },
+  {
+    "id": "jp0105",
+    "endonym": "千歳線",
+    "exonym": "Chitose Line"
+  },
+  {
+    "id": "jp0106",
+    "endonym": "千歳線 (支線)",
+    "exonym": "Chitose Line (Branch)"
+  },
+  {
+    "id": "jp0107",
+    "endonym": "石勝線",
+    "exonym": "Sekisho Line"
+  },
+  {
+    "id": "jp0108",
+    "endonym": "室蘭本線",
+    "exonym": "Muroran Main Line"
+  },
+  {
+    "id": "jp0109",
+    "endonym": "室蘭本線 (支線)",
+    "exonym": "Muroran Main Line (Branch)"
+  },
+  {
+    "id": "jp010a",
+    "endonym": "日高本線",
+    "exonym": "Hidaka Main Line"
+  },
+  {
+    "id": "jp010b",
+    "endonym": "留萌本線",
+    "exonym": "Rumoi Main Line"
+  },
+  {
+    "id": "jp010c",
+    "endonym": "根室本線",
+    "exonym": "Nemuro Main Line"
+  },
+  {
+    "id": "jp010d",
+    "endonym": "富良野線",
+    "exonym": "Furano Line"
+  },
+  {
+    "id": "jp010e",
+    "endonym": "宗谷本線",
+    "exonym": "Soya Main Line"
+  },
+  {
+    "id": "jp010g",
+    "endonym": "釧網本線",
+    "exonym": "Senmo Main Line"
+  }
+]

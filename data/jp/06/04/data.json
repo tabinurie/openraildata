@@ -1,0 +1,62 @@
+[
+  {
+    "id": "jp060401",
+    "endonym": "博多",
+    "exonym": "Hakata"
+  },
+  {
+    "id": "jp060402",
+    "endonym": "新鳥栖",
+    "exonym": "Shin-Tosu"
+  },
+  {
+    "id": "jp060403",
+    "endonym": "久留米",
+    "exonym": "Kurume"
+  },
+  {
+    "id": "jp060404",
+    "endonym": "筑後船小屋",
+    "exonym": "Chikugo-Funagoya"
+  },
+  {
+    "id": "jp060405",
+    "endonym": "新大牟田",
+    "exonym": "Shin-Omuta"
+  },
+  {
+    "id": "jp060406",
+    "endonym": "新玉名",
+    "exonym": "Shin-Tamana"
+  },
+  {
+    "id": "jp060407",
+    "endonym": "熊本",
+    "exonym": "Kumamoto"
+  },
+  {
+    "id": "jp060408",
+    "endonym": "新八代",
+    "exonym": "Shin-Yatsushiro"
+  },
+  {
+    "id": "jp060409",
+    "endonym": "新水俣",
+    "exonym": "Shin-Minamata"
+  },
+  {
+    "id": "jp06040a",
+    "endonym": "出水",
+    "exonym": "Izumi"
+  },
+  {
+    "id": "jp06040b",
+    "endonym": "川内",
+    "exonym": "Sendai"
+  },
+  {
+    "id": "jp06040c",
+    "endonym": "鹿児島中央",
+    "exonym": "Kagoshima-Chuo"
+  }
+]

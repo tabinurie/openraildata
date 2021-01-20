@@ -1,0 +1,377 @@
+[
+  {
+    "id": "th010301",
+    "endonym": "ชุมทางบ้านภาชี",
+    "exonym": "Ban Phachi Junction"
+  },
+  {
+    "id": "th010302",
+    "endonym": "หนองกวย",
+    "exonym": "Nong Kuai"
+  },
+  {
+    "id": "th010303",
+    "endonym": "หนองแซง",
+    "exonym": "Nong Saeng"
+  },
+  {
+    "id": "th010304",
+    "endonym": "หนองสีดา",
+    "exonym": "Nong Sida"
+  },
+  {
+    "id": "th010305",
+    "endonym": "บ้านป๊อกแป๊ก",
+    "exonym": "Ban Pokpaek"
+  },
+  {
+    "id": "th010306",
+    "endonym": "สระบุรี",
+    "exonym": "Saraburi"
+  },
+  {
+    "id": "th010307",
+    "endonym": "หนองบัว",
+    "exonym": "Nong Bua"
+  },
+  {
+    "id": "th010308",
+    "endonym": "ชุมทางแก่งคอย",
+    "exonym": "Kaeng Khoi Junction"
+  },
+  {
+    "id": "th010309",
+    "endonym": "มาบกะเบา",
+    "exonym": "Map Kabao"
+  },
+  {
+    "id": "th01030a",
+    "endonym": "ผาเสด็จ",
+    "exonym": "Pha Sadet"
+  },
+  {
+    "id": "th01030b",
+    "endonym": "หินลับ",
+    "exonym": "Hin Lap"
+  },
+  {
+    "id": "th01030c",
+    "endonym": "มวกเหล็ก",
+    "exonym": "Muak Lek"
+  },
+  {
+    "id": "th01030d",
+    "endonym": "กลางดง",
+    "exonym": "Klang Dong"
+  },
+  {
+    "id": "th01030e",
+    "endonym": "ปางอโศก",
+    "exonym": "Pang Asok"
+  },
+  {
+    "id": "th01030f",
+    "endonym": "บันไดม้า",
+    "exonym": "Bandai Ma"
+  },
+  {
+    "id": "th01030g",
+    "endonym": "ปากช่อง",
+    "exonym": "Pak Chong"
+  },
+  {
+    "id": "th01030h",
+    "endonym": "ซับม่วง",
+    "exonym": "Sap Muang"
+  },
+  {
+    "id": "th01030i",
+    "endonym": "จันทึก",
+    "exonym": "Chanthuk"
+  },
+  {
+    "id": "th01030j",
+    "endonym": "คลองขนานจิตร",
+    "exonym": "Khlong Khanan Chit"
+  },
+  {
+    "id": "th01030k",
+    "endonym": "คลองไผ่",
+    "exonym": "Khlong Phai"
+  },
+  {
+    "id": "th01030l",
+    "endonym": "ลาดบัวขาว",
+    "exonym": "Lat Bua Khao"
+  },
+  {
+    "id": "th01030m",
+    "endonym": "บ้านใหม่สำโรง",
+    "exonym": "Ban Mai Samrong"
+  },
+  {
+    "id": "th01030n",
+    "endonym": "หนองน้ำขุ่น",
+    "exonym": "Nong Nam Khun"
+  },
+  {
+    "id": "th01030o",
+    "endonym": "สีคิ้ว",
+    "exonym": "Sikhiu"
+  },
+  {
+    "id": "th01030p",
+    "endonym": "โคกสะอาด",
+    "exonym": "Khok Sa-at"
+  },
+  {
+    "id": "th01030q",
+    "endonym": "สูงเนิน",
+    "exonym": "Sung Noen"
+  },
+  {
+    "id": "th01030r",
+    "endonym": "กุดจิก",
+    "exonym": "Kut Chik"
+  },
+  {
+    "id": "th01030s",
+    "endonym": "โคกกรวด",
+    "exonym": "Khok Kruat"
+  },
+  {
+    "id": "th01030t",
+    "endonym": "ภูเขาลาด",
+    "exonym": "Phu Khao Lat"
+  },
+  {
+    "id": "th01030u",
+    "endonym": "นครราชสีมา",
+    "exonym": "Nakhon Ratchasima"
+  },
+  {
+    "id": "th01030v",
+    "endonym": "ชุมทางถนนจิระ",
+    "exonym": "Thanon Chira Junction"
+  },
+  {
+    "id": "th01030w",
+    "endonym": "บ้านเกาะ",
+    "exonym": "Ban Ko"
+  },
+  {
+    "id": "th01030x",
+    "endonym": "หนองไข่น้ำ",
+    "exonym": "Nong Khai Nam"
+  },
+  {
+    "id": "th01030y",
+    "endonym": "บ้านกระโดน",
+    "exonym": "Ban Kradon"
+  },
+  {
+    "id": "th01030z",
+    "endonym": "บ้านหนองกันงา",
+    "exonym": "Ban Nong Gunngar"
+  },
+  {
+    "id": "th010310",
+    "endonym": "หนองแมว",
+    "exonym": "Nong Maeo"
+  },
+  {
+    "id": "th010311",
+    "endonym": "โนนสูง",
+    "exonym": "Non Sung"
+  },
+  {
+    "id": "th010312",
+    "endonym": "บ้านดงพลอง",
+    "exonym": "Ban Dong Phlong"
+  },
+  {
+    "id": "th010313",
+    "endonym": "บ้านมะค่า",
+    "exonym": "Ban Makha"
+  },
+  {
+    "id": "th010314",
+    "endonym": "เนินถั่วแปบ",
+    "exonym": "Noen Thua Paep"
+  },
+  {
+    "id": "th010315",
+    "endonym": "พลสงคราม",
+    "exonym": "Phon Songkhram"
+  },
+  {
+    "id": "th010316",
+    "endonym": "บ้านดอนใหญ่",
+    "exonym": "Ban Don Yai"
+  },
+  {
+    "id": "th010317",
+    "endonym": "เมืองคง",
+    "exonym": "Muang Khong"
+  },
+  {
+    "id": "th010318",
+    "endonym": "บ้านไร่",
+    "exonym": "Ban Rai"
+  },
+  {
+    "id": "th010319",
+    "endonym": "โนนทองหลาง",
+    "exonym": "Non Thong Lang"
+  },
+  {
+    "id": "th01031a",
+    "endonym": "ห้วยระหัด",
+    "exonym": "Huai Rahat"
+  },
+  {
+    "id": "th01031b",
+    "endonym": "ชุมทางบัวใหญ่",
+    "exonym": "Bua Yai Junction"
+  },
+  {
+    "id": "th01031c",
+    "endonym": "เนินสวัสดิ์",
+    "exonym": "Noen Sawat"
+  },
+  {
+    "id": "th01031d",
+    "endonym": "หนองบัวลาย",
+    "exonym": "Nong Bua Lai"
+  },
+  {
+    "id": "th01031e",
+    "endonym": "ศาลาดิน",
+    "exonym": "Sala Din"
+  },
+  {
+    "id": "th01031f",
+    "endonym": "หนองมะเขือ",
+    "exonym": "Nong Makhua"
+  },
+  {
+    "id": "th01031g",
+    "endonym": "เมืองพล",
+    "exonym": "Muang Phon"
+  },
+  {
+    "id": "th01031h",
+    "endonym": "บ้านหัน",
+    "exonym": "Ban Han"
+  },
+  {
+    "id": "th01031i",
+    "endonym": "บ้านไผ่",
+    "exonym": "Ban Phai"
+  },
+  {
+    "id": "th01031j",
+    "endonym": "บ้านแฮด",
+    "exonym": "Ban Haet"
+  },
+  {
+    "id": "th01031k",
+    "endonym": "ท่าพระ",
+    "exonym": "Tha Phra"
+  },
+  {
+    "id": "th01031l",
+    "endonym": "ขอนแก่น",
+    "exonym": "Khon Kaen"
+  },
+  {
+    "id": "th01031m",
+    "endonym": "สำราญ",
+    "exonym": "Samran"
+  },
+  {
+    "id": "th01031n",
+    "endonym": "โนนพยอม",
+    "exonym": "Non Phayom"
+  },
+  {
+    "id": "th01031o",
+    "endonym": "บ้านวังชัย",
+    "exonym": "Ban Wang Chai"
+  },
+  {
+    "id": "th01031p",
+    "endonym": "น้ำพอง",
+    "exonym": "Nam Phong"
+  },
+  {
+    "id": "th01031q",
+    "endonym": "ห้วยเสียว",
+    "exonym": "Huai Sieo"
+  },
+  {
+    "id": "th01031r",
+    "endonym": "เขาสวนกวาง",
+    "exonym": "Khao Suan Kwang"
+  },
+  {
+    "id": "th01031s",
+    "endonym": "โนนสะอาด",
+    "exonym": "Non Sa-at"
+  },
+  {
+    "id": "th01031t",
+    "endonym": "ห้วยเกิ้ง",
+    "exonym": "Huai Koeng"
+  },
+  {
+    "id": "th01031u",
+    "endonym": "กุมภวาปี",
+    "exonym": "Kumphawapi"
+  },
+  {
+    "id": "th01031v",
+    "endonym": "ห้วยสามพาด",
+    "exonym": "Huai Sam Phat"
+  },
+  {
+    "id": "th01031w",
+    "endonym": "หนองตะไก้",
+    "exonym": "Nong Takai"
+  },
+  {
+    "id": "th01031x",
+    "endonym": "คำกลิ้ง",
+    "exonym": "Kham Kling"
+  },
+  {
+    "id": "th01031y",
+    "endonym": "หนองขอนกว้าง",
+    "exonym": "Nong Khon Kwang"
+  },
+  {
+    "id": "th01031z",
+    "endonym": "อุดรธานี",
+    "exonym": "Udon Thani"
+  },
+  {
+    "id": "th010320",
+    "endonym": "นาพู่",
+    "exonym": "Na Phu"
+  },
+  {
+    "id": "th010321",
+    "endonym": "นาทา",
+    "exonym": "Na Tha"
+  },
+  {
+    "id": "th010322",
+    "endonym": "หนองคาย",
+    "exonym": "Nong Khai"
+  },
+  {
+    "id": "th010323",
+    "endonym": "ชายแดน (ลาว)",
+    "exonym": "Border (Laos)"
+  }
+]

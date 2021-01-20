@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sg030101",
+    "endonym": "HarbourFront",
+    "exonym": "HarbourFront"
+  },
+  {
+    "id": "sg030102",
+    "endonym": "Outram Park",
+    "exonym": "Outram Park"
+  },
+  {
+    "id": "sg030103",
+    "endonym": "Chinatown",
+    "exonym": "Chinatown"
+  },
+  {
+    "id": "sg030104",
+    "endonym": "Clarke Quay",
+    "exonym": "Clarke Quay"
+  },
+  {
+    "id": "sg030105",
+    "endonym": "Dhoby Ghaut",
+    "exonym": "Dhoby Ghaut"
+  },
+  {
+    "id": "sg030106",
+    "endonym": "Little India",
+    "exonym": "Little India"
+  },
+  {
+    "id": "sg030107",
+    "endonym": "Farrer Park",
+    "exonym": "Farrer Park"
+  },
+  {
+    "id": "sg030108",
+    "endonym": "Boon Keng",
+    "exonym": "Boon Keng"
+  },
+  {
+    "id": "sg030109",
+    "endonym": "Potong Pasir",
+    "exonym": "Potong Pasir"
+  },
+  {
+    "id": "sg03010a",
+    "endonym": "Woodleigh",
+    "exonym": "Woodleigh"
+  },
+  {
+    "id": "sg03010b",
+    "endonym": "Serangoon",
+    "exonym": "Serangoon"
+  },
+  {
+    "id": "sg03010c",
+    "endonym": "Kovan",
+    "exonym": "Kovan"
+  },
+  {
+    "id": "sg03010d",
+    "endonym": "Hougang",
+    "exonym": "Hougang"
+  },
+  {
+    "id": "sg03010e",
+    "endonym": "Buangkok",
+    "exonym": "Buangkok"
+  },
+  {
+    "id": "sg03010f",
+    "endonym": "Sengkang",
+    "exonym": "Sengkang"
+  },
+  {
+    "id": "sg03010g",
+    "endonym": "Punggol",
+    "exonym": "Punggol"
+  }
+]
