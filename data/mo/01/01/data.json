@@ -1,0 +1,57 @@
+[
+  {
+    "id": "01",
+    "endonym": "海洋",
+    "exonym": "Ocean"
+  },
+  {
+    "id": "02",
+    "endonym": "馬會",
+    "exonym": "Jockey Club"
+  },
+  {
+    "id": "03",
+    "endonym": "運動場",
+    "exonym": "Stadium"
+  },
+  {
+    "id": "04",
+    "endonym": "排角",
+    "exonym": "Pai Kok"
+  },
+  {
+    "id": "05",
+    "endonym": "路氹西",
+    "exonym": "Cotai West"
+  },
+  {
+    "id": "06",
+    "endonym": "蓮花口岸",
+    "exonym": "Lotus Checkpoint"
+  },
+  {
+    "id": "07",
+    "endonym": "東亞運",
+    "exonym": "East Asian Games"
+  },
+  {
+    "id": "08",
+    "endonym": "路氹東",
+    "exonym": "Cotai East"
+  },
+  {
+    "id": "09",
+    "endonym": "科大",
+    "exonym": "MUST"
+  },
+  {
+    "id": "0a",
+    "endonym": "機場",
+    "exonym": "Airport"
+  },
+  {
+    "id": "0b",
+    "endonym": "氹仔碼頭",
+    "exonym": "Taipa Ferry Terminal"
+  }
+]
