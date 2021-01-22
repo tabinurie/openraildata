@@ -1,26 +1,26 @@
 [
   {
-    "id": "sg01",
+    "id": "01",
     "endonym": "Malayan Railways",
     "exonym": "Malayan Railways"
   },
   {
-    "id": "sg02",
+    "id": "02",
     "endonym": "SMRT Trains",
     "exonym": "SMRT Trains"
   },
   {
-    "id": "sg03",
+    "id": "03",
     "endonym": "SBS Transit",
     "exonym": "SBS Transit"
   },
   {
-    "id": "sg04",
+    "id": "04",
     "endonym": "Sentosa Development Corporation",
     "exonym": "Sentosa Development Corporation"
   },
   {
-    "id": "sg05",
+    "id": "05",
     "endonym": "Changi Airport Group",
     "exonym": "Changi Airport Group"
   }

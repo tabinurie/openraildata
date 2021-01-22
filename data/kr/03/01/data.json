@@ -1,71 +1,71 @@
 [
   {
-    "id": "kr030101",
+    "id": "01",
     "endonym": "서울",
     "exonym": "Seoul"
   },
   {
-    "id": "kr030102",
+    "id": "02",
     "endonym": "공덕",
     "exonym": "Gongdeok"
   },
   {
-    "id": "kr030103",
+    "id": "03",
     "endonym": "홍대입구",
     "exonym": "Hongik Univ."
   },
   {
-    "id": "kr030104",
+    "id": "04",
     "endonym": "디지털미디어시티",
     "exonym": "Digital Media City"
   },
   {
-    "id": "kr030105",
+    "id": "05",
     "endonym": "마곡나루",
     "exonym": "Magongnaru"
   },
   {
-    "id": "kr030106",
+    "id": "06",
     "endonym": "김포공항",
     "exonym": "Gimpo Intl Airport"
   },
   {
-    "id": "kr030107",
+    "id": "07",
     "endonym": "계양",
     "exonym": "Gyeyang"
   },
   {
-    "id": "kr030108",
+    "id": "08",
     "endonym": "검암",
     "exonym": "Geomam"
   },
   {
-    "id": "kr030109",
+    "id": "09",
     "endonym": "청라국제도시",
     "exonym": "Cheongna Int'l City"
   },
   {
-    "id": "kr03010a",
+    "id": "0a",
     "endonym": "영종",
     "exonym": "Yeongjong"
   },
   {
-    "id": "kr03010b",
+    "id": "0b",
     "endonym": "운서",
     "exonym": "Unseo"
   },
   {
-    "id": "kr03010c",
+    "id": "0c",
     "endonym": "공항화물청사",
     "exonym": "Incheon Int'l Airport Cargo Terminal"
   },
   {
-    "id": "kr03010d",
+    "id": "0d",
     "endonym": "인천공항1터미널",
     "exonym": "Incheon Int'l Airport Terminal 1"
   },
   {
-    "id": "kr03010e",
+    "id": "0e",
     "endonym": "인천공항2터미널",
     "exonym": "Incheon Int'l Airport Terminal 2"
   }

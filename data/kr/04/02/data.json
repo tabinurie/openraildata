@@ -1,221 +1,221 @@
 [
   {
-    "id": "kr040201",
+    "id": "01",
     "endonym": "시청",
     "exonym": "City Hall"
   },
   {
-    "id": "kr040202",
+    "id": "02",
     "endonym": "을지로입구",
     "exonym": "Euljiro 1(il)-ga"
   },
   {
-    "id": "kr040203",
+    "id": "03",
     "endonym": "을지로3가",
     "exonym": "Euljiro 3(sam)-ga"
   },
   {
-    "id": "kr040204",
+    "id": "04",
     "endonym": "을지로4가",
     "exonym": "Euljiro 4(sa)-ga"
   },
   {
-    "id": "kr040205",
+    "id": "05",
     "endonym": "동대문역사문화공원",
     "exonym": "Dongdaemun History & Culture Park"
   },
   {
-    "id": "kr040206",
+    "id": "06",
     "endonym": "신당",
     "exonym": "Sindang"
   },
   {
-    "id": "kr040207",
+    "id": "07",
     "endonym": "상왕십리",
     "exonym": "Sangwangsimni"
   },
   {
-    "id": "kr040208",
+    "id": "08",
     "endonym": "왕십리",
     "exonym": "Wangsimni"
   },
   {
-    "id": "kr040209",
+    "id": "09",
     "endonym": "한양대",
     "exonym": "Hanyang Univ."
   },
   {
-    "id": "kr04020a",
+    "id": "0a",
     "endonym": "뚝섬",
     "exonym": "Ttukseom"
   },
   {
-    "id": "kr04020b",
+    "id": "0b",
     "endonym": "성수",
     "exonym": "Seongsu"
   },
   {
-    "id": "kr04020c",
+    "id": "0c",
     "endonym": "건대입구",
     "exonym": "Konkuk Univ."
   },
   {
-    "id": "kr04020d",
+    "id": "0d",
     "endonym": "구의",
     "exonym": "Guui"
   },
   {
-    "id": "kr04020e",
+    "id": "0e",
     "endonym": "강변",
     "exonym": "Gangbyeon"
   },
   {
-    "id": "kr04020f",
+    "id": "0f",
     "endonym": "잠실나루",
     "exonym": "Jamsillaru"
   },
   {
-    "id": "kr04020g",
+    "id": "0g",
     "endonym": "잠실",
     "exonym": "Jamsil"
   },
   {
-    "id": "kr04020h",
+    "id": "0h",
     "endonym": "잠실새내",
     "exonym": "Jamsilsaenae"
   },
   {
-    "id": "kr04020i",
+    "id": "0i",
     "endonym": "종합운동장",
     "exonym": "Sports Complex"
   },
   {
-    "id": "kr04020j",
+    "id": "0j",
     "endonym": "삼성",
     "exonym": "Samseong"
   },
   {
-    "id": "kr04020k",
+    "id": "0k",
     "endonym": "선릉",
     "exonym": "Seolleung"
   },
   {
-    "id": "kr04020l",
+    "id": "0l",
     "endonym": "역삼",
     "exonym": "Yeoksam"
   },
   {
-    "id": "kr04020m",
+    "id": "0m",
     "endonym": "강남",
     "exonym": "Gangnam"
   },
   {
-    "id": "kr04020n",
+    "id": "0n",
     "endonym": "교대",
     "exonym": "Seoul Nat'l Univ. of Education"
   },
   {
-    "id": "kr04020o",
+    "id": "0o",
     "endonym": "서초",
     "exonym": "Seocho"
   },
   {
-    "id": "kr04020p",
+    "id": "0p",
     "endonym": "방배",
     "exonym": "Bangbae"
   },
   {
-    "id": "kr04020q",
+    "id": "0q",
     "endonym": "사당",
     "exonym": "Sadang"
   },
   {
-    "id": "kr04020r",
+    "id": "0r",
     "endonym": "낙성대",
     "exonym": "Nakseongdae"
   },
   {
-    "id": "kr04020s",
+    "id": "0s",
     "endonym": "서울대입구",
     "exonym": "Seoul Nat'l Univ."
   },
   {
-    "id": "kr04020t",
+    "id": "0t",
     "endonym": "봉천",
     "exonym": "Bongcheon"
   },
   {
-    "id": "kr04020u",
+    "id": "0u",
     "endonym": "신림",
     "exonym": "Sillim"
   },
   {
-    "id": "kr04020v",
+    "id": "0v",
     "endonym": "신대방",
     "exonym": "Sindaebang"
   },
   {
-    "id": "kr04020w",
+    "id": "0w",
     "endonym": "구로디지털단지",
     "exonym": "Guro Digital Complex"
   },
   {
-    "id": "kr04020x",
+    "id": "0x",
     "endonym": "대림",
     "exonym": "Daerim"
   },
   {
-    "id": "kr04020y",
+    "id": "0y",
     "endonym": "신도림",
     "exonym": "Sindorim"
   },
   {
-    "id": "kr04020z",
+    "id": "0z",
     "endonym": "문래",
     "exonym": "Mullae"
   },
   {
-    "id": "kr040210",
+    "id": "10",
     "endonym": "영등포구청",
     "exonym": "Yeongdeungpo-gu Office"
   },
   {
-    "id": "kr040211",
+    "id": "11",
     "endonym": "당산",
     "exonym": "Dangsan"
   },
   {
-    "id": "kr040212",
+    "id": "12",
     "endonym": "합정",
     "exonym": "Hapjeong"
   },
   {
-    "id": "kr040213",
+    "id": "13",
     "endonym": "홍대입구",
     "exonym": "Hongik Univ."
   },
   {
-    "id": "kr040214",
+    "id": "14",
     "endonym": "신촌",
     "exonym": "Sinchon"
   },
   {
-    "id": "kr040215",
+    "id": "15",
     "endonym": "이대",
     "exonym": "Ewha Womans Univ."
   },
   {
-    "id": "kr040216",
+    "id": "16",
     "endonym": "아현",
     "exonym": "Ahyeon"
   },
   {
-    "id": "kr040217",
+    "id": "17",
     "endonym": "충정로",
     "exonym": "Chungjeongno"
   },
   {
-    "id": "kr040218",
+    "id": "18",
     "endonym": "시청",
     "exonym": "City Hall"
   }

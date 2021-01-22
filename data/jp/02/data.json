@@ -1,446 +1,446 @@
 [
   {
-    "id": "jp0201",
+    "id": "01",
     "endonym": "東海道本線",
     "exonym": "Tokaido Main Line"
   },
   {
-    "id": "jp0202",
+    "id": "02",
     "endonym": "東海道本線 (品鶴線)",
     "exonym": "Tokaido Main Line (Hinkaku Line)"
   },
   {
-    "id": "jp0203",
+    "id": "03",
     "endonym": "東海道本線 (貨物線)",
     "exonym": "Tokaido Main Line (Freight Line)"
   },
   {
-    "id": "jp0204",
+    "id": "04",
     "endonym": "山手線",
     "exonym": "Yamanote Line"
   },
   {
-    "id": "jp0205",
+    "id": "05",
     "endonym": "赤羽線",
     "exonym": "Saikyo Line"
   },
   {
-    "id": "jp0206",
+    "id": "06",
     "endonym": "南武線",
     "exonym": "Nambu Line"
   },
   {
-    "id": "jp0207",
+    "id": "07",
     "endonym": "南武線 (支線)",
     "exonym": "Nambu Line (Branch)"
   },
   {
-    "id": "jp0208",
+    "id": "08",
     "endonym": "鶴見線",
     "exonym": "Tsurumi Line"
   },
   {
-    "id": "jp0209",
+    "id": "09",
     "endonym": "鶴見線 (大川支線)",
     "exonym": "Tsurumi Line (Okawa Branch)"
   },
   {
-    "id": "jp020a",
+    "id": "0a",
     "endonym": "鶴見線 (海芝浦支線)",
     "exonym": "Tsurumi Line (Umi-Shibaura Branch)"
   },
   {
-    "id": "jp020b",
+    "id": "0b",
     "endonym": "武蔵野線",
     "exonym": "Musashino Line"
   },
   {
-    "id": "jp020c",
+    "id": "0c",
     "endonym": "横浜線",
     "exonym": "Yokohama Line"
   },
   {
-    "id": "jp020d",
+    "id": "0d",
     "endonym": "根岸線",
     "exonym": "Negishi Line"
   },
   {
-    "id": "jp020e",
+    "id": "0e",
     "endonym": "横須賀線",
     "exonym": "Yokosuka Line"
   },
   {
-    "id": "jp020f",
+    "id": "0f",
     "endonym": "相模線",
     "exonym": "Sagami Line"
   },
   {
-    "id": "jp020g",
+    "id": "0g",
     "endonym": "伊東線",
     "exonym": "Ito Line"
   },
   {
-    "id": "jp020h",
+    "id": "0h",
     "endonym": "中央本線",
     "exonym": "Chuo Main Line"
   },
   {
-    "id": "jp020i",
+    "id": "0i",
     "endonym": "中央本線 (神田 - 代々木)",
     "exonym": "Chuo Main Line (Kanda - Yoyogi)"
   },
   {
-    "id": "jp020j",
+    "id": "0j",
     "endonym": "中央本線 (辰野経由)",
     "exonym": "Chuo Main Line (via Tatsuno)"
   },
   {
-    "id": "jp020k",
+    "id": "0k",
     "endonym": "青梅線",
     "exonym": "Ome Line"
   },
   {
-    "id": "jp020l",
+    "id": "0l",
     "endonym": "五日市線",
     "exonym": "Itsukaichi Line"
   },
   {
-    "id": "jp020m",
+    "id": "0m",
     "endonym": "八高線",
     "exonym": "Hachiko Line"
   },
   {
-    "id": "jp020n",
+    "id": "0n",
     "endonym": "小海線",
     "exonym": "Koumi Line"
   },
   {
-    "id": "jp020o",
+    "id": "0o",
     "endonym": "篠ノ井線",
     "exonym": "Shinonoi Line"
   },
   {
-    "id": "jp020p",
+    "id": "0p",
     "endonym": "大糸線",
     "exonym": "Oito Line"
   },
   {
-    "id": "jp020q",
+    "id": "0q",
     "endonym": "東北本線 (東京 - 盛岡)",
     "exonym": "Tohoku Main Line (Tokyo - Morioka)"
   },
   {
-    "id": "jp020r",
+    "id": "0r",
     "endonym": "東北本線 (尾久経由)",
     "exonym": "Tohoku Main Line (via Oku)"
   },
   {
-    "id": "jp020s",
+    "id": "0s",
     "endonym": "東北本線 (埼京線)",
     "exonym": "Tohoku Main Line (Saikyo Line)"
   },
   {
-    "id": "jp020t",
+    "id": "0t",
     "endonym": "東北本線 (利府支線)",
     "exonym": "Tohoku Main Line (Rifu Branch)"
   },
   {
-    "id": "jp020u",
+    "id": "0u",
     "endonym": "東北本線 (仙石東北ライン)",
     "exonym": "Tohoku Main Line (Senseki Tohoku Line)"
   },
   {
-    "id": "jp020v",
+    "id": "0v",
     "endonym": "東北新幹線",
     "exonym": "Tohoku Shinkansen"
   },
   {
-    "id": "jp020w",
+    "id": "0w",
     "endonym": "常磐線",
     "exonym": "Joban Line"
   },
   {
-    "id": "jp020x",
+    "id": "0x",
     "endonym": "水郡線",
     "exonym": "Suigun Line"
   },
   {
-    "id": "jp020y",
+    "id": "0y",
     "endonym": "水郡線 (支線)",
     "exonym": "Suigun Line (Branch)"
   },
   {
-    "id": "jp020z",
+    "id": "0z",
     "endonym": "川越線",
     "exonym": "Kawagoe Line"
   },
   {
-    "id": "jp0210",
+    "id": "10",
     "endonym": "高崎線",
     "exonym": "Takasaki Line"
   },
   {
-    "id": "jp0211",
+    "id": "11",
     "endonym": "上越線",
     "exonym": "Joetsu Shinkansen"
   },
   {
-    "id": "jp0212",
+    "id": "12",
     "endonym": "上越線 (越後湯沢 - ガーラ湯沢)",
     "exonym": "Joetsu Line (Echigo-Yuzawa - GALA Yuzawa)"
   },
   {
-    "id": "jp0213",
+    "id": "13",
     "endonym": "上越新幹線",
     "exonym": "Joetsu Shinkansen"
   },
   {
-    "id": "jp0214",
+    "id": "14",
     "endonym": "吾妻線",
     "exonym": "Agatsuma Line"
   },
   {
-    "id": "jp0215",
+    "id": "15",
     "endonym": "両毛線",
     "exonym": "Ryomo Line"
   },
   {
-    "id": "jp0216",
+    "id": "16",
     "endonym": "水戸線",
     "exonym": "Mito Line"
   },
   {
-    "id": "jp0217",
+    "id": "17",
     "endonym": "日光線",
     "exonym": "Nikko Line"
   },
   {
-    "id": "jp0218",
+    "id": "18",
     "endonym": "烏山線",
     "exonym": "Karasuyama Line"
   },
   {
-    "id": "jp0219",
+    "id": "19",
     "endonym": "仙山線",
     "exonym": "Senzan Line"
   },
   {
-    "id": "jp021a",
+    "id": "1a",
     "endonym": "仙石線",
     "exonym": "Senseki Line"
   },
   {
-    "id": "jp021b",
+    "id": "1b",
     "endonym": "石巻線",
     "exonym": "Senseki Line"
   },
   {
-    "id": "jp021c",
+    "id": "1c",
     "endonym": "気仙沼線",
     "exonym": "Kesennuma Line"
   },
   {
-    "id": "jp021d",
+    "id": "1d",
     "endonym": "大船渡線",
     "exonym": "Ofunato Line"
   },
   {
-    "id": "jp021e",
+    "id": "1e",
     "endonym": "北上線",
     "exonym": "Kitakami Line"
   },
   {
-    "id": "jp021f",
+    "id": "1f",
     "endonym": "釜石線",
     "exonym": "Kamaishi Line"
   },
   {
-    "id": "jp021g",
+    "id": "1g",
     "endonym": "田沢湖線",
     "exonym": "Tazawako Line"
   },
   {
-    "id": "jp021h",
+    "id": "1h",
     "endonym": "山田線",
     "exonym": "Yamada Line"
   },
   {
-    "id": "jp021i",
+    "id": "1i",
     "endonym": "花輪線",
     "exonym": "Hanawa Line"
   },
   {
-    "id": "jp021j",
+    "id": "1j",
     "endonym": "八戸線",
     "exonym": "Hachinohe Line"
   },
   {
-    "id": "jp021k",
+    "id": "1k",
     "endonym": "大湊線",
     "exonym": "Ominato Line"
   },
   {
-    "id": "jp021l",
+    "id": "1l",
     "endonym": "磐越東線",
     "exonym": "Ban'etsu East Line"
   },
   {
-    "id": "jp021m",
+    "id": "1m",
     "endonym": "磐越西線",
     "exonym": "Ban'etsu West Line"
   },
   {
-    "id": "jp021n",
+    "id": "1n",
     "endonym": "只見線",
     "exonym": "Tadami Line"
   },
   {
-    "id": "jp021o",
+    "id": "1o",
     "endonym": "奥羽本線",
     "exonym": "Ou Main Line"
   },
   {
-    "id": "jp021p",
+    "id": "1p",
     "endonym": "米坂線",
     "exonym": "Yonesaka Line"
   },
   {
-    "id": "jp021q",
+    "id": "1q",
     "endonym": "左沢線",
     "exonym": "Aterazawa Line"
   },
   {
-    "id": "jp021r",
+    "id": "1r",
     "endonym": "男鹿線",
     "exonym": "Oga Line"
   },
   {
-    "id": "jp021s",
+    "id": "1s",
     "endonym": "五能線",
     "exonym": "Gono Line"
   },
   {
-    "id": "jp021t",
+    "id": "1t",
     "endonym": "津軽線",
     "exonym": "Tsugaru Line"
   },
   {
-    "id": "jp021u",
+    "id": "1u",
     "endonym": "羽越本線",
     "exonym": "Uetsu Main Line"
   },
   {
-    "id": "jp021v",
+    "id": "1v",
     "endonym": "白新線",
     "exonym": "Hakushin Line"
   },
   {
-    "id": "jp021w",
+    "id": "1w",
     "endonym": "陸羽東線",
     "exonym": "Rikuu East Line"
   },
   {
-    "id": "jp021x",
+    "id": "1x",
     "endonym": "陸羽西線",
     "exonym": "Rikuu West Line"
   },
   {
-    "id": "jp021y",
+    "id": "1y",
     "endonym": "信越本線 (高崎 - 横川)",
     "exonym": "Shin'etsu Main Line (Takasaki - Yokokawa)"
   },
   {
-    "id": "jp021z",
+    "id": "1z",
     "endonym": "信越本線 (篠ノ井 - 長野)",
     "exonym": "Shin'etsu Main Line (Shinonoi - Nagano)"
   },
   {
-    "id": "jp0220",
+    "id": "20",
     "endonym": "信越本線 (直江津 - 新潟)",
     "exonym": "Shin'etsu Main Line (Naoetsu - Niigata)"
   },
   {
-    "id": "jp0221",
+    "id": "21",
     "endonym": "北陸新幹線",
     "exonym": "Hokuriku Shinkansen"
   },
   {
-    "id": "jp0222",
+    "id": "22",
     "endonym": "飯山線",
     "exonym": "Iiyama Line"
   },
   {
-    "id": "jp0223",
+    "id": "23",
     "endonym": "越後線",
     "exonym": "Echigo Line"
   },
   {
-    "id": "jp0224",
+    "id": "24",
     "endonym": "弥彦線",
     "exonym": "Yahiko Line"
   },
   {
-    "id": "jp0225",
+    "id": "25",
     "endonym": "総武本線",
     "exonym": "Sobu Main Line"
   },
   {
-    "id": "jp0226",
+    "id": "26",
     "endonym": "総武本線 (御茶ノ水 - 錦糸町)",
     "exonym": "Sobu Main Line (Ochanomizu - Kinshicho)"
   },
   {
-    "id": "jp0227",
+    "id": "27",
     "endonym": "京葉線 (東京 - 蘇我)",
     "exonym": "Keiyo Line (Tokyo - Soga)"
   },
   {
-    "id": "jp0228",
+    "id": "28",
     "endonym": "京葉線 (市川塩浜 - 西船橋)",
     "exonym": "Keiyo Line (Ichikawashiohama - Nishi-Funabashi)"
   },
   {
-    "id": "jp0229",
+    "id": "29",
     "endonym": "京葉線 (西船橋 - 南船橋)",
     "exonym": "Keiyo Line (Nishi-Funabashi - Minami-Funabashi)"
   },
   {
-    "id": "jp022a",
+    "id": "2a",
     "endonym": "外房線",
     "exonym": "Sotobo Line"
   },
   {
-    "id": "jp022b",
+    "id": "2b",
     "endonym": "内房線",
     "exonym": "Uchibo Line"
   },
   {
-    "id": "jp022c",
+    "id": "2c",
     "endonym": "成田線",
     "exonym": "Narita Line"
   },
   {
-    "id": "jp022d",
+    "id": "2d",
     "endonym": "成田線 (我孫子支線)",
     "exonym": "Narita Line (Abiko Branch)"
   },
   {
-    "id": "jp022e",
+    "id": "2e",
     "endonym": "成田線 (空港支線)",
     "exonym": "Narita Line (Airport Branch)"
   },
   {
-    "id": "jp022f",
+    "id": "2f",
     "endonym": "鹿島線",
     "exonym": "Kashima Line"
   },
   {
-    "id": "jp022g",
+    "id": "2g",
     "endonym": "久留里線",
     "exonym": "Kururi Line"
   },
   {
-    "id": "jp022h",
+    "id": "2h",
     "endonym": "東金線",
     "exonym": "Togane Line"
   }

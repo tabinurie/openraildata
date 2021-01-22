@@ -1,31 +1,31 @@
 [
   {
-    "id": "jp01",
+    "id": "01",
     "endonym": "JR北海道",
     "exonym": "JR Hokkaido"
   },
   {
-    "id": "jp02",
+    "id": "02",
     "endonym": "JR東日本",
     "exonym": "JR East"
   },
   {
-    "id": "jp03",
+    "id": "03",
     "endonym": "JR東海",
     "exonym": "JR Central"
   },
   {
-    "id": "jp04",
+    "id": "04",
     "endonym": "JR西日本",
     "exonym": "JR West"
   },
   {
-    "id": "jp05",
+    "id": "05",
     "endonym": "JR四国",
     "exonym": "JR Shikoku"
   },
   {
-    "id": "jp06",
+    "id": "06",
     "endonym": "JR九州",
     "exonym": "JR Kyushu"
   }

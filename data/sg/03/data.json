@@ -1,31 +1,31 @@
 [
   {
-    "id": "sg0301",
+    "id": "01",
     "endonym": "North East Line",
     "exonym": "North East Line"
   },
   {
-    "id": "sg0302",
+    "id": "02",
     "endonym": "Downtown Line",
     "exonym": "Downtown Line"
   },
   {
-    "id": "sg0303",
+    "id": "03",
     "endonym": "Sengkang LRT line (East Loop)",
     "exonym": "Sengkang LRT line (East Loop)"
   },
   {
-    "id": "sg0304",
+    "id": "04",
     "endonym": "Sengkang LRT line (West Loop)",
     "exonym": "Sengkang LRT line (West Loop)"
   },
   {
-    "id": "sg0305",
+    "id": "05",
     "endonym": "Punggol LRT Line (East Loop)",
     "exonym": "Punggol LRT Line (East Loop)"
   },
   {
-    "id": "sg0306",
+    "id": "06",
     "endonym": "Punggol LRT Line (West Loop)",
     "exonym": "Punggol LRT Line (West Loop)"
   }

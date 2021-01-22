@@ -1,71 +1,71 @@
 [
   {
-    "id": "jp060301",
+    "id": "01",
     "endonym": "川内",
     "exonym": "Sendai"
   },
   {
-    "id": "jp060302",
+    "id": "02",
     "endonym": "隈之城",
     "exonym": "Kumanojo"
   },
   {
-    "id": "jp060303",
+    "id": "03",
     "endonym": "木場茶屋",
     "exonym": "Kobanchaya"
   },
   {
-    "id": "jp060304",
+    "id": "04",
     "endonym": "串木野",
     "exonym": "Kushikino"
   },
   {
-    "id": "jp060305",
+    "id": "05",
     "endonym": "神村学園前",
     "exonym": "Kamimuragakuenmae"
   },
   {
-    "id": "jp060306",
+    "id": "06",
     "endonym": "市来",
     "exonym": "Ichiki"
   },
   {
-    "id": "jp060307",
+    "id": "07",
     "endonym": "湯之元",
     "exonym": "Yunomoto"
   },
   {
-    "id": "jp060308",
+    "id": "08",
     "endonym": "東市来",
     "exonym": "Higashi-Ichiki"
   },
   {
-    "id": "jp060309",
+    "id": "09",
     "endonym": "伊集院",
     "exonym": "Ijuin"
   },
   {
-    "id": "jp06030a",
+    "id": "0a",
     "endonym": "薩摩松元",
     "exonym": "Satsuma-Matsumoto"
   },
   {
-    "id": "jp06030b",
+    "id": "0b",
     "endonym": "上伊集院",
     "exonym": "Kami-Ijuin"
   },
   {
-    "id": "jp06030c",
+    "id": "0c",
     "endonym": "広木",
     "exonym": "Hiroki"
   },
   {
-    "id": "jp06030d",
+    "id": "0d",
     "endonym": "鹿児島中央",
     "exonym": "Kagoshima-Chuo"
   },
   {
-    "id": "jp06030e",
+    "id": "0e",
     "endonym": "鹿児島",
     "exonym": "Kagoshima"
   }

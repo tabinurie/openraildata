@@ -1,651 +1,651 @@
 [
   {
-    "id": "th010101",
+    "id": "01",
     "endonym": "กรุงเทพ",
     "exonym": "Bangkok"
   },
   {
-    "id": "th010102",
+    "id": "02",
     "endonym": "ยมราช",
     "exonym": "Yommarat"
   },
   {
-    "id": "th010103",
+    "id": "03",
     "endonym": "หอประแจจิตรลดา",
     "exonym": "Ho Prajae Chit Lada"
   },
   {
-    "id": "th010104",
+    "id": "04",
     "endonym": "โรงพยาบาลรามาธิบดี",
     "exonym": "Ramathibodi Hospital"
   },
   {
-    "id": "th010105",
+    "id": "05",
     "endonym": "สามเสน",
     "exonym": "Sam Sen"
   },
   {
-    "id": "th010106",
+    "id": "06",
     "endonym": "ชุมทางบางซื่อ",
     "exonym": "Bang Sue Junction"
   },
   {
-    "id": "th010107",
+    "id": "07",
     "endonym": "นิคมรถไฟ กม.11",
     "exonym": "Nikhom Rotfai KM. 11"
   },
   {
-    "id": "th010108",
+    "id": "08",
     "endonym": "บางเขน",
     "exonym": "Bang Khen"
   },
   {
-    "id": "th010109",
+    "id": "09",
     "endonym": "ทุ่งสองห้อง",
     "exonym": "Thung Song Hong"
   },
   {
-    "id": "th01010a",
+    "id": "0a",
     "endonym": "หลักสี่",
     "exonym": "Lak Si"
   },
   {
-    "id": "th01010b",
+    "id": "0b",
     "endonym": "การเคหะ กม.19",
     "exonym": "Kan Keha KM. 19"
   },
   {
-    "id": "th01010c",
+    "id": "0c",
     "endonym": "ตลาดใหม่ดอนเมือง",
     "exonym": "Talat Mai Don Mueang"
   },
   {
-    "id": "th01010d",
+    "id": "0d",
     "endonym": "ดอนเมือง",
     "exonym": "Don Mueang"
   },
   {
-    "id": "th01010e",
+    "id": "0e",
     "endonym": "แกรนด์คาแนล",
     "exonym": "Grand Canal"
   },
   {
-    "id": "th01010f",
+    "id": "0f",
     "endonym": "หลักหก",
     "exonym": "Lak Hok"
   },
   {
-    "id": "th01010g",
+    "id": "0g",
     "endonym": "คลองรังสิต",
     "exonym": "Khlong Rangsit"
   },
   {
-    "id": "th01010h",
+    "id": "0h",
     "endonym": "รังสิต",
     "exonym": "Rangsit"
   },
   {
-    "id": "th01010i",
+    "id": "0i",
     "endonym": "คลองหนึ่ง",
     "exonym": "Khlong Nueng"
   },
   {
-    "id": "th01010j",
+    "id": "0j",
     "endonym": "เชียงราก",
     "exonym": "Chiang Rak"
   },
   {
-    "id": "th01010k",
+    "id": "0k",
     "endonym": "มหาวิทยาลัยธรรมศาสตร์",
     "exonym": "Thammasat University"
   },
   {
-    "id": "th01010l",
+    "id": "0l",
     "endonym": "นวนคร",
     "exonym": "Nava Nakhon"
   },
   {
-    "id": "th01010m",
+    "id": "0m",
     "endonym": "เชียงรากน้อย",
     "exonym": "Chiang Rak Noi"
   },
   {
-    "id": "th01010n",
+    "id": "0n",
     "endonym": "คลองพุทรา",
     "exonym": "Khlong Phutsa"
   },
   {
-    "id": "th01010o",
+    "id": "0o",
     "endonym": "บางปะอิน",
     "exonym": "Bang Pa-In"
   },
   {
-    "id": "th01010p",
+    "id": "0p",
     "endonym": "บ้านโพ",
     "exonym": "Ban Pho"
   },
   {
-    "id": "th01010q",
+    "id": "0q",
     "endonym": "อยุธยา",
     "exonym": "Ayutthaya"
   },
   {
-    "id": "th01010r",
+    "id": "0r",
     "endonym": "บ้านม้า",
     "exonym": "Ban Ma"
   },
   {
-    "id": "th01010s",
+    "id": "0s",
     "endonym": "มาบพระจันทร์",
     "exonym": "Map Phra Chan"
   },
   {
-    "id": "th01010t",
+    "id": "0t",
     "endonym": "บ้านดอนกลาง",
     "exonym": "Ban Don Klang"
   },
   {
-    "id": "th01010u",
+    "id": "0u",
     "endonym": "พระแก้ว",
     "exonym": "Phra Kaeo"
   },
   {
-    "id": "th01010v",
+    "id": "0v",
     "endonym": "ชุมทางบ้านภาชี",
     "exonym": "Ban Phachi Junction"
   },
   {
-    "id": "th01010w",
+    "id": "0w",
     "endonym": "ดอนหญ้านาง",
     "exonym": "Don Ya Nang"
   },
   {
-    "id": "th01010x",
+    "id": "0x",
     "endonym": "หนองวิวัฒน์",
     "exonym": "Nong Wiwat"
   },
   {
-    "id": "th01010y",
+    "id": "0y",
     "endonym": "บ้านปลักแรด",
     "exonym": "Ban Plak Raet"
   },
   {
-    "id": "th01010z",
+    "id": "0z",
     "endonym": "ท่าเรือ",
     "exonym": "Tha Ruea"
   },
   {
-    "id": "th010110",
+    "id": "10",
     "endonym": "บ้านหมอ",
     "exonym": "Ban Mo"
   },
   {
-    "id": "th010111",
+    "id": "11",
     "endonym": "หนองโดน",
     "exonym": "Nong Don"
   },
   {
-    "id": "th010112",
+    "id": "12",
     "endonym": "บ้านกลับ",
     "exonym": "Ban Klap"
   },
   {
-    "id": "th010113",
+    "id": "13",
     "endonym": "บ้านป่าหวาย",
     "exonym": "Ban Pa Wai"
   },
   {
-    "id": "th010114",
+    "id": "14",
     "endonym": "ลพบุรี",
     "exonym": "Lop Buri"
   },
   {
-    "id": "th010115",
+    "id": "15",
     "endonym": "ท่าแค",
     "exonym": "Tha Khae"
   },
   {
-    "id": "th010116",
+    "id": "16",
     "endonym": "โคกกระเทียม",
     "exonym": "Khok Kathiam"
   },
   {
-    "id": "th010117",
+    "id": "17",
     "endonym": "หนองเต่า",
     "exonym": "Nong Tao"
   },
   {
-    "id": "th010118",
+    "id": "18",
     "endonym": "หนองทรายขาว",
     "exonym": "Nong Sai Khao"
   },
   {
-    "id": "th010119",
+    "id": "19",
     "endonym": "บ้านหมี่",
     "exonym": "Ban Mi"
   },
   {
-    "id": "th01011a",
+    "id": "1a",
     "endonym": "ห้วยแก้ว",
     "exonym": "Huai Kaeo"
   },
   {
-    "id": "th01011b",
+    "id": "1b",
     "endonym": "ไผ่ใหญ่",
     "exonym": "Phai Yai"
   },
   {
-    "id": "th01011c",
+    "id": "1c",
     "endonym": "โรงเรียนจันเสน",
     "exonym": "Rong Rien Chansen"
   },
   {
-    "id": "th01011d",
+    "id": "1d",
     "endonym": "จันเสน",
     "exonym": "Chansen"
   },
   {
-    "id": "th01011e",
+    "id": "1e",
     "endonym": "บ้านกกกว้าว",
     "exonym": "Ban Kok Kwaow"
   },
   {
-    "id": "th01011f",
+    "id": "1f",
     "endonym": "ช่องแค",
     "exonym": "Chong Khae"
   },
   {
-    "id": "th01011g",
+    "id": "1g",
     "endonym": "ทะเลหว้า",
     "exonym": "Thale Wa"
   },
   {
-    "id": "th01011h",
+    "id": "1h",
     "endonym": "โพนทอง",
     "exonym": "Phon Thong"
   },
   {
-    "id": "th01011i",
+    "id": "1i",
     "endonym": "บ้านตาคลี",
     "exonym": "Ban Takhli"
   },
   {
-    "id": "th01011j",
+    "id": "1j",
     "endonym": "ดงมะกุ",
     "exonym": "Dong Maku"
   },
   {
-    "id": "th01011k",
+    "id": "1k",
     "endonym": "หัวหวาย",
     "exonym": "Hua Wai"
   },
   {
-    "id": "th01011l",
+    "id": "1l",
     "endonym": "หนองโพ",
     "exonym": "Nong Pho"
   },
   {
-    "id": "th01011m",
+    "id": "1m",
     "endonym": "หัวงิ้ว",
     "exonym": "Hua Ngiu"
   },
   {
-    "id": "th01011n",
+    "id": "1n",
     "endonym": "เนินมะกอก",
     "exonym": "Noen Makok"
   },
   {
-    "id": "th01011o",
+    "id": "1o",
     "endonym": "เขาทอง",
     "exonym": "Khao Thong"
   },
   {
-    "id": "th01011p",
+    "id": "1p",
     "endonym": "นครสวรรค์",
     "exonym": "Nakhon Sawan"
   },
   {
-    "id": "th01011q",
+    "id": "1q",
     "endonym": "ปากน้ำโพ",
     "exonym": "Pak Nam Pho"
   },
   {
-    "id": "th01011r",
+    "id": "1r",
     "endonym": "บึงบอระเพ็ด",
     "exonym": "Bung Boraphet"
   },
   {
-    "id": "th01011s",
+    "id": "1s",
     "endonym": "ทับกฤช",
     "exonym": "Thap Krit"
   },
   {
-    "id": "th01011t",
+    "id": "1t",
     "endonym": "คลองปลากด",
     "exonym": "Khlong Pla Kot"
   },
   {
-    "id": "th01011u",
+    "id": "1u",
     "endonym": "ชุมแสง",
     "exonym": "Chumsaeng"
   },
   {
-    "id": "th01011v",
+    "id": "1v",
     "endonym": "วังกร่าง",
     "exonym": "Wang Krang"
   },
   {
-    "id": "th01011w",
+    "id": "1w",
     "endonym": "บางมูลนาก",
     "exonym": "Bang Mun Nak"
   },
   {
-    "id": "th01011x",
+    "id": "1x",
     "endonym": "หอไกร",
     "exonym": "Ho Krai"
   },
   {
-    "id": "th01011y",
+    "id": "1y",
     "endonym": "ดงตะขบ",
     "exonym": "Dong Takhop"
   },
   {
-    "id": "th01011z",
+    "id": "1z",
     "endonym": "ตะพานหิน",
     "exonym": "Taphan Hin"
   },
   {
-    "id": "th010120",
+    "id": "20",
     "endonym": "ห้วยเกตุ",
     "exonym": "Huai Ket"
   },
   {
-    "id": "th010121",
+    "id": "21",
     "endonym": "หัวดง",
     "exonym": "Hua Dong"
   },
   {
-    "id": "th010122",
+    "id": "22",
     "endonym": "วังกรด",
     "exonym": "Wang Krot"
   },
   {
-    "id": "th010123",
+    "id": "23",
     "endonym": "พิจิตร",
     "exonym": "Phichit"
   },
   {
-    "id": "th010124",
+    "id": "24",
     "endonym": "ท่าฬ่อ",
     "exonym": "Tha Lo"
   },
   {
-    "id": "th010125",
+    "id": "25",
     "endonym": "บางกระทุ่ม",
     "exonym": "Bang Krathum"
   },
   {
-    "id": "th010126",
+    "id": "26",
     "endonym": "แม่เทียบ",
     "exonym": "Mae Thiap"
   },
   {
-    "id": "th010127",
+    "id": "27",
     "endonym": "บ้านใหม่",
     "exonym": "Ban Mai"
   },
   {
-    "id": "th010128",
+    "id": "28",
     "endonym": "บึงพระ",
     "exonym": "Bung Phra"
   },
   {
-    "id": "th010129",
+    "id": "29",
     "endonym": "พิษณุโลก",
     "exonym": "Phitsanulok"
   },
   {
-    "id": "th01012a",
+    "id": "2a",
     "endonym": "บ้านเต็งหนาม",
     "exonym": "Ban Teng Nam"
   },
   {
-    "id": "th01012b",
+    "id": "2b",
     "endonym": "บ้านตูม",
     "exonym": "Ban Tum"
   },
   {
-    "id": "th01012c",
+    "id": "2c",
     "endonym": "แควน้อย",
     "exonym": "Khwae Noi"
   },
   {
-    "id": "th01012d",
+    "id": "2d",
     "endonym": "พรหมพิราม",
     "exonym": "Phrom Phiram"
   },
   {
-    "id": "th01012e",
+    "id": "2e",
     "endonym": "หนองตม",
     "exonym": "Nong Tom"
   },
   {
-    "id": "th01012f",
+    "id": "2f",
     "endonym": "บ้านบุ่ง",
     "exonym": "Ban Bung"
   },
   {
-    "id": "th01012g",
+    "id": "2g",
     "endonym": "บ้านโคน",
     "exonym": "Ban Khon"
   },
   {
-    "id": "th01012h",
+    "id": "2h",
     "endonym": "พิชัย",
     "exonym": "Phichai"
   },
   {
-    "id": "th01012i",
+    "id": "2i",
     "endonym": "ไร่อ้อย",
     "exonym": "Rai Oi"
   },
   {
-    "id": "th01012j",
+    "id": "2j",
     "endonym": "ชุมทางบ้านดารา",
     "exonym": "Ban Dara Junction"
   },
   {
-    "id": "th01012k",
+    "id": "2k",
     "endonym": "ท่าสัก",
     "exonym": "Tha Sak"
   },
   {
-    "id": "th01012l",
+    "id": "2l",
     "endonym": "ตรอน",
     "exonym": "Tron"
   },
   {
-    "id": "th01012m",
+    "id": "2m",
     "endonym": "วังพี้",
     "exonym": "Wang Kaphi"
   },
   {
-    "id": "th01012n",
+    "id": "2n",
     "endonym": "อุตรดิตถ์",
     "exonym": "Uttaradit"
   },
   {
-    "id": "th01012o",
+    "id": "2o",
     "endonym": "ศิลาอาสน์",
     "exonym": "Sila At"
   },
   {
-    "id": "th01012p",
+    "id": "2p",
     "endonym": "ท่าเสา",
     "exonym": "Tha Sao"
   },
   {
-    "id": "th01012q",
+    "id": "2q",
     "endonym": "บ้านด่าน",
     "exonym": "Ban Dan"
   },
   {
-    "id": "th01012r",
+    "id": "2r",
     "endonym": "ปางต้นผึ้ง",
     "exonym": "Pang Ton Phueng"
   },
   {
-    "id": "th01012s",
+    "id": "2s",
     "endonym": "เขาพลึง",
     "exonym": "Khao Phlung"
   },
   {
-    "id": "th01012t",
+    "id": "2t",
     "endonym": "ห้วยไร่",
     "exonym": "Huai Rai"
   },
   {
-    "id": "th01012u",
+    "id": "2u",
     "endonym": "ไร่เกล็ดดาว",
     "exonym": "Rai Kled Dao"
   },
   {
-    "id": "th01012v",
+    "id": "2v",
     "endonym": "แม่พวก",
     "exonym": "Mae Phuak"
   },
   {
-    "id": "th01012w",
+    "id": "2w",
     "endonym": "เด่นชัย",
     "exonym": "Den Chai"
   },
   {
-    "id": "th01012x",
+    "id": "2x",
     "endonym": "ปากปาน",
     "exonym": "Pak Pan"
   },
   {
-    "id": "th01012y",
+    "id": "2y",
     "endonym": "แก่งหลวง",
     "exonym": "Kaeng Luang"
   },
   {
-    "id": "th01012z",
+    "id": "2z",
     "endonym": "ห้วยแม่ต้า",
     "exonym": "Huai Mae Ta"
   },
   {
-    "id": "th010130",
+    "id": "30",
     "endonym": "บ้านปิน",
     "exonym": "Ban Pin"
   },
   {
-    "id": "th010131",
+    "id": "31",
     "endonym": "ผาคัน",
     "exonym": "Pha Khan"
   },
   {
-    "id": "th010132",
+    "id": "32",
     "endonym": "ผาคอ",
     "exonym": "Pha Kho"
   },
   {
-    "id": "th010133",
+    "id": "33",
     "endonym": "ปางป๋วย",
     "exonym": "Pang Puai"
   },
   {
-    "id": "th010134",
+    "id": "34",
     "endonym": "แม่จาง",
     "exonym": "Mae Chang"
   },
   {
-    "id": "th010135",
+    "id": "35",
     "endonym": "แม่เมาะ",
     "exonym": "Mae Mo"
   },
   {
-    "id": "th010136",
+    "id": "36",
     "endonym": "ห้วยรากไม้",
     "exonym": "Huai Rak Mai"
   },
   {
-    "id": "th010137",
+    "id": "37",
     "endonym": "ศาลาผาลาด",
     "exonym": "Sala Pha Lat"
   },
   {
-    "id": "th010138",
+    "id": "38",
     "endonym": "แม่ทะ",
     "exonym": "Mae Tha"
   },
   {
-    "id": "th010139",
+    "id": "39",
     "endonym": "หนองวัวเฒ่า",
     "exonym": "Nong Wua Thao"
   },
   {
-    "id": "th01013a",
+    "id": "3a",
     "endonym": "นครลำปาง",
     "exonym": "Nakhon Lampang"
   },
   {
-    "id": "th01013b",
+    "id": "3b",
     "endonym": "ห้างฉัตร",
     "exonym": "Hang Chat"
   },
   {
-    "id": "th01013c",
+    "id": "3c",
     "endonym": "ปางม่วง",
     "exonym": "Pang Muang"
   },
   {
-    "id": "th01013d",
+    "id": "3d",
     "endonym": "ห้วยเรียน",
     "exonym": "Huai Rian"
   },
   {
-    "id": "th01013e",
+    "id": "3e",
     "endonym": "แม่ตานน้อย",
     "exonym": "Mae Tan Noi"
   },
   {
-    "id": "th01013f",
+    "id": "3f",
     "endonym": "ขุนตาน",
     "exonym": "Khun Tan"
   },
   {
-    "id": "th01013g",
+    "id": "3g",
     "endonym": "ทาชมภู",
     "exonym": "Tha Chomphu"
   },
   {
-    "id": "th01013h",
+    "id": "3h",
     "endonym": "ศาลาแม่ทา",
     "exonym": "Sala Mae Tha"
   },
   {
-    "id": "th01013i",
+    "id": "3i",
     "endonym": "หนองหล่ม",
     "exonym": "Nong Lom"
   },
   {
-    "id": "th01013j",
+    "id": "3j",
     "endonym": "ลำพูน",
     "exonym": "Lamphun"
   },
   {
-    "id": "th01013k",
+    "id": "3k",
     "endonym": "ป่าเส้า",
     "exonym": "Pa Sao"
   },
   {
-    "id": "th01013l",
+    "id": "3l",
     "endonym": "สารภี",
     "exonym": "Saraphi"
   },
   {
-    "id": "th01013m",
+    "id": "3m",
     "endonym": "เชียงใหม่",
     "exonym": "Chiang Mai"
   }

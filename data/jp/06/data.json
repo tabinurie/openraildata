@@ -1,126 +1,126 @@
 [
   {
-    "id": "jp0601",
+    "id": "01",
     "endonym": "山陽本線",
     "exonym": "San'yo Main Line"
   },
   {
-    "id": "jp0602",
+    "id": "02",
     "endonym": "鹿児島本線 (門司港 - 八代)",
     "exonym": "Kagoshima Main Line (Mojiko - Yatsushiro)"
   },
   {
-    "id": "jp0603",
+    "id": "03",
     "endonym": "鹿児島本線 (川内 - 鹿児島)",
     "exonym": "Kagoshima Main Line (Sendai - Kagoshima)"
   },
   {
-    "id": "jp0604",
+    "id": "04",
     "endonym": "九州新幹線",
     "exonym": "Kyushu Shinkansen"
   },
   {
-    "id": "jp0605",
+    "id": "05",
     "endonym": "香椎線",
     "exonym": "Kashii Line"
   },
   {
-    "id": "jp0606",
+    "id": "06",
     "endonym": "篠栗線",
     "exonym": "Sasaguri Line"
   },
   {
-    "id": "jp0607",
+    "id": "07",
     "endonym": "三角線",
     "exonym": "Misumi Line"
   },
   {
-    "id": "jp0608",
+    "id": "08",
     "endonym": "肥薩線",
     "exonym": "Hisatsu Line"
   },
   {
-    "id": "jp0609",
+    "id": "09",
     "endonym": "指宿枕崎線",
     "exonym": "Ibusuki Makurazaki Line"
   },
   {
-    "id": "jp060a",
+    "id": "0a",
     "endonym": "長崎本線",
     "exonym": "Nagasaki Main Line"
   },
   {
-    "id": "jp060b",
+    "id": "0b",
     "endonym": "長崎本線 (長与経由)",
     "exonym": "Nagasaki Main Line (via Nagayo)"
   },
   {
-    "id": "jp060c",
+    "id": "0c",
     "endonym": "唐津線",
     "exonym": "Karatsu Line"
   },
   {
-    "id": "jp060d",
+    "id": "0d",
     "endonym": "筑肥線 (姪浜 - 唐津)",
     "exonym": "Chikuhi Line (Meinohama - Karatsu)"
   },
   {
-    "id": "jp060e",
+    "id": "0e",
     "endonym": "筑肥線 (山本 - 伊万里)",
     "exonym": "Chikuhi Line (Yamamoto - Imari)"
   },
   {
-    "id": "jp060f",
+    "id": "0f",
     "endonym": "佐世保線",
     "exonym": "Sasebo Line"
   },
   {
-    "id": "jp060g",
+    "id": "0g",
     "endonym": "大村線",
     "exonym": "Omura Line"
   },
   {
-    "id": "jp060h",
+    "id": "0h",
     "endonym": "久大本線",
     "exonym": "Kyudai Main Line"
   },
   {
-    "id": "jp060i",
+    "id": "0i",
     "endonym": "豊肥本線",
     "exonym": "Hohi Main Line"
   },
   {
-    "id": "jp060j",
+    "id": "0j",
     "endonym": "日豊本線",
     "exonym": "Nippo Main Line"
   },
   {
-    "id": "jp060k",
+    "id": "0k",
     "endonym": "日田彦山線",
     "exonym": "Hitahikosan Line"
   },
   {
-    "id": "jp060l",
+    "id": "0l",
     "endonym": "日南線",
     "exonym": "Nichinan Line"
   },
   {
-    "id": "jp060m",
+    "id": "0m",
     "endonym": "宮崎空港線",
     "exonym": "Miyazaki Kuko Line"
   },
   {
-    "id": "jp060n",
+    "id": "0n",
     "endonym": "吉都線",
     "exonym": "Kitto Line"
   },
   {
-    "id": "jp060o",
+    "id": "0o",
     "endonym": "筑豊本線",
     "exonym": "Chikuho Main Line"
   },
   {
-    "id": "jp060p",
+    "id": "0p",
     "endonym": "後藤寺線",
     "exonym": "Gotoji Line"
   }

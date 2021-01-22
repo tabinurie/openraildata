@@ -1,76 +1,76 @@
 [
   {
-    "id": "kr03",
+    "id": "03",
     "endonym": "공항철도주식회사",
     "exonym": "Airport Railroad Co., Ltd."
   },
   {
-    "id": "kr04",
+    "id": "04",
     "endonym": "서울교통공사",
     "exonym": "Seoul Metro"
   },
   {
-    "id": "kr05",
+    "id": "05",
     "endonym": "서울시메트로9호선",
     "exonym": "Seoul Metro Line Nine Corporation"
   },
   {
-    "id": "kr06",
+    "id": "06",
     "endonym": "우이신설경전철 주식회사",
     "exonym": "UiTrans LRT Co., Ltd."
   },
   {
-    "id": "kr07",
+    "id": "07",
     "endonym": "인천교통공사",
     "exonym": "Incheon Transit Corporation"
   },
   {
-    "id": "kr08",
+    "id": "08",
     "endonym": "신분당선 주식회사",
     "exonym": "Shinbundang Railroad Corporation"
   },
   {
-    "id": "kr09",
+    "id": "09",
     "endonym": "경기철도",
     "exonym": "Gyeonggi Railroad Co., Ltd."
   },
   {
-    "id": "kr0a",
+    "id": "0a",
     "endonym": "용인경량전철",
     "exonym": "Yongin Everline Co,. Ltd."
   },
   {
-    "id": "kr0b",
+    "id": "0b",
     "endonym": "의정부경량전철",
     "exonym": "Uijeongbu Light Rail Transit Co., Ltd"
   },
   {
-    "id": "kr0c",
+    "id": "0c",
     "endonym": "인천국제공항공사",
     "exonym": "Incheon International Airport Corporation"
   },
   {
-    "id": "kr0d",
+    "id": "0d",
     "endonym": "부산교통공사",
     "exonym": "Busan Transportation Corporation"
   },
   {
-    "id": "kr0e",
+    "id": "0e",
     "endonym": "부산-김해경전철",
     "exonym": "Busan-Gimhae Light Rail Transit Operation Corporation"
   },
   {
-    "id": "kr0f",
+    "id": "0f",
     "endonym": "대구도시철도공사",
     "exonym": "Daegu Metropolitan Transit Corporation"
   },
   {
-    "id": "kr0g",
+    "id": "0g",
     "endonym": "광주광역시 도시철도공사",
     "exonym": "Gwangju Metropolitan Rapid Transit Corporation"
   },
   {
-    "id": "kr0h",
+    "id": "0h",
     "endonym": "대전광역시 도시철도공사",
     "exonym": "Daejeon Metropolitan Rapid Transit Corporation"
   }

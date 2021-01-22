@@ -1,61 +1,61 @@
 [
   {
-    "id": "tw040101",
+    "id": "01",
     "endonym": "中山國中",
     "exonym": "Zhongshan Junior High School"
   },
   {
-    "id": "tw040102",
+    "id": "02",
     "endonym": "南京復興",
     "exonym": "Nanjing Fuxing"
   },
   {
-    "id": "tw040103",
+    "id": "03",
     "endonym": "忠孝復興",
     "exonym": "Zhongxiao Fuxing"
   },
   {
-    "id": "tw040104",
+    "id": "04",
     "endonym": "大安",
     "exonym": "Daan"
   },
   {
-    "id": "tw040105",
+    "id": "05",
     "endonym": "科技大樓",
     "exonym": "Technology Building"
   },
   {
-    "id": "tw040106",
+    "id": "06",
     "endonym": "六張犁",
     "exonym": "Liuzhangli"
   },
   {
-    "id": "tw040107",
+    "id": "07",
     "endonym": "麟光",
     "exonym": "Linguang"
   },
   {
-    "id": "tw040108",
+    "id": "08",
     "endonym": "辛亥",
     "exonym": "Xinhai"
   },
   {
-    "id": "tw040109",
+    "id": "09",
     "endonym": "萬芳醫院",
     "exonym": "Wanfang Hospital"
   },
   {
-    "id": "tw04010a",
+    "id": "0a",
     "endonym": "萬芳社區",
     "exonym": "Wanfang Community"
   },
   {
-    "id": "tw04010b",
+    "id": "0b",
     "endonym": "木柵",
     "exonym": "Muzha"
   },
   {
-    "id": "tw04010c",
+    "id": "0c",
     "endonym": "動物園",
     "exonym": "Taipei Zoo"
   }

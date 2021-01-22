@@ -1,416 +1,416 @@
 [
   {
-    "id": "jp010101",
+    "id": "01",
     "endonym": "函館",
     "exonym": "Hakodate"
   },
   {
-    "id": "jp010102",
+    "id": "02",
     "endonym": "五稜郭",
     "exonym": "Goryokaku"
   },
   {
-    "id": "jp010103",
+    "id": "03",
     "endonym": "桔梗",
     "exonym": "Kikyo"
   },
   {
-    "id": "jp010104",
+    "id": "04",
     "endonym": "大中山",
     "exonym": "Onakayama"
   },
   {
-    "id": "jp010105",
+    "id": "05",
     "endonym": "七飯",
     "exonym": "Nanae"
   },
   {
-    "id": "jp010106",
+    "id": "06",
     "endonym": "新函館北斗",
     "exonym": "Shin-Hakodate-Hokuto"
   },
   {
-    "id": "jp010107",
+    "id": "07",
     "endonym": "仁山",
     "exonym": "Niyama"
   },
   {
-    "id": "jp010108",
+    "id": "08",
     "endonym": "大沼",
     "exonym": "Onuma"
   },
   {
-    "id": "jp010109",
+    "id": "09",
     "endonym": "大沼公園",
     "exonym": "Onuma-Koen"
   },
   {
-    "id": "jp01010a",
+    "id": "0a",
     "endonym": "赤井川",
     "exonym": "Akaigawa"
   },
   {
-    "id": "jp01010b",
+    "id": "0b",
     "endonym": "駒ヶ岳",
     "exonym": "Komagatake"
   },
   {
-    "id": "jp01010c",
+    "id": "0c",
     "endonym": "森",
     "exonym": "Mori"
   },
   {
-    "id": "jp01010d",
+    "id": "0d",
     "endonym": "桂川",
     "exonym": "Katsuragawa"
   },
   {
-    "id": "jp01010e",
+    "id": "0e",
     "endonym": "石谷",
     "exonym": "Ishiya"
   },
   {
-    "id": "jp01010f",
+    "id": "0f",
     "endonym": "本石倉",
     "exonym": "Hon-Ishikura"
   },
   {
-    "id": "jp01010g",
+    "id": "0g",
     "endonym": "石倉",
     "exonym": "Ishikura"
   },
   {
-    "id": "jp01010h",
+    "id": "0h",
     "endonym": "落部",
     "exonym": "Otoshibe"
   },
   {
-    "id": "jp01010i",
+    "id": "0i",
     "endonym": "野田生",
     "exonym": "Nodaoi"
   },
   {
-    "id": "jp01010j",
+    "id": "0j",
     "endonym": "山越",
     "exonym": "Yamakoshi"
   },
   {
-    "id": "jp01010k",
+    "id": "0k",
     "endonym": "八雲",
     "exonym": "Yakumo"
   },
   {
-    "id": "jp01010l",
+    "id": "0l",
     "endonym": "山崎",
     "exonym": "Yamasaki"
   },
   {
-    "id": "jp01010m",
+    "id": "0m",
     "endonym": "黒岩",
     "exonym": "Kuroiwa"
   },
   {
-    "id": "jp01010n",
+    "id": "0n",
     "endonym": "国縫",
     "exonym": "Kunnui"
   },
   {
-    "id": "jp01010o",
+    "id": "0o",
     "endonym": "中ノ沢",
     "exonym": "Nakanosawa"
   },
   {
-    "id": "jp01010p",
+    "id": "0p",
     "endonym": "長万部",
     "exonym": "Oshamambe"
   },
   {
-    "id": "jp01010q",
+    "id": "0q",
     "endonym": "二股",
     "exonym": "Futamata"
   },
   {
-    "id": "jp01010r",
+    "id": "0r",
     "endonym": "黒松内",
     "exonym": "Kuromatsunai"
   },
   {
-    "id": "jp01010s",
+    "id": "0s",
     "endonym": "熱郛",
     "exonym": "Neppu"
   },
   {
-    "id": "jp01010t",
+    "id": "0t",
     "endonym": "目名",
     "exonym": "Mena"
   },
   {
-    "id": "jp01010u",
+    "id": "0u",
     "endonym": "蘭越",
     "exonym": "Rankoshi"
   },
   {
-    "id": "jp01010v",
+    "id": "0v",
     "endonym": "昆布",
     "exonym": "Konbu"
   },
   {
-    "id": "jp01010w",
+    "id": "0w",
     "endonym": "ニセコ",
     "exonym": "Niseko"
   },
   {
-    "id": "jp01010x",
+    "id": "0x",
     "endonym": "比羅夫",
     "exonym": "Hirafu"
   },
   {
-    "id": "jp01010y",
+    "id": "0y",
     "endonym": "倶知安",
     "exonym": "Kutchan"
   },
   {
-    "id": "jp01010z",
+    "id": "0z",
     "endonym": "小沢",
     "exonym": "Kozawa"
   },
   {
-    "id": "jp010110",
+    "id": "10",
     "endonym": "銀山",
     "exonym": "Ginzan"
   },
   {
-    "id": "jp010111",
+    "id": "11",
     "endonym": "然別",
     "exonym": "Shikaribetsu"
   },
   {
-    "id": "jp010112",
+    "id": "12",
     "endonym": "仁木",
     "exonym": "Niki"
   },
   {
-    "id": "jp010113",
+    "id": "13",
     "endonym": "余市",
     "exonym": "Yoichi"
   },
   {
-    "id": "jp010114",
+    "id": "14",
     "endonym": "蘭島",
     "exonym": "Ranshima"
   },
   {
-    "id": "jp010115",
+    "id": "15",
     "endonym": "塩谷",
     "exonym": "Shioya"
   },
   {
-    "id": "jp010116",
+    "id": "16",
     "endonym": "小樽",
     "exonym": "Otaru"
   },
   {
-    "id": "jp010117",
+    "id": "17",
     "endonym": "南小樽",
     "exonym": "Minami-Otaru"
   },
   {
-    "id": "jp010118",
+    "id": "18",
     "endonym": "小樽築港",
     "exonym": "Otaru-Chikko"
   },
   {
-    "id": "jp010119",
+    "id": "19",
     "endonym": "朝里",
     "exonym": "Asari"
   },
   {
-    "id": "jp01011a",
+    "id": "1a",
     "endonym": "銭函",
     "exonym": "Zenibako"
   },
   {
-    "id": "jp01011b",
+    "id": "1b",
     "endonym": "ほしみ",
     "exonym": "Hoshimi"
   },
   {
-    "id": "jp01011c",
+    "id": "1c",
     "endonym": "星置",
     "exonym": "Hoshioki"
   },
   {
-    "id": "jp01011d",
+    "id": "1d",
     "endonym": "稲穂",
     "exonym": "Inaho"
   },
   {
-    "id": "jp01011e",
+    "id": "1e",
     "endonym": "手稲",
     "exonym": "Teine"
   },
   {
-    "id": "jp01011f",
+    "id": "1f",
     "endonym": "稲積公園",
     "exonym": "Inazumi-Koen"
   },
   {
-    "id": "jp01011g",
+    "id": "1g",
     "endonym": "発寒",
     "exonym": "Hassamu"
   },
   {
-    "id": "jp01011h",
+    "id": "1h",
     "endonym": "発寒中央",
     "exonym": "Hassamu-Chuo"
   },
   {
-    "id": "jp01011i",
+    "id": "1i",
     "endonym": "琴似",
     "exonym": "Kotoni"
   },
   {
-    "id": "jp01011j",
+    "id": "1j",
     "endonym": "桑園",
     "exonym": "Soen"
   },
   {
-    "id": "jp01011k",
+    "id": "1k",
     "endonym": "札幌",
     "exonym": "Sapporo"
   },
   {
-    "id": "jp01011l",
+    "id": "1l",
     "endonym": "苗穂",
     "exonym": "Naebo"
   },
   {
-    "id": "jp01011m",
+    "id": "1m",
     "endonym": "白石",
     "exonym": "Shiroishi"
   },
   {
-    "id": "jp01011n",
+    "id": "1n",
     "endonym": "厚別",
     "exonym": "Atsubetsu"
   },
   {
-    "id": "jp01011o",
+    "id": "1o",
     "endonym": "森林公園",
     "exonym": "Shinrin-Koen"
   },
   {
-    "id": "jp01011p",
+    "id": "1p",
     "endonym": "大麻",
     "exonym": "Oasa"
   },
   {
-    "id": "jp01011q",
+    "id": "1q",
     "endonym": "野幌",
     "exonym": "Nopporo"
   },
   {
-    "id": "jp01011r",
+    "id": "1r",
     "endonym": "高砂",
     "exonym": "Takasago"
   },
   {
-    "id": "jp01011s",
+    "id": "1s",
     "endonym": "江別",
     "exonym": "Ebetsu"
   },
   {
-    "id": "jp01011t",
+    "id": "1t",
     "endonym": "豊幌",
     "exonym": "Toyohoro"
   },
   {
-    "id": "jp01011u",
+    "id": "1u",
     "endonym": "幌向",
     "exonym": "Horomui"
   },
   {
-    "id": "jp01011v",
+    "id": "1v",
     "endonym": "上幌向",
     "exonym": "Kami-Horomui"
   },
   {
-    "id": "jp01011w",
+    "id": "1w",
     "endonym": "岩見沢",
     "exonym": "Iwamizawa"
   },
   {
-    "id": "jp01011x",
+    "id": "1x",
     "endonym": "峰延",
     "exonym": "Minenobu"
   },
   {
-    "id": "jp01011y",
+    "id": "1y",
     "endonym": "光珠内",
     "exonym": "Koshunai"
   },
   {
-    "id": "jp01011z",
+    "id": "1z",
     "endonym": "美唄",
     "exonym": "Bibai"
   },
   {
-    "id": "jp010120",
+    "id": "20",
     "endonym": "茶志内",
     "exonym": "Chashinai"
   },
   {
-    "id": "jp010121",
+    "id": "21",
     "endonym": "奈井江",
     "exonym": "Naie"
   },
   {
-    "id": "jp010122",
+    "id": "22",
     "endonym": "豊沼",
     "exonym": "Toyonuma"
   },
   {
-    "id": "jp010123",
+    "id": "23",
     "endonym": "砂川",
     "exonym": "Sunagawa"
   },
   {
-    "id": "jp010124",
+    "id": "24",
     "endonym": "滝川",
     "exonym": "Takikawa"
   },
   {
-    "id": "jp010125",
+    "id": "25",
     "endonym": "江部乙",
     "exonym": "Ebeotsu"
   },
   {
-    "id": "jp010126",
+    "id": "26",
     "endonym": "妹背牛",
     "exonym": "Moseushi"
   },
   {
-    "id": "jp010127",
+    "id": "27",
     "endonym": "深川",
     "exonym": "Fukagawa"
   },
   {
-    "id": "jp010128",
+    "id": "28",
     "endonym": "納内",
     "exonym": "Osamunai"
   },
   {
-    "id": "jp010129",
+    "id": "29",
     "endonym": "伊納",
     "exonym": "Ino"
   },
   {
-    "id": "jp01012a",
+    "id": "2a",
     "endonym": "近文",
     "exonym": "Chikabumi"
   },
   {
-    "id": "jp01012b",
+    "id": "2b",
     "endonym": "旭川",
     "exonym": "Asahikawa"
   }

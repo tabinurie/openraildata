@@ -1,86 +1,86 @@
 [
   {
-    "id": "jp020401",
+    "id": "01",
     "endonym": "品川",
     "exonym": "Shinagawa"
   },
   {
-    "id": "jp020402",
+    "id": "02",
     "endonym": "大崎",
     "exonym": "Osaki"
   },
   {
-    "id": "jp020403",
+    "id": "03",
     "endonym": "五反田",
     "exonym": "Gotanda"
   },
   {
-    "id": "jp020404",
+    "id": "04",
     "endonym": "目黒",
     "exonym": "Meguro"
   },
   {
-    "id": "jp020405",
+    "id": "05",
     "endonym": "恵比寿",
     "exonym": "Ebisu"
   },
   {
-    "id": "jp020406",
+    "id": "06",
     "endonym": "渋谷",
     "exonym": "Shibuya"
   },
   {
-    "id": "jp020407",
+    "id": "07",
     "endonym": "原宿",
     "exonym": "Harajuku"
   },
   {
-    "id": "jp020408",
+    "id": "08",
     "endonym": "代々木",
     "exonym": "Yoyogi"
   },
   {
-    "id": "jp020409",
+    "id": "09",
     "endonym": "新宿",
     "exonym": "Shinjuku"
   },
   {
-    "id": "jp02040a",
+    "id": "0a",
     "endonym": "新大久保",
     "exonym": "Shin-Okubo"
   },
   {
-    "id": "jp02040b",
+    "id": "0b",
     "endonym": "高田馬場",
     "exonym": "Takadanobaba"
   },
   {
-    "id": "jp02040c",
+    "id": "0c",
     "endonym": "目白",
     "exonym": "Mejiro"
   },
   {
-    "id": "jp02040d",
+    "id": "0d",
     "endonym": "池袋",
     "exonym": "Ikebukuro"
   },
   {
-    "id": "jp02040e",
+    "id": "0e",
     "endonym": "大塚",
     "exonym": "Otsuka"
   },
   {
-    "id": "jp02040f",
+    "id": "0f",
     "endonym": "巣鴨",
     "exonym": "Sugamo"
   },
   {
-    "id": "jp02040g",
+    "id": "0g",
     "endonym": "駒込",
     "exonym": "Komagome"
   },
   {
-    "id": "jp02040h",
+    "id": "0h",
     "endonym": "田端",
     "exonym": "Tabata"
   }

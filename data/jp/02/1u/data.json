@@ -1,301 +1,301 @@
 [
   {
-    "id": "jp021u01",
+    "id": "01",
     "endonym": "新津",
     "exonym": "Niitsu"
   },
   {
-    "id": "jp021u02",
+    "id": "02",
     "endonym": "京ヶ瀬",
     "exonym": "Kyogase"
   },
   {
-    "id": "jp021u03",
+    "id": "03",
     "endonym": "水原",
     "exonym": "Suibara"
   },
   {
-    "id": "jp021u04",
+    "id": "04",
     "endonym": "神山",
     "exonym": "Kamiyama"
   },
   {
-    "id": "jp021u05",
+    "id": "05",
     "endonym": "月岡",
     "exonym": "Tsukioka"
   },
   {
-    "id": "jp021u06",
+    "id": "06",
     "endonym": "中浦",
     "exonym": "Nakaura"
   },
   {
-    "id": "jp021u07",
+    "id": "07",
     "endonym": "新発田",
     "exonym": "Shibata"
   },
   {
-    "id": "jp021u08",
+    "id": "08",
     "endonym": "加治",
     "exonym": "Kaji"
   },
   {
-    "id": "jp021u09",
+    "id": "09",
     "endonym": "金塚",
     "exonym": "Kanazuka"
   },
   {
-    "id": "jp021u0a",
+    "id": "0a",
     "endonym": "中条",
     "exonym": "Nakajo"
   },
   {
-    "id": "jp021u0b",
+    "id": "0b",
     "endonym": "平木田",
     "exonym": "Hirakida"
   },
   {
-    "id": "jp021u0c",
+    "id": "0c",
     "endonym": "坂町",
     "exonym": "Sakamachi"
   },
   {
-    "id": "jp021u0d",
+    "id": "0d",
     "endonym": "平林",
     "exonym": "Hirabayashi"
   },
   {
-    "id": "jp021u0e",
+    "id": "0e",
     "endonym": "岩船町",
     "exonym": "Iwafunemachi"
   },
   {
-    "id": "jp021u0f",
+    "id": "0f",
     "endonym": "村上",
     "exonym": "Murakami"
   },
   {
-    "id": "jp021u0g",
+    "id": "0g",
     "endonym": "間島",
     "exonym": "Majima"
   },
   {
-    "id": "jp021u0h",
+    "id": "0h",
     "endonym": "越後早川",
     "exonym": "Echigo-Hayakawa"
   },
   {
-    "id": "jp021u0i",
+    "id": "0i",
     "endonym": "桑川",
     "exonym": "Kuwagawa"
   },
   {
-    "id": "jp021u0j",
+    "id": "0j",
     "endonym": "今川",
     "exonym": "Imagawa"
   },
   {
-    "id": "jp021u0k",
+    "id": "0k",
     "endonym": "越後寒川",
     "exonym": "Echigo-Kangawa"
   },
   {
-    "id": "jp021u0l",
+    "id": "0l",
     "endonym": "勝木",
     "exonym": "Gatsugi"
   },
   {
-    "id": "jp021u0m",
+    "id": "0m",
     "endonym": "府屋",
     "exonym": "Fuya"
   },
   {
-    "id": "jp021u0n",
+    "id": "0n",
     "endonym": "鼠ヶ関",
     "exonym": "Nezugaseki"
   },
   {
-    "id": "jp021u0o",
+    "id": "0o",
     "endonym": "小岩川",
     "exonym": "Koiwagawa"
   },
   {
-    "id": "jp021u0p",
+    "id": "0p",
     "endonym": "あつみ温泉",
     "exonym": "Atsumi Onsen"
   },
   {
-    "id": "jp021u0q",
+    "id": "0q",
     "endonym": "五十川",
     "exonym": "Iragawa"
   },
   {
-    "id": "jp021u0r",
+    "id": "0r",
     "endonym": "小波渡",
     "exonym": "Kobato"
   },
   {
-    "id": "jp021u0s",
+    "id": "0s",
     "endonym": "三瀬",
     "exonym": "Sanze"
   },
   {
-    "id": "jp021u0t",
+    "id": "0t",
     "endonym": "羽前水沢",
     "exonym": "Uzen-Mizusawa"
   },
   {
-    "id": "jp021u0u",
+    "id": "0u",
     "endonym": "羽前大山",
     "exonym": "Uzen-Oyama"
   },
   {
-    "id": "jp021u0v",
+    "id": "0v",
     "endonym": "鶴岡",
     "exonym": "Tsuruoka"
   },
   {
-    "id": "jp021u0w",
+    "id": "0w",
     "endonym": "藤島",
     "exonym": "Fujishima"
   },
   {
-    "id": "jp021u0x",
+    "id": "0x",
     "endonym": "西袋",
     "exonym": "Nishibukuro"
   },
   {
-    "id": "jp021u0y",
+    "id": "0y",
     "endonym": "余目",
     "exonym": "Amarume"
   },
   {
-    "id": "jp021u0z",
+    "id": "0z",
     "endonym": "北余目",
     "exonym": "Kita-Amarume"
   },
   {
-    "id": "jp021u10",
+    "id": "10",
     "endonym": "砂越",
     "exonym": "Sagoshi"
   },
   {
-    "id": "jp021u11",
+    "id": "11",
     "endonym": "東酒田",
     "exonym": "Higashi-Sakata"
   },
   {
-    "id": "jp021u12",
+    "id": "12",
     "endonym": "酒田",
     "exonym": "Sakata"
   },
   {
-    "id": "jp021u13",
+    "id": "13",
     "endonym": "本楯",
     "exonym": "Mototate"
   },
   {
-    "id": "jp021u14",
+    "id": "14",
     "endonym": "南鳥海",
     "exonym": "Minamichokai"
   },
   {
-    "id": "jp021u15",
+    "id": "15",
     "endonym": "遊佐",
     "exonym": "Yuza"
   },
   {
-    "id": "jp021u16",
+    "id": "16",
     "endonym": "吹浦",
     "exonym": "Fukura"
   },
   {
-    "id": "jp021u17",
+    "id": "17",
     "endonym": "女鹿",
     "exonym": "Mega"
   },
   {
-    "id": "jp021u18",
+    "id": "18",
     "endonym": "小砂川",
     "exonym": "Kosagawa"
   },
   {
-    "id": "jp021u19",
+    "id": "19",
     "endonym": "上浜",
     "exonym": "Kamihama"
   },
   {
-    "id": "jp021u1a",
+    "id": "1a",
     "endonym": "象潟",
     "exonym": "Kisakata"
   },
   {
-    "id": "jp021u1b",
+    "id": "1b",
     "endonym": "金浦",
     "exonym": "Konoura"
   },
   {
-    "id": "jp021u1c",
+    "id": "1c",
     "endonym": "仁賀保",
     "exonym": "Nikaho"
   },
   {
-    "id": "jp021u1d",
+    "id": "1d",
     "endonym": "西目",
     "exonym": "Nishime"
   },
   {
-    "id": "jp021u1e",
+    "id": "1e",
     "endonym": "羽後本荘",
     "exonym": "Ugo-Honjo"
   },
   {
-    "id": "jp021u1f",
+    "id": "1f",
     "endonym": "羽後岩谷",
     "exonym": "Ugo-Iwaya"
   },
   {
-    "id": "jp021u1g",
+    "id": "1g",
     "endonym": "折渡",
     "exonym": "Oriwatari"
   },
   {
-    "id": "jp021u1h",
+    "id": "1h",
     "endonym": "羽後亀田",
     "exonym": "Ugo-Kameda"
   },
   {
-    "id": "jp021u1i",
+    "id": "1i",
     "endonym": "岩城みなと",
     "exonym": "Iwaki-Minato"
   },
   {
-    "id": "jp021u1j",
+    "id": "1j",
     "endonym": "道川",
     "exonym": "Michikawa"
   },
   {
-    "id": "jp021u1k",
+    "id": "1k",
     "endonym": "下浜",
     "exonym": "Shimohama"
   },
   {
-    "id": "jp021u1l",
+    "id": "1l",
     "endonym": "桂根",
     "exonym": "Katsurane"
   },
   {
-    "id": "jp021u1m",
+    "id": "1m",
     "endonym": "新屋",
     "exonym": "Araya"
   },
   {
-    "id": "jp021u1n",
+    "id": "1n",
     "endonym": "羽後牛島",
     "exonym": "Ugo-Ushijima"
   },
   {
-    "id": "jp021u1o",
+    "id": "1o",
     "endonym": "秋田",
     "exonym": "Akita"
   }

@@ -1,196 +1,196 @@
 [
   {
-    "id": "jp030601",
+    "id": "01",
     "endonym": "富士",
     "exonym": "Fuji"
   },
   {
-    "id": "jp030602",
+    "id": "02",
     "endonym": "柚木",
     "exonym": "Yunoki"
   },
   {
-    "id": "jp030603",
+    "id": "03",
     "endonym": "竪堀",
     "exonym": "Tatebori"
   },
   {
-    "id": "jp030604",
+    "id": "04",
     "endonym": "入山瀬",
     "exonym": "Iriyamase"
   },
   {
-    "id": "jp030605",
+    "id": "05",
     "endonym": "富士根",
     "exonym": "Fujine"
   },
   {
-    "id": "jp030606",
+    "id": "06",
     "endonym": "源道寺",
     "exonym": "Gendoji"
   },
   {
-    "id": "jp030607",
+    "id": "07",
     "endonym": "富士宮",
     "exonym": "Fujinomiya"
   },
   {
-    "id": "jp030608",
+    "id": "08",
     "endonym": "西富士宮",
     "exonym": "Nishi-Fujinomiya"
   },
   {
-    "id": "jp030609",
+    "id": "09",
     "endonym": "沼久保",
     "exonym": "Numakubo"
   },
   {
-    "id": "jp03060a",
+    "id": "0a",
     "endonym": "芝川",
     "exonym": "Shibakawa"
   },
   {
-    "id": "jp03060b",
+    "id": "0b",
     "endonym": "稲子",
     "exonym": "Inako"
   },
   {
-    "id": "jp03060c",
+    "id": "0c",
     "endonym": "十島",
     "exonym": "Toshima"
   },
   {
-    "id": "jp03060d",
+    "id": "0d",
     "endonym": "井出",
     "exonym": "Ide"
   },
   {
-    "id": "jp03060e",
+    "id": "0e",
     "endonym": "寄畑",
     "exonym": "Yorihata"
   },
   {
-    "id": "jp03060f",
+    "id": "0f",
     "endonym": "内船",
     "exonym": "Utsubuna"
   },
   {
-    "id": "jp03060g",
+    "id": "0g",
     "endonym": "甲斐大島",
     "exonym": "Kai-Oshima"
   },
   {
-    "id": "jp03060h",
+    "id": "0h",
     "endonym": "身延",
     "exonym": "Minobu"
   },
   {
-    "id": "jp03060i",
+    "id": "0i",
     "endonym": "塩之沢",
     "exonym": "Shionosawa"
   },
   {
-    "id": "jp03060j",
+    "id": "0j",
     "endonym": "波高島",
     "exonym": "Hadakajima"
   },
   {
-    "id": "jp03060k",
+    "id": "0k",
     "endonym": "下部温泉",
     "exonym": "Shimobe-onsen"
   },
   {
-    "id": "jp03060l",
+    "id": "0l",
     "endonym": "甲斐常葉",
     "exonym": "Kai-Tokiwa"
   },
   {
-    "id": "jp03060m",
+    "id": "0m",
     "endonym": "市ノ瀬",
     "exonym": "Ichinose"
   },
   {
-    "id": "jp03060n",
+    "id": "0n",
     "endonym": "久那土",
     "exonym": "Kunado"
   },
   {
-    "id": "jp03060o",
+    "id": "0o",
     "endonym": "甲斐岩間",
     "exonym": "Kai-Iwama"
   },
   {
-    "id": "jp03060p",
+    "id": "0p",
     "endonym": "落居",
     "exonym": "Ochii"
   },
   {
-    "id": "jp03060q",
+    "id": "0q",
     "endonym": "鰍沢口",
     "exonym": "Kajikazawaguchi"
   },
   {
-    "id": "jp03060r",
+    "id": "0r",
     "endonym": "市川大門",
     "exonym": "Ichikawa-Daimon"
   },
   {
-    "id": "jp03060s",
+    "id": "0s",
     "endonym": "市川本町",
     "exonym": "Ichikawa-Hommachi"
   },
   {
-    "id": "jp03060t",
+    "id": "0t",
     "endonym": "芦川",
     "exonym": "Ashigawa"
   },
   {
-    "id": "jp03060u",
+    "id": "0u",
     "endonym": "甲斐上野",
     "exonym": "Kai-Ueno"
   },
   {
-    "id": "jp03060v",
+    "id": "0v",
     "endonym": "東花輪",
     "exonym": "Higashi-Hanawa"
   },
   {
-    "id": "jp03060w",
+    "id": "0w",
     "endonym": "小井川",
     "exonym": "Koikawa"
   },
   {
-    "id": "jp03060x",
+    "id": "0x",
     "endonym": "常永",
     "exonym": "Joei"
   },
   {
-    "id": "jp03060y",
+    "id": "0y",
     "endonym": "国母",
     "exonym": "Kokubo"
   },
   {
-    "id": "jp03060z",
+    "id": "0z",
     "endonym": "甲斐住吉",
     "exonym": "Kai-Sumiyoshi"
   },
   {
-    "id": "jp030610",
+    "id": "10",
     "endonym": "南甲府",
     "exonym": "Minami-Kofu"
   },
   {
-    "id": "jp030611",
+    "id": "11",
     "endonym": "善光寺",
     "exonym": "Zenkoji"
   },
   {
-    "id": "jp030612",
+    "id": "12",
     "endonym": "金手",
     "exonym": "Kanente"
   },
   {
-    "id": "jp030613",
+    "id": "13",
     "endonym": "甲府",
     "exonym": "Kofu"
   }

@@ -1,286 +1,286 @@
 [
   {
-    "id": "cn019n01",
+    "id": "01",
     "endonym": "老河口东",
     "exonym": "Laohekou East"
   },
   {
-    "id": "cn019n02",
+    "id": "02",
     "endonym": "黄康",
     "exonym": "Huangkang"
   },
   {
-    "id": "cn019n03",
+    "id": "03",
     "endonym": "谷城",
     "exonym": "Gucheng"
   },
   {
-    "id": "cn019n04",
+    "id": "04",
     "endonym": "黄家营",
     "exonym": "Huangjiaying"
   },
   {
-    "id": "cn019n05",
+    "id": "05",
     "endonym": "浪河",
     "exonym": "Langhe"
   },
   {
-    "id": "cn019n06",
+    "id": "06",
     "endonym": "武当山",
     "exonym": "Wudangshan"
   },
   {
-    "id": "cn019n07",
+    "id": "07",
     "endonym": "白浪",
     "exonym": "Bailang"
   },
   {
-    "id": "cn019n08",
+    "id": "08",
     "endonym": "十堰",
     "exonym": "Shiyan"
   },
   {
-    "id": "cn019n09",
+    "id": "09",
     "endonym": "花果",
     "exonym": "Huaguo"
   },
   {
-    "id": "cn019n0a",
+    "id": "0a",
     "endonym": "小花果",
     "exonym": "Xiaohuaguo"
   },
   {
-    "id": "cn019n0b",
+    "id": "0b",
     "endonym": "胡家营",
     "exonym": "Hujiaying"
   },
   {
-    "id": "cn019n0c",
+    "id": "0c",
     "endonym": "白河东",
     "exonym": "Baihe East"
   },
   {
-    "id": "cn019n0d",
+    "id": "0d",
     "endonym": "白河县",
     "exonym": "Baihexian"
   },
   {
-    "id": "cn019n0e",
+    "id": "0e",
     "endonym": "下冷水",
     "exonym": "Xialengshui"
   },
   {
-    "id": "cn019n0f",
+    "id": "0f",
     "endonym": "冷水",
     "exonym": "Lengshui"
   },
   {
-    "id": "cn019n0g",
+    "id": "0g",
     "endonym": "蜀河",
     "exonym": "Shuhe"
   },
   {
-    "id": "cn019n0h",
+    "id": "0h",
     "endonym": "下棕溪",
     "exonym": "Xiazongxi"
   },
   {
-    "id": "cn019n0i",
+    "id": "0i",
     "endonym": "棕溪",
     "exonym": "Zongxi"
   },
   {
-    "id": "cn019n0j",
+    "id": "0j",
     "endonym": "旬阳",
     "exonym": "Xunyang"
   },
   {
-    "id": "cn019n0k",
+    "id": "0k",
     "endonym": "吕河",
     "exonym": "Lvhe"
   },
   {
-    "id": "cn019n0l",
+    "id": "0l",
     "endonym": "早阳",
     "exonym": "Zaoyang"
   },
   {
-    "id": "cn019n0m",
+    "id": "0m",
     "endonym": "安康东",
     "exonym": "Ankang East"
   },
   {
-    "id": "cn019n0n",
+    "id": "0n",
     "endonym": "安康",
     "exonym": "Ankang"
   },
   {
-    "id": "cn019n0o",
+    "id": "0o",
     "endonym": "石庙沟",
     "exonym": "Shimiaogou"
   },
   {
-    "id": "cn019n0p",
+    "id": "0p",
     "endonym": "大竹园",
     "exonym": "Dazhuyuan"
   },
   {
-    "id": "cn019n0q",
+    "id": "0q",
     "endonym": "紫阳",
     "exonym": "Ziyang"
   },
   {
-    "id": "cn019n0r",
+    "id": "0r",
     "endonym": "向阳镇",
     "exonym": "Xiangyangzhen"
   },
   {
-    "id": "cn019n0s",
+    "id": "0s",
     "endonym": "高滩",
     "exonym": "Gaotan"
   },
   {
-    "id": "cn019n0t",
+    "id": "0t",
     "endonym": "毛坝关",
     "exonym": "Maobaguan"
   },
   {
-    "id": "cn019n0u",
+    "id": "0u",
     "endonym": "新麻柳",
     "exonym": "Xinmaliu"
   },
   {
-    "id": "cn019n0v",
+    "id": "0v",
     "endonym": "麻柳",
     "exonym": "Maliu"
   },
   {
-    "id": "cn019n0w",
+    "id": "0w",
     "endonym": "新官渡",
     "exonym": "Xinguandu"
   },
   {
-    "id": "cn019n0x",
+    "id": "0x",
     "endonym": "巴山",
     "exonym": "Bashan"
   },
   {
-    "id": "cn019n0y",
+    "id": "0y",
     "endonym": "官渡",
     "exonym": "Guandu"
   },
   {
-    "id": "cn019n0z",
+    "id": "0z",
     "endonym": "万源",
     "exonym": "Wanyuan"
   },
   {
-    "id": "cn019n10",
+    "id": "10",
     "endonym": "青花",
     "exonym": "Qinghua"
   },
   {
-    "id": "cn019n11",
+    "id": "11",
     "endonym": "花楼坝",
     "exonym": "Hualouba"
   },
   {
-    "id": "cn019n12",
+    "id": "12",
     "endonym": "毛坝",
     "exonym": "Maoba"
   },
   {
-    "id": "cn019n13",
+    "id": "13",
     "endonym": "新毛坝",
     "exonym": "Xinmaoba"
   },
   {
-    "id": "cn019n14",
+    "id": "14",
     "endonym": "宣汉",
     "exonym": "Xuanhan"
   },
   {
-    "id": "cn019n15",
+    "id": "15",
     "endonym": "石柱槽",
     "exonym": "Shizhucao"
   },
   {
-    "id": "cn019n16",
+    "id": "16",
     "endonym": "蒲家",
     "exonym": "Pujia"
   },
   {
-    "id": "cn019n17",
+    "id": "17",
     "endonym": "双龙",
     "exonym": "Shuanglong"
   },
   {
-    "id": "cn019n18",
+    "id": "18",
     "endonym": "达州",
     "exonym": "Dazhou"
   },
   {
-    "id": "cn019n19",
+    "id": "19",
     "endonym": "覃家坝",
     "exonym": "Tanjiaba"
   },
   {
-    "id": "cn019n1a",
+    "id": "1a",
     "endonym": "三汇镇",
     "exonym": "Sanhuizhen"
   },
   {
-    "id": "cn019n1b",
+    "id": "1b",
     "endonym": "临巴溪",
     "exonym": "Linbaxi"
   },
   {
-    "id": "cn019n1c",
+    "id": "1c",
     "endonym": "渠县",
     "exonym": "Quxian"
   },
   {
-    "id": "cn019n1d",
+    "id": "1d",
     "endonym": "望溪",
     "exonym": "Wangxi"
   },
   {
-    "id": "cn019n1e",
+    "id": "1e",
     "endonym": "广安",
     "exonym": "Guang'an"
   },
   {
-    "id": "cn019n1f",
+    "id": "1f",
     "endonym": "华蓥",
     "exonym": "Huaying"
   },
   {
-    "id": "cn019n1g",
+    "id": "1g",
     "endonym": "高兴",
     "exonym": "Gaoxing"
   },
   {
-    "id": "cn019n1h",
+    "id": "1h",
     "endonym": "三汇坝",
     "exonym": "Sanhuiba"
   },
   {
-    "id": "cn019n1i",
+    "id": "1i",
     "endonym": "磨心坡",
     "exonym": "Moxinpo"
   },
   {
-    "id": "cn019n1j",
+    "id": "1j",
     "endonym": "东阳线路所",
     "exonym": "Dongyang Signal Base"
   },
   {
-    "id": "cn019n1k",
+    "id": "1k",
     "endonym": "北碚",
     "exonym": "Beibei"
   },
   {
-    "id": "cn019n1l",
+    "id": "1l",
     "endonym": "兴隆场",
     "exonym": "Xinglongchang"
   }
