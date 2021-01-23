@@ -1,0 +1,176 @@
+[
+  {
+    "id": "01",
+    "endonym": "西武新宿",
+    "exonym": "Seibu-Shinjuku",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "高田馬場",
+    "exonym": "Takadanobaba",
+    "distance": "2.0"
+  },
+  {
+    "id": "03",
+    "endonym": "下落合",
+    "exonym": "Shimo-Ochiai",
+    "distance": "3.2"
+  },
+  {
+    "id": "04",
+    "endonym": "中井",
+    "exonym": "Nakai",
+    "distance": "3.9"
+  },
+  {
+    "id": "05",
+    "endonym": "新井薬師前",
+    "exonym": "Araiyakushi-mae",
+    "distance": "5.2"
+  },
+  {
+    "id": "06",
+    "endonym": "沼袋",
+    "exonym": "Numabukuro",
+    "distance": "6.1"
+  },
+  {
+    "id": "07",
+    "endonym": "野方",
+    "exonym": "Nogata",
+    "distance": "7.1"
+  },
+  {
+    "id": "08",
+    "endonym": "都立家政",
+    "exonym": "Toritsu-Kasei",
+    "distance": "8"
+  },
+  {
+    "id": "09",
+    "endonym": "鷺ノ宮",
+    "exonym": "Saginomiya",
+    "distance": "8.5"
+  },
+  {
+    "id": "0a",
+    "endonym": "下井草",
+    "exonym": "Shimo-Igusa",
+    "distance": "9.8"
+  },
+  {
+    "id": "0b",
+    "endonym": "井荻",
+    "exonym": "Iogi",
+    "distance": "10.7"
+  },
+  {
+    "id": "0c",
+    "endonym": "上井草",
+    "exonym": "Kami-Igusa",
+    "distance": "11.7"
+  },
+  {
+    "id": "0d",
+    "endonym": "上石神井",
+    "exonym": "Kami-Shakujii",
+    "distance": "12.8"
+  },
+  {
+    "id": "0e",
+    "endonym": "武蔵関",
+    "exonym": "Musashi-Seki",
+    "distance": "14.1"
+  },
+  {
+    "id": "0f",
+    "endonym": "東伏見",
+    "exonym": "Higashi-Fushimi",
+    "distance": "15.3"
+  },
+  {
+    "id": "0g",
+    "endonym": "西武柳沢",
+    "exonym": "Seibu-Yagisawa",
+    "distance": "16.3"
+  },
+  {
+    "id": "0h",
+    "endonym": "田無",
+    "exonym": "Tanashi",
+    "distance": "17.6"
+  },
+  {
+    "id": "0i",
+    "endonym": "花小金井",
+    "exonym": "Hana-Koganei",
+    "distance": "19.9"
+  },
+  {
+    "id": "0j",
+    "endonym": "小平",
+    "exonym": "Kodaira",
+    "distance": "22.6"
+  },
+  {
+    "id": "0k",
+    "endonym": "久米川",
+    "exonym": "Kumegawa",
+    "distance": "24.6"
+  },
+  {
+    "id": "0l",
+    "endonym": "東村山",
+    "exonym": "Higashi-Murayama",
+    "distance": "26"
+  },
+  {
+    "id": "0m",
+    "endonym": "所沢",
+    "exonym": "Tokorozawa",
+    "distance": "28.9"
+  },
+  {
+    "id": "0n",
+    "endonym": "航空公園",
+    "exonym": "Koku-koen",
+    "distance": "30.5"
+  },
+  {
+    "id": "0o",
+    "endonym": "新所沢",
+    "exonym": "Shin-Tokorozawa",
+    "distance": "31.7"
+  },
+  {
+    "id": "0p",
+    "endonym": "入曽",
+    "exonym": "Iriso",
+    "distance": "35.6"
+  },
+  {
+    "id": "0q",
+    "endonym": "狭山市",
+    "exonym": "Sayamashi",
+    "distance": "38.6"
+  },
+  {
+    "id": "0r",
+    "endonym": "新狭山",
+    "exonym": "Shin-Sayama",
+    "distance": "41.3"
+  },
+  {
+    "id": "0s",
+    "endonym": "南大塚",
+    "exonym": "Minami-Otsuka",
+    "distance": "43.9"
+  },
+  {
+    "id": "0t",
+    "endonym": "本川越",
+    "exonym": "Hon-Kawagoe",
+    "distance": "47.5"
+  }
+]

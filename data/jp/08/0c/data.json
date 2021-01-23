@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "endonym": "西武遊園地",
+    "exonym": "Seibu-Yuenchi",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "遊園地西",
+    "exonym": "Yuenchi-Nishi",
+    "distance": "0.3"
+  },
+  {
+    "id": "03",
+    "endonym": "西武球場前",
+    "exonym": "Seibu-Kyujomae",
+    "distance": "2.8"
+  }
+]

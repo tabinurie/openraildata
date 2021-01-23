@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "endonym": "吾野",
+    "exonym": "Agano",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "西吾野",
+    "exonym": "Nishi-Agano",
+    "distance": "3.6"
+  },
+  {
+    "id": "03",
+    "endonym": "正丸",
+    "exonym": "Shomaru",
+    "distance": "6.3"
+  },
+  {
+    "id": "04",
+    "endonym": "芦ヶ久保",
+    "exonym": "Ashigakubo",
+    "distance": "12.4"
+  },
+  {
+    "id": "05",
+    "endonym": "横瀬",
+    "exonym": "Yokoze",
+    "distance": "16.4"
+  },
+  {
+    "id": "06",
+    "endonym": "西武秩父",
+    "exonym": "Seibu-Chichibu",
+    "distance": "19.0"
+  }
+]

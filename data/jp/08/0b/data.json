@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "endonym": "武蔵境",
+    "exonym": "Musashi-Sakai",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "新小金井",
+    "exonym": "Shin-Koganei",
+    "distance": "1.9"
+  },
+  {
+    "id": "03",
+    "endonym": "多磨",
+    "exonym": "Tama",
+    "distance": "4.1"
+  },
+  {
+    "id": "04",
+    "endonym": "白糸台",
+    "exonym": "Shiraitodai",
+    "distance": "5.5"
+  },
+  {
+    "id": "05",
+    "endonym": "競艇場前",
+    "exonym": "Kyoteijo-mae",
+    "distance": "7.0"
+  },
+  {
+    "id": "06",
+    "endonym": "是政",
+    "exonym": "Koremasa",
+    "distance": "8.0"
+  }
+]
