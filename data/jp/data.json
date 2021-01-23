@@ -33,5 +33,10 @@
     "id": "07",
     "endonym": "東武鉄道",
     "exonym": "Tobu Railway"
+  },
+  {
+    "id": "08",
+    "endonym": "西武鉄道",
+    "exonym": "Seibu Railway"
   }
 ]
