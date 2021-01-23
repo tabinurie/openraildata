@@ -1,0 +1,86 @@
+[
+  {
+    "id": "01",
+    "endonym": "新安城",
+    "exonym": "Shin Anjo",
+    "distance": "0"
+  },
+  {
+    "id": "02",
+    "endonym": "北安城",
+    "exonym": "Kita Anjo",
+    "distance": "2.6"
+  },
+  {
+    "id": "03",
+    "endonym": "南安城",
+    "exonym": "Minami Anjo",
+    "distance": "4"
+  },
+  {
+    "id": "04",
+    "endonym": "碧海古井",
+    "exonym": "Hekikai Furui",
+    "distance": "5.7"
+  },
+  {
+    "id": "05",
+    "endonym": "堀内公園",
+    "exonym": "Horiuchikoen",
+    "distance": "6.7"
+  },
+  {
+    "id": "06",
+    "endonym": "桜井",
+    "exonym": "Sakurai",
+    "distance": "7.9"
+  },
+  {
+    "id": "07",
+    "endonym": "南桜井",
+    "exonym": "Minami Sakurai",
+    "distance": "9.5"
+  },
+  {
+    "id": "08",
+    "endonym": "米津",
+    "exonym": "Yonezu",
+    "distance": "11.6"
+  },
+  {
+    "id": "09",
+    "endonym": "桜町前",
+    "exonym": "Sakuramachi-mae",
+    "distance": "13"
+  },
+  {
+    "id": "0a",
+    "endonym": "西尾口",
+    "exonym": "Nishioguchi",
+    "distance": "14.2"
+  },
+  {
+    "id": "0b",
+    "endonym": "西尾",
+    "exonym": "Nishio",
+    "distance": "15"
+  },
+  {
+    "id": "0c",
+    "endonym": "福地",
+    "exonym": "Fukuchi",
+    "distance": "17.4"
+  },
+  {
+    "id": "0d",
+    "endonym": "上横須賀",
+    "exonym": "Kami Yokosuka",
+    "distance": "20.5"
+  },
+  {
+    "id": "0e",
+    "endonym": "吉良吉田",
+    "exonym": "Kira Yoshida",
+    "distance": "24.7"
+  }
+]

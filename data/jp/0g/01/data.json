@@ -1,0 +1,362 @@
+[
+  {
+    "id": "01",
+    "endonym": "豊橋",
+    "exonym": "Toyohashi",
+    "distance": "0"
+  },
+  {
+    "id": "02",
+    "endonym": "伊奈",
+    "exonym": "Ina",
+    "distance": "5"
+  },
+  {
+    "id": "03",
+    "endonym": "小田渕",
+    "exonym": "Odabuchi",
+    "distance": "6.6"
+  },
+  {
+    "id": "04",
+    "endonym": "国府",
+    "exonym": "Kō",
+    "distance": "9.6"
+  },
+  {
+    "id": "05",
+    "endonym": "御油",
+    "exonym": "Goyu",
+    "distance": "10.7"
+  },
+  {
+    "id": "06",
+    "endonym": "名電赤坂",
+    "exonym": "Meiden-Akasaka",
+    "distance": "12.5"
+  },
+  {
+    "id": "07",
+    "endonym": "名電長沢",
+    "exonym": "Meiden-Nagasawa",
+    "distance": "15"
+  },
+  {
+    "id": "08",
+    "endonym": "本宿",
+    "exonym": "Motojuku",
+    "distance": "18.7"
+  },
+  {
+    "id": "09",
+    "endonym": "名電山中",
+    "exonym": "Meiden Yamanaka",
+    "distance": "20.4"
+  },
+  {
+    "id": "0a",
+    "endonym": "藤川",
+    "exonym": "Fujikawa",
+    "distance": "23.1"
+  },
+  {
+    "id": "0b",
+    "endonym": "美合",
+    "exonym": "Miai",
+    "distance": "25.6"
+  },
+  {
+    "id": "0c",
+    "endonym": "男川",
+    "exonym": "Otogawa",
+    "distance": "27.6"
+  },
+  {
+    "id": "0d",
+    "endonym": "東岡崎",
+    "exonym": "Higashi-Okazaki",
+    "distance": "29.8"
+  },
+  {
+    "id": "0e",
+    "endonym": "岡崎公園前",
+    "exonym": "Okazakikōen-mae",
+    "distance": "31.1"
+  },
+  {
+    "id": "0f",
+    "endonym": "矢作橋",
+    "exonym": "Yahagibashi",
+    "distance": "32.5"
+  },
+  {
+    "id": "0g",
+    "endonym": "宇頭",
+    "exonym": "Utō",
+    "distance": "34.8"
+  },
+  {
+    "id": "0h",
+    "endonym": "新安城",
+    "exonym": "Shin-Anjō",
+    "distance": "38.3"
+  },
+  {
+    "id": "0i",
+    "endonym": "牛田",
+    "exonym": "Ushida",
+    "distance": "40.9"
+  },
+  {
+    "id": "0j",
+    "endonym": "知立",
+    "exonym": "Chiryū",
+    "distance": "43.1"
+  },
+  {
+    "id": "0k",
+    "endonym": "一ツ木",
+    "exonym": "Hitotsugi",
+    "distance": "44.6"
+  },
+  {
+    "id": "0l",
+    "endonym": "藤松",
+    "exonym": "Fujimatsu",
+    "distance": "46.6"
+  },
+  {
+    "id": "0m",
+    "endonym": "豊明",
+    "exonym": "Toyoake",
+    "distance": "48.1"
+  },
+  {
+    "id": "0n",
+    "endonym": "前後",
+    "exonym": "Zengo",
+    "distance": "49.8"
+  },
+  {
+    "id": "0o",
+    "endonym": "中京競馬場前",
+    "exonym": "Chūkyō-keibajō-mae",
+    "distance": "51.4"
+  },
+  {
+    "id": "0p",
+    "endonym": "有松",
+    "exonym": "Arimatsu",
+    "distance": "52.7"
+  },
+  {
+    "id": "0q",
+    "endonym": "左京山",
+    "exonym": "Sakyōyama",
+    "distance": "53.8"
+  },
+  {
+    "id": "0r",
+    "endonym": "鳴海",
+    "exonym": "Narumi",
+    "distance": "55.1"
+  },
+  {
+    "id": "0s",
+    "endonym": "本星崎",
+    "exonym": "Moto-Hoshizaki",
+    "distance": "56.7"
+  },
+  {
+    "id": "0t",
+    "endonym": "本笠寺",
+    "exonym": "Moto-Kasadera",
+    "distance": "58.2"
+  },
+  {
+    "id": "0u",
+    "endonym": "桜",
+    "exonym": "Sakura",
+    "distance": "58.9"
+  },
+  {
+    "id": "0v",
+    "endonym": "呼続",
+    "exonym": "Yobitsugi",
+    "distance": "59.9"
+  },
+  {
+    "id": "0w",
+    "endonym": "堀田",
+    "exonym": "Horita",
+    "distance": "61.1"
+  },
+  {
+    "id": "0x",
+    "endonym": "神宮前",
+    "exonym": "Jingū-mae",
+    "distance": "62.2"
+  },
+  {
+    "id": "0y",
+    "endonym": "金山",
+    "exonym": "Kanayama",
+    "distance": "64.4"
+  },
+  {
+    "id": "0z",
+    "endonym": "山王",
+    "exonym": "Sannō",
+    "distance": "66"
+  },
+  {
+    "id": "10",
+    "endonym": "名鉄名古屋",
+    "exonym": "Meitetsu-Nagoya",
+    "distance": "68"
+  },
+  {
+    "id": "11",
+    "endonym": "栄生",
+    "exonym": "Sakō",
+    "distance": "69.9"
+  },
+  {
+    "id": "12",
+    "endonym": "東枇杷島",
+    "exonym": "Higashi-Biwajima",
+    "distance": "70.7"
+  },
+  {
+    "id": "13",
+    "endonym": "西枇杷島",
+    "exonym": "Nishi-Biwajima",
+    "distance": "71.6"
+  },
+  {
+    "id": "14",
+    "endonym": "二ツ杁",
+    "exonym": "Futatsuiri",
+    "distance": "72.2"
+  },
+  {
+    "id": "15",
+    "endonym": "新川橋",
+    "exonym": "Shinkawabashi",
+    "distance": "72.8"
+  },
+  {
+    "id": "16",
+    "endonym": "須ヶ口",
+    "exonym": "Sukaguchi",
+    "distance": "73.5"
+  },
+  {
+    "id": "17",
+    "endonym": "丸ノ内",
+    "exonym": "Marunouchi",
+    "distance": "74.3"
+  },
+  {
+    "id": "18",
+    "endonym": "新清州",
+    "exonym": "Shin-Kiyosu",
+    "distance": "75.2"
+  },
+  {
+    "id": "19",
+    "endonym": "大里",
+    "exonym": "Ōsato",
+    "distance": "77.5"
+  },
+  {
+    "id": "1a",
+    "endonym": "奥田",
+    "exonym": "Okuda",
+    "distance": "78.8"
+  },
+  {
+    "id": "1b",
+    "endonym": "国府宮",
+    "exonym": "Kōnomiya",
+    "distance": "80.9"
+  },
+  {
+    "id": "1c",
+    "endonym": "島氏永",
+    "exonym": "Shima-Ujinaga",
+    "distance": "82.9"
+  },
+  {
+    "id": "1d",
+    "endonym": "妙興寺",
+    "exonym": "Myōkōji",
+    "distance": "84.7"
+  },
+  {
+    "id": "1e",
+    "endonym": "名鉄一宮",
+    "exonym": "Meitetsu Ichinomiya",
+    "distance": "86.4"
+  },
+  {
+    "id": "1f",
+    "endonym": "今伊勢",
+    "exonym": "Imaise",
+    "distance": "88.3"
+  },
+  {
+    "id": "1g",
+    "endonym": "石刀",
+    "exonym": "Iwato",
+    "distance": "89.2"
+  },
+  {
+    "id": "1h",
+    "endonym": "新木曽川",
+    "exonym": "Shin-Kisogawa",
+    "distance": "91.2"
+  },
+  {
+    "id": "1i",
+    "endonym": "黒田",
+    "exonym": "Kuroda",
+    "distance": "92.1"
+  },
+  {
+    "id": "1j",
+    "endonym": "木曽川堤",
+    "exonym": "Kisogawa-zutsumi",
+    "distance": "93.9"
+  },
+  {
+    "id": "1k",
+    "endonym": "笠松",
+    "exonym": "Kasamatsu",
+    "distance": "95.1"
+  },
+  {
+    "id": "1l",
+    "endonym": "岐南",
+    "exonym": "Ginan",
+    "distance": "96.9"
+  },
+  {
+    "id": "1m",
+    "endonym": "茶所",
+    "exonym": "Chajo",
+    "distance": "98.3"
+  },
+  {
+    "id": "1n",
+    "endonym": "加納",
+    "exonym": "Kanō",
+    "distance": "98.7"
+  },
+  {
+    "id": "1o",
+    "endonym": "名鉄岐阜",
+    "exonym": "Meitetsu Gifu",
+    "distance": "99.8"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01",
+    "endonym": "笠松",
+    "exonym": "Kasamatsu",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "西笠松",
+    "exonym": "Nishi-Kasamatsu",
+    "distance": "0.9"
+  },
+  {
+    "id": "03",
+    "endonym": "柳津",
+    "exonym": "Yanaizu",
+    "distance": "2.9"
+  },
+  {
+    "id": "04",
+    "endonym": "南宿",
+    "exonym": "Minami-Juku",
+    "distance": "5.2"
+  },
+  {
+    "id": "05",
+    "endonym": "須賀",
+    "exonym": "Suka",
+    "distance": "6.1"
+  },
+  {
+    "id": "06",
+    "endonym": "不破一色",
+    "exonym": "Fuwa-Ishiki",
+    "distance": "7"
+  },
+  {
+    "id": "07",
+    "endonym": "竹鼻",
+    "exonym": "Takehana",
+    "distance": "8.6"
+  },
+  {
+    "id": "08",
+    "endonym": "羽島市役所前",
+    "exonym": "Hashimashiyakushomae",
+    "distance": "9.6"
+  },
+  {
+    "id": "09",
+    "endonym": "江吉良",
+    "exonym": "Egira",
+    "distance": "10.3"
+  }
+]

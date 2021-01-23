@@ -1,0 +1,134 @@
+[
+  {
+    "id": "01",
+    "endonym": "弥富",
+    "exonym": "Yatomi",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "五ノ三",
+    "exonym": "Gonosan",
+    "distance": "2.5"
+  },
+  {
+    "id": "03",
+    "endonym": "佐屋",
+    "exonym": "Saya",
+    "distance": "4.6"
+  },
+  {
+    "id": "04",
+    "endonym": "日比野",
+    "exonym": "Hibino",
+    "distance": "6.6"
+  },
+  {
+    "id": "05",
+    "endonym": "津島",
+    "exonym": "Tsushima",
+    "distance": "8.2"
+  },
+  {
+    "id": "06",
+    "endonym": "町方",
+    "exonym": "Machikata",
+    "distance": "9.6"
+  },
+  {
+    "id": "07",
+    "endonym": "六輪",
+    "exonym": "Rokuwa",
+    "distance": "11.1"
+  },
+  {
+    "id": "08",
+    "endonym": "渕高",
+    "exonym": "Fuchidaka",
+    "distance": "12.4"
+  },
+  {
+    "id": "09",
+    "endonym": "丸渕",
+    "exonym": "Marubuchi",
+    "distance": "13.4"
+  },
+  {
+    "id": "0a",
+    "endonym": "上丸渕",
+    "exonym": "Kami-Marubuchi",
+    "distance": "14.7"
+  },
+  {
+    "id": "0b",
+    "endonym": "森上",
+    "exonym": "Morikami",
+    "distance": "16.2"
+  },
+  {
+    "id": "0c",
+    "endonym": "山崎",
+    "exonym": "Yamazaki",
+    "distance": "17.3"
+  },
+  {
+    "id": "0d",
+    "endonym": "玉野",
+    "exonym": "Tamano",
+    "distance": "18.7"
+  },
+  {
+    "id": "0e",
+    "endonym": "萩原",
+    "exonym": "Hagiwara",
+    "distance": "20.2"
+  },
+  {
+    "id": "0f",
+    "endonym": "二子",
+    "exonym": "Futago",
+    "distance": "21.3"
+  },
+  {
+    "id": "0g",
+    "endonym": "苅安賀",
+    "exonym": "Kariyasuka",
+    "distance": "22.5"
+  },
+  {
+    "id": "0h",
+    "endonym": "観音寺",
+    "exonym": "Kannonji",
+    "distance": "23.2"
+  },
+  {
+    "id": "0i",
+    "endonym": "名鉄一宮",
+    "exonym": "Meitetsu Ichinomiya",
+    "distance": "25.3"
+  },
+  {
+    "id": "0j",
+    "endonym": "西一宮",
+    "exonym": "Nishi-Ichinomiya",
+    "distance": "26"
+  },
+  {
+    "id": "0k",
+    "endonym": "開明",
+    "exonym": "Kaimei",
+    "distance": "28.1"
+  },
+  {
+    "id": "0l",
+    "endonym": "奥町",
+    "exonym": "Okuchō",
+    "distance": "29.4"
+  },
+  {
+    "id": "0m",
+    "endonym": "玉ノ井",
+    "exonym": "Tamanoi",
+    "distance": "30.9"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "01",
+    "endonym": "名鉄岐阜",
+    "exonym": "Meitetsu Gifu",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "田神",
+    "exonym": "Tagami",
+    "distance": "1.1"
+  },
+  {
+    "id": "03",
+    "endonym": "細畑",
+    "exonym": "Hosobata",
+    "distance": "2.9"
+  },
+  {
+    "id": "04",
+    "endonym": "切通",
+    "exonym": "Kiridōshi",
+    "distance": "3.9"
+  },
+  {
+    "id": "05",
+    "endonym": "手力",
+    "exonym": "Tejikara",
+    "distance": "4.8"
+  },
+  {
+    "id": "06",
+    "endonym": "高田橋",
+    "exonym": "Takada-bashi",
+    "distance": "5.4"
+  },
+  {
+    "id": "07",
+    "endonym": "新加納",
+    "exonym": "Shin Kanō",
+    "distance": "6.6"
+  },
+  {
+    "id": "08",
+    "endonym": "新那加",
+    "exonym": "Shin Naka",
+    "distance": "7.5"
+  },
+  {
+    "id": "09",
+    "endonym": "市民公園",
+    "exonym": "Shiminkōen-mae",
+    "distance": "8.1"
+  },
+  {
+    "id": "0a",
+    "endonym": "各務原市役所前",
+    "exonym": "Kakamigahara-shiyakusho-mae",
+    "distance": "8.7"
+  },
+  {
+    "id": "0b",
+    "endonym": "六軒",
+    "exonym": "Rokken",
+    "distance": "9.9"
+  },
+  {
+    "id": "0c",
+    "endonym": "三柿野",
+    "exonym": "Mikakino",
+    "distance": "11.2"
+  },
+  {
+    "id": "0d",
+    "endonym": "二十軒",
+    "exonym": "Nijikken",
+    "distance": "12.4"
+  },
+  {
+    "id": "0e",
+    "endonym": "名電各務原",
+    "exonym": "Meiden Kakamigahara",
+    "distance": "13.7"
+  },
+  {
+    "id": "0f",
+    "endonym": "苧ヶ瀬",
+    "exonym": "Ogase",
+    "distance": "14.6"
+  },
+  {
+    "id": "0g",
+    "endonym": "羽場",
+    "exonym": "Haba",
+    "distance": "15.5"
+  },
+  {
+    "id": "0h",
+    "endonym": "鵜沼宿",
+    "exonym": "Unumajuku",
+    "distance": "16.5"
+  },
+  {
+    "id": "0i",
+    "endonym": "新鵜沼",
+    "exonym": "Shin Unuma",
+    "distance": "17.6"
+  }
+]

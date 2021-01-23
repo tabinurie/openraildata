@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "endonym": "国府",
+    "exonym": "Ko",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "八幡",
+    "exonym": "Yawata",
+    "distance": "2.5"
+  },
+  {
+    "id": "03",
+    "endonym": "諏訪町",
+    "exonym": "Suwacho",
+    "distance": "4.4"
+  },
+  {
+    "id": "04",
+    "endonym": "稲荷口",
+    "exonym": "Inariguchi",
+    "distance": "6.0"
+  },
+  {
+    "id": "05",
+    "endonym": "豊川稲荷",
+    "exonym": "Toyokawa-inari",
+    "distance": "7.2"
+  }
+]

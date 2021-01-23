@@ -1,0 +1,122 @@
+[
+  {
+    "id": "01",
+    "endonym": "栄町",
+    "exonym": "Sakaemachi",
+    "distance": "0"
+  },
+  {
+    "id": "02",
+    "endonym": "東大手",
+    "exonym": "Higashiōte",
+    "distance": "1.5"
+  },
+  {
+    "id": "03",
+    "endonym": "清水",
+    "exonym": "Shimizu",
+    "distance": "2.2"
+  },
+  {
+    "id": "04",
+    "endonym": "尼ヶ坂",
+    "exonym": "Amagasaka",
+    "distance": "2.7"
+  },
+  {
+    "id": "05",
+    "endonym": "森下",
+    "exonym": "Morishita",
+    "distance": "3.6"
+  },
+  {
+    "id": "06",
+    "endonym": "大曽根",
+    "exonym": "Ōzone",
+    "distance": "4.6"
+  },
+  {
+    "id": "07",
+    "endonym": "矢田",
+    "exonym": "Yada",
+    "distance": "5.9"
+  },
+  {
+    "id": "08",
+    "endonym": "守山自衛隊前",
+    "exonym": "Moriyama-Jieitai-Mae",
+    "distance": "7"
+  },
+  {
+    "id": "09",
+    "endonym": "瓢箪山",
+    "exonym": "Hyōtan-yama",
+    "distance": "7.6"
+  },
+  {
+    "id": "0a",
+    "endonym": "小幡",
+    "exonym": "Obata",
+    "distance": "8.6"
+  },
+  {
+    "id": "0b",
+    "endonym": "喜多山",
+    "exonym": "Kitayama",
+    "distance": "9.9"
+  },
+  {
+    "id": "0c",
+    "endonym": "大森・金城学院前",
+    "exonym": "Ōmori-Kinjōgakuin-mae",
+    "distance": "10.7"
+  },
+  {
+    "id": "0d",
+    "endonym": "印場",
+    "exonym": "Inba",
+    "distance": "12.2"
+  },
+  {
+    "id": "0e",
+    "endonym": "旭前",
+    "exonym": "Asahi-mae",
+    "distance": "13.1"
+  },
+  {
+    "id": "0f",
+    "endonym": "尾張旭",
+    "exonym": "Owari Asahi",
+    "distance": "14.7"
+  },
+  {
+    "id": "0g",
+    "endonym": "三郷",
+    "exonym": "Sangō",
+    "distance": "16.1"
+  },
+  {
+    "id": "0h",
+    "endonym": "水野",
+    "exonym": "Mizuno",
+    "distance": "18"
+  },
+  {
+    "id": "0i",
+    "endonym": "新瀬戸",
+    "exonym": "Shin Seto",
+    "distance": "18.7"
+  },
+  {
+    "id": "0j",
+    "endonym": "瀬戸市役所前",
+    "exonym": "Seto-Shiyakusho-mae",
+    "distance": "19.4"
+  },
+  {
+    "id": "0k",
+    "endonym": "尾張瀬戸",
+    "exonym": "Owari Seto",
+    "distance": "20.6"
+  }
+]
