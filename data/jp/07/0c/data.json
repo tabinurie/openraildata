@@ -1,0 +1,236 @@
+[
+  {
+    "id": "01",
+    "endonym": "池袋",
+    "exonym": "Ikebukuro",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "北池袋",
+    "exonym": "Kita-Ikebukuro",
+    "distance": "1.2"
+  },
+  {
+    "id": "03",
+    "endonym": "下板橋",
+    "exonym": "Shimo-Itabashi",
+    "distance": "2.0"
+  },
+  {
+    "id": "04",
+    "endonym": "大山",
+    "exonym": "Oyama",
+    "distance": "3.0"
+  },
+  {
+    "id": "05",
+    "endonym": "中板橋",
+    "exonym": "Naka-Itabashi",
+    "distance": "4.0"
+  },
+  {
+    "id": "06",
+    "endonym": "ときわ台",
+    "exonym": "Tokiwadai",
+    "distance": "4.7"
+  },
+  {
+    "id": "07",
+    "endonym": "上板橋",
+    "exonym": "Kami-Itabashi",
+    "distance": "6.0"
+  },
+  {
+    "id": "08",
+    "endonym": "東武練馬",
+    "exonym": "Tobu-Nerima",
+    "distance": "7.4"
+  },
+  {
+    "id": "09",
+    "endonym": "下赤塚",
+    "exonym": "Shimo-Akatsuka",
+    "distance": "8.9"
+  },
+  {
+    "id": "0a",
+    "endonym": "成増",
+    "exonym": "Narimasu",
+    "distance": "10.4"
+  },
+  {
+    "id": "0b",
+    "endonym": "和光市",
+    "exonym": "Wakoshi",
+    "distance": "12.5"
+  },
+  {
+    "id": "0c",
+    "endonym": "朝霞",
+    "exonym": "Asaka",
+    "distance": "14.0"
+  },
+  {
+    "id": "0d",
+    "endonym": "朝霞台",
+    "exonym": "Asakadai",
+    "distance": "16.4"
+  },
+  {
+    "id": "0e",
+    "endonym": "志木",
+    "exonym": "Shiki",
+    "distance": "17.8"
+  },
+  {
+    "id": "0f",
+    "endonym": "柳瀬川",
+    "exonym": "Yanasegawa",
+    "distance": "19.3"
+  },
+  {
+    "id": "0g",
+    "endonym": "みずほ台",
+    "exonym": "Mizuhodai",
+    "distance": "20.6"
+  },
+  {
+    "id": "0h",
+    "endonym": "鶴瀬",
+    "exonym": "Tsuruse",
+    "distance": "22.0"
+  },
+  {
+    "id": "0i",
+    "endonym": "ふじみ野",
+    "exonym": "Fujimino",
+    "distance": "24.2"
+  },
+  {
+    "id": "0j",
+    "endonym": "上福岡",
+    "exonym": "Kami-Fukuoka",
+    "distance": "25.9"
+  },
+  {
+    "id": "0k",
+    "endonym": "新河岸",
+    "exonym": "Shingashi",
+    "distance": "28.3"
+  },
+  {
+    "id": "0l",
+    "endonym": "川越",
+    "exonym": "Kawagoe",
+    "distance": "30.5"
+  },
+  {
+    "id": "0m",
+    "endonym": "川越市",
+    "exonym": "Kawagoeshi",
+    "distance": "31.4"
+  },
+  {
+    "id": "0n",
+    "endonym": "霞ヶ関",
+    "exonym": "Kasumigaseki",
+    "distance": "34.8"
+  },
+  {
+    "id": "0o",
+    "endonym": "鶴ヶ島",
+    "exonym": "Tsurugashima",
+    "distance": "370"
+  },
+  {
+    "id": "0p",
+    "endonym": "若葉",
+    "exonym": "Wakaba",
+    "distance": "38.9"
+  },
+  {
+    "id": "0q",
+    "endonym": "坂戸",
+    "exonym": "Sakado",
+    "distance": "40.6"
+  },
+  {
+    "id": "0r",
+    "endonym": "北坂戸",
+    "exonym": "Kita-Sakado",
+    "distance": "42.7"
+  },
+  {
+    "id": "0s",
+    "endonym": "高坂",
+    "exonym": "Takasaka",
+    "distance": "46.2"
+  },
+  {
+    "id": "0t",
+    "endonym": "東松山",
+    "exonym": "Higashi-Matsuyama",
+    "distance": "49.9"
+  },
+  {
+    "id": "0u",
+    "endonym": "森林公園",
+    "exonym": "Shinrinkoen",
+    "distance": "52.6"
+  },
+  {
+    "id": "0v",
+    "endonym": "つきのわ",
+    "exonym": "Tsukinowa",
+    "distance": "55.4"
+  },
+  {
+    "id": "0w",
+    "endonym": "武蔵嵐山",
+    "exonym": "Musashi-Ranzan",
+    "distance": "57.1"
+  },
+  {
+    "id": "0x",
+    "endonym": "小川町",
+    "exonym": "Ogawamachi",
+    "distance": "64.1"
+  },
+  {
+    "id": "0y",
+    "endonym": "東武竹沢",
+    "exonym": "Tobu-Takezawa",
+    "distance": "67.1"
+  },
+  {
+    "id": "0z",
+    "endonym": "みなみ寄居",
+    "exonym": "Minami-Yorii",
+    "distance": "68.9"
+  },
+  {
+    "id": "10",
+    "endonym": "男衾",
+    "exonym": "Obusuma",
+    "distance": "70.8"
+  },
+  {
+    "id": "11",
+    "endonym": "鉢形",
+    "exonym": "Hachigata",
+    "distance": "73.5"
+  },
+  {
+    "id": "12",
+    "endonym": "玉淀",
+    "exonym": "Tamayodo",
+    "distance": "74.4"
+  },
+  {
+    "id": "13",
+    "endonym": "寄居",
+    "exonym": "Yorii",
+    "distance": "75.0"
+  }
+]

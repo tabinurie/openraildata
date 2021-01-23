@@ -1,0 +1,158 @@
+[
+  {
+    "id": "01",
+    "endonym": "東武動物公園",
+    "exonym": "Tobu-Dobutsu-Koen",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "杉戸高野台",
+    "exonym": "Sugito-Takanodai",
+    "distance": "3.2"
+  },
+  {
+    "id": "03",
+    "endonym": "幸手",
+    "exonym": "Satte",
+    "distance": "5.8"
+  },
+  {
+    "id": "04",
+    "endonym": "南栗橋",
+    "exonym": "Minami-Kurihashi",
+    "distance": "10.4"
+  },
+  {
+    "id": "05",
+    "endonym": "栗橋",
+    "exonym": "Kurihashi",
+    "distance": "13.9"
+  },
+  {
+    "id": "06",
+    "endonym": "新古河",
+    "exonym": "Shin-Koga",
+    "distance": "20.6"
+  },
+  {
+    "id": "07",
+    "endonym": "柳生",
+    "exonym": "Yagyū",
+    "distance": "23.6"
+  },
+  {
+    "id": "08",
+    "endonym": "板倉東洋大前",
+    "exonym": "Itakura Toyodai-mae",
+    "distance": "25.6"
+  },
+  {
+    "id": "09",
+    "endonym": "藤岡",
+    "exonym": "Fujioka",
+    "distance": "29.5"
+  },
+  {
+    "id": "0a",
+    "endonym": "静和",
+    "exonym": "Shizuwa",
+    "distance": "37.3"
+  },
+  {
+    "id": "0b",
+    "endonym": "新大平下",
+    "exonym": "Shin-Ohirashita",
+    "distance": "40.1"
+  },
+  {
+    "id": "0c",
+    "endonym": "栃木",
+    "exonym": "Tochigi",
+    "distance": "44.9"
+  },
+  {
+    "id": "0d",
+    "endonym": "新栃木",
+    "exonym": "Shin-Tochigi",
+    "distance": "47.9"
+  },
+  {
+    "id": "0e",
+    "endonym": "合戦場",
+    "exonym": "Kassemba",
+    "distance": "50.0"
+  },
+  {
+    "id": "0f",
+    "endonym": "家中",
+    "exonym": "Ienaka",
+    "distance": "52.4"
+  },
+  {
+    "id": "0g",
+    "endonym": "東武金崎",
+    "exonym": "Tobu Kanasaki",
+    "distance": "56.6"
+  },
+  {
+    "id": "0h",
+    "endonym": "楡木",
+    "exonym": "Niregi",
+    "distance": "61.2"
+  },
+  {
+    "id": "0i",
+    "endonym": "樅山",
+    "exonym": "Momiyama",
+    "distance": "64.2"
+  },
+  {
+    "id": "0j",
+    "endonym": "新鹿沼",
+    "exonym": "Shin-Kanuma",
+    "distance": "66.8"
+  },
+  {
+    "id": "0k",
+    "endonym": "北鹿沼",
+    "exonym": "Kita-Kanuma",
+    "distance": "69.8"
+  },
+  {
+    "id": "0l",
+    "endonym": "板荷",
+    "exonym": "Itaga",
+    "distance": "74.9"
+  },
+  {
+    "id": "0m",
+    "endonym": "下小代",
+    "exonym": "Shimo-Goshiro",
+    "distance": "78.5"
+  },
+  {
+    "id": "0n",
+    "endonym": "明神",
+    "exonym": "Myojin",
+    "distance": "81.3"
+  },
+  {
+    "id": "0o",
+    "endonym": "下今市",
+    "exonym": "Shimo-Imaichi",
+    "distance": "87.4"
+  },
+  {
+    "id": "0p",
+    "endonym": "上今市",
+    "exonym": "Kami-Imaichi",
+    "distance": "88.4"
+  },
+  {
+    "id": "0q",
+    "endonym": "東武日光",
+    "exonym": "Tobu Nikko",
+    "distance": "94.5"
+  }
+]

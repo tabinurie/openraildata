@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "endonym": "館林",
+    "exonym": "Tatebayashi",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "成島",
+    "exonym": "Narushima",
+    "distance": "2.6"
+  },
+  {
+    "id": "03",
+    "endonym": "本中野",
+    "exonym": "Hon-Nakano",
+    "distance": "6.8"
+  },
+  {
+    "id": "04",
+    "endonym": "篠塚",
+    "exonym": "Shinozuka",
+    "distance": "9.2"
+  },
+  {
+    "id": "05",
+    "endonym": "東小泉",
+    "exonym": "Higashi-Koizumi",
+    "distance": "11.0"
+  },
+  {
+    "id": "06",
+    "endonym": "小泉町",
+    "exonym": "Koizumimachi",
+    "distance": "11.9"
+  },
+  {
+    "id": "07",
+    "endonym": "西小泉",
+    "exonym": "Nishi-Koizumi",
+    "distance": "13.2"
+  }
+]

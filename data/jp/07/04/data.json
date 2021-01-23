@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "endonym": "太田",
+    "exonym": "Ota",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "三枚橋",
+    "exonym": "Sammaibashi",
+    "distance": "3.4"
+  },
+  {
+    "id": "03",
+    "endonym": "治良門橋",
+    "exonym": "Jiroembashi",
+    "distance": "5.9"
+  },
+  {
+    "id": "04",
+    "endonym": "藪塚",
+    "exonym": "Yabuzuka",
+    "distance": "9.7"
+  },
+  {
+    "id": "05",
+    "endonym": "阿左美",
+    "exonym": "Azami",
+    "distance": "13.1"
+  },
+  {
+    "id": "06",
+    "endonym": "新桐生",
+    "exonym": "Shin-kiryu",
+    "distance": "14.6"
+  },
+  {
+    "id": "07",
+    "endonym": "相老",
+    "exonym": "Aioi",
+    "distance": "16.9"
+  },
+  {
+    "id": "08",
+    "endonym": "赤城",
+    "exonym": "Akagi",
+    "distance": "20.3"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "01",
+    "endonym": "伊勢崎線",
+    "exonym": "Isesaki Line"
+  },
+  {
+    "id": "02",
+    "endonym": "亀戸線",
+    "exonym": "Kameido Line"
+  },
+  {
+    "id": "03",
+    "endonym": "大師線",
+    "exonym": "Daishi Line"
+  },
+  {
+    "id": "04",
+    "endonym": "桐生線",
+    "exonym": "Kiryu Line"
+  },
+  {
+    "id": "05",
+    "endonym": "小泉線(館林 - 西小泉)",
+    "exonym": "Koizumi Line (Tatebayashi - Nishi-Koizumi)"
+  },
+  {
+    "id": "06",
+    "endonym": "小泉線(太田 - 東小泉)",
+    "exonym": "Koizumi Line (Ota - Higashi-Koizumi)"
+  },
+  {
+    "id": "07",
+    "endonym": "佐野線",
+    "exonym": "Sano Line"
+  },
+  {
+    "id": "08",
+    "endonym": "日光線",
+    "exonym": "Nikko Line"
+  },
+  {
+    "id": "09",
+    "endonym": "鬼怒川線",
+    "exonym": "Kinugawa Line"
+  },
+  {
+    "id": "0a",
+    "endonym": "宇都宮線",
+    "exonym": "Utsunomiya Line"
+  },
+  {
+    "id": "0b",
+    "endonym": "野田線",
+    "exonym": "Noda Line"
+  },
+  {
+    "id": "0c",
+    "endonym": "東上本線",
+    "exonym": "Tojo Line"
+  },
+  {
+    "id": "0d",
+    "endonym": "越生線",
+    "exonym": "Ogose Line"
+  }
+]

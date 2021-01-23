@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "endonym": "館林",
+    "exonym": "Tatebayashi",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "渡瀬",
+    "exonym": "Watarase",
+    "distance": "2.7"
+  },
+  {
+    "id": "03",
+    "endonym": "田島",
+    "exonym": "Tajima",
+    "distance": "6.9"
+  },
+  {
+    "id": "04",
+    "endonym": "佐野市",
+    "exonym": "Sanoshi",
+    "distance": "9"
+  },
+  {
+    "id": "05",
+    "endonym": "佐野",
+    "exonym": "Sano",
+    "distance": "11.5"
+  },
+  {
+    "id": "06",
+    "endonym": "堀米",
+    "exonym": "Horigome",
+    "distance": "13.1"
+  },
+  {
+    "id": "07",
+    "endonym": "吉水",
+    "exonym": "Yoshimizu",
+    "distance": "15.2"
+  },
+  {
+    "id": "08",
+    "endonym": "田沼",
+    "exonym": "Tanuma",
+    "distance": "17.7"
+  },
+  {
+    "id": "09",
+    "endonym": "多田",
+    "exonym": "Tada",
+    "distance": "19.3"
+  },
+  {
+    "id": "0a",
+    "endonym": "葛生",
+    "exonym": "Kuzu",
+    "distance": "22.1"
+  }
+]
