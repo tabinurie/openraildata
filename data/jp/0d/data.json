@@ -1,0 +1,27 @@
+[
+  {
+    "id": "01",
+    "endonym": "本線",
+    "exonym": "Main Line"
+  },
+  {
+    "id": "02",
+    "endonym": "空港線",
+    "exonym": "Airport Line"
+  },
+  {
+    "id": "03",
+    "endonym": "大師線",
+    "exonym": "Daishi Line"
+  },
+  {
+    "id": "04",
+    "endonym": "逗子線",
+    "exonym": "Zushi Line"
+  },
+  {
+    "id": "05",
+    "endonym": "久里浜線",
+    "exonym": "Kurihama Line"
+  }
+]

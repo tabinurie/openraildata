@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01",
+    "endonym": "東横線",
+    "exonym": "Toyoko Line"
+  },
+  {
+    "id": "02",
+    "endonym": "目黒線",
+    "exonym": "Meguro Line"
+  },
+  {
+    "id": "03",
+    "endonym": "東急多摩川線",
+    "exonym": "Tokyu Tamagawa Line"
+  },
+  {
+    "id": "04",
+    "endonym": "大井町線",
+    "exonym": "Oimachi Line"
+  },
+  {
+    "id": "05",
+    "endonym": "池上線",
+    "exonym": "Ikegami Line"
+  },
+  {
+    "id": "06",
+    "endonym": "田園都市線",
+    "exonym": "Den-en-toshi Line"
+  },
+  {
+    "id": "07",
+    "endonym": "こどもの国線",
+    "exonym": "Kodomonokuni Line"
+  },
+  {
+    "id": "08",
+    "endonym": "世田谷線",
+    "exonym": "Setagaya Line"
+  }
+]

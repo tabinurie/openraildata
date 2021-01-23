@@ -1,0 +1,116 @@
+[
+  {
+    "id": "01",
+    "endonym": "浅草",
+    "exonym": "Asakusa",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "田原町",
+    "exonym": "Tawaramachi",
+    "distance": "0.8"
+  },
+  {
+    "id": "03",
+    "endonym": "稲荷町",
+    "exonym": "Inaricho",
+    "distance": "1.5"
+  },
+  {
+    "id": "04",
+    "endonym": "上野",
+    "exonym": "Ueno",
+    "distance": "2.2"
+  },
+  {
+    "id": "05",
+    "endonym": "上野広小路",
+    "exonym": "Ueno-hirokoji",
+    "distance": "2.7"
+  },
+  {
+    "id": "06",
+    "endonym": "末広町",
+    "exonym": "Suehirocho",
+    "distance": "3.3"
+  },
+  {
+    "id": "07",
+    "endonym": "神田",
+    "exonym": "Kanda",
+    "distance": "4.4"
+  },
+  {
+    "id": "08",
+    "endonym": "三越前",
+    "exonym": "Mitsukoshimae",
+    "distance": "5.1"
+  },
+  {
+    "id": "09",
+    "endonym": "日本橋",
+    "exonym": "Nihombashi",
+    "distance": "5.7"
+  },
+  {
+    "id": "0a",
+    "endonym": "京橋",
+    "exonym": "Kyobashi",
+    "distance": "6.4"
+  },
+  {
+    "id": "0b",
+    "endonym": "銀座",
+    "exonym": "Ginza",
+    "distance": "7.1"
+  },
+  {
+    "id": "0c",
+    "endonym": "新橋",
+    "exonym": "Shimbashi",
+    "distance": "8"
+  },
+  {
+    "id": "0d",
+    "endonym": "虎ノ門",
+    "exonym": "Toranomon",
+    "distance": "8.8"
+  },
+  {
+    "id": "0e",
+    "endonym": "溜池山王",
+    "exonym": "Tameike-sanno",
+    "distance": "9.4"
+  },
+  {
+    "id": "0f",
+    "endonym": "赤坂見附",
+    "exonym": "Akasaka-mitsuke",
+    "distance": "10.3"
+  },
+  {
+    "id": "0g",
+    "endonym": "青山一丁目",
+    "exonym": "Aoyama-itchome",
+    "distance": "11.6"
+  },
+  {
+    "id": "0h",
+    "endonym": "外苑前",
+    "exonym": "Gaiemmae",
+    "distance": "12.3"
+  },
+  {
+    "id": "0i",
+    "endonym": "表参道",
+    "exonym": "Omote-sando",
+    "distance": "13"
+  },
+  {
+    "id": "0j",
+    "endonym": "渋谷",
+    "exonym": "Shibuya",
+    "distance": "14.3"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "endonym": "京急蒲田",
+    "exonym": "Keikyū Kamata",
+    "distance": "0"
+  },
+  {
+    "id": "02",
+    "endonym": "糀谷",
+    "exonym": "Kōjiya",
+    "distance": "0.9"
+  },
+  {
+    "id": "03",
+    "endonym": "大鳥居",
+    "exonym": "Ōtorii",
+    "distance": "1.9"
+  },
+  {
+    "id": "04",
+    "endonym": "穴守稲荷",
+    "exonym": "Anamori-inari",
+    "distance": "2.6"
+  },
+  {
+    "id": "05",
+    "endonym": "天空橋",
+    "exonym": "Tenkūbashi",
+    "distance": "3.3"
+  },
+  {
+    "id": "06",
+    "endonym": "羽田空港第3ターミナル",
+    "exonym": "Haneda Airport Terminal 3",
+    "distance": "4.5"
+  },
+  {
+    "id": "07",
+    "endonym": "羽田空港第1・第2ターミナル",
+    "exonym": "Haneda Airport Terminal 1·2",
+    "distance": "6.5"
+  }
+]

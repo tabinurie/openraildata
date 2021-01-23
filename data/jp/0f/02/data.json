@@ -1,0 +1,152 @@
+[
+  {
+    "id": "01",
+    "endonym": "池袋",
+    "exonym": "Ikebukuro",
+    "distance": "0"
+  },
+  {
+    "id": "02",
+    "endonym": "新大塚",
+    "exonym": "Shin-otsuka",
+    "distance": "1.8"
+  },
+  {
+    "id": "03",
+    "endonym": "茗荷谷",
+    "exonym": "Myogadani",
+    "distance": "3"
+  },
+  {
+    "id": "04",
+    "endonym": "後楽園",
+    "exonym": "Korakuen",
+    "distance": "4.8"
+  },
+  {
+    "id": "05",
+    "endonym": "本郷三丁目",
+    "exonym": "Hongo-sanchome",
+    "distance": "5.6"
+  },
+  {
+    "id": "06",
+    "endonym": "御茶ノ水",
+    "exonym": "Ochanomizu",
+    "distance": "6.4"
+  },
+  {
+    "id": "07",
+    "endonym": "淡路町",
+    "exonym": "Awajicho",
+    "distance": "7.2"
+  },
+  {
+    "id": "08",
+    "endonym": "大手町",
+    "exonym": "Ōtemachi",
+    "distance": "8.1"
+  },
+  {
+    "id": "09",
+    "endonym": "東京",
+    "exonym": "Tokyo",
+    "distance": "8.7"
+  },
+  {
+    "id": "0a",
+    "endonym": "銀座",
+    "exonym": "Ginza",
+    "distance": "9.8"
+  },
+  {
+    "id": "0b",
+    "endonym": "霞ケ関",
+    "exonym": "Kasumigaseki",
+    "distance": "10.8"
+  },
+  {
+    "id": "0c",
+    "endonym": "国会議事堂前",
+    "exonym": "Kokkai-gijidomae",
+    "distance": "11.5"
+  },
+  {
+    "id": "0d",
+    "endonym": "赤坂見附",
+    "exonym": "Akasaka-mitsuke",
+    "distance": "12.4"
+  },
+  {
+    "id": "0e",
+    "endonym": "四ツ谷",
+    "exonym": "Yotsuya",
+    "distance": "13.7"
+  },
+  {
+    "id": "0f",
+    "endonym": "四谷三丁目",
+    "exonym": "Yotsuya-sanchome",
+    "distance": "14.7"
+  },
+  {
+    "id": "0g",
+    "endonym": "新宿御苑前",
+    "exonym": "Shinjuku-gyoemmae",
+    "distance": "15.6"
+  },
+  {
+    "id": "0h",
+    "endonym": "新宿三丁目",
+    "exonym": "Shinjuku-sanchome",
+    "distance": "16.3"
+  },
+  {
+    "id": "0i",
+    "endonym": "新宿",
+    "exonym": "Shinjuku",
+    "distance": "16.6"
+  },
+  {
+    "id": "0j",
+    "endonym": "西新宿",
+    "exonym": "Nishi-shinjuku",
+    "distance": "17.4"
+  },
+  {
+    "id": "0k",
+    "endonym": "中野坂上",
+    "exonym": "Nakano-sakaue",
+    "distance": "18.5"
+  },
+  {
+    "id": "0l",
+    "endonym": "新中野",
+    "exonym": "Shin-nakano",
+    "distance": "19.6"
+  },
+  {
+    "id": "0m",
+    "endonym": "東高円寺",
+    "exonym": "Higashi-koenji",
+    "distance": "20.6"
+  },
+  {
+    "id": "0n",
+    "endonym": "新高円寺",
+    "exonym": "Shin-koenji",
+    "distance": "21.5"
+  },
+  {
+    "id": "0o",
+    "endonym": "南阿佐ケ谷",
+    "exonym": "Minami-asagaya",
+    "distance": "22.7"
+  },
+  {
+    "id": "0p",
+    "endonym": "荻窪",
+    "exonym": "Ogikubo",
+    "distance": "24.2"
+  }
+]

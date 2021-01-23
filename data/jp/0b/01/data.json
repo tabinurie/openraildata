@@ -1,0 +1,284 @@
+[
+  {
+    "id": "01",
+    "endonym": "新宿",
+    "exonym": "Shinjuku",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "南新宿",
+    "exonym": "Minami-Shinjuku",
+    "distance": "0.8"
+  },
+  {
+    "id": "03",
+    "endonym": "参宮橋",
+    "exonym": "Sangubashi",
+    "distance": "1.5"
+  },
+  {
+    "id": "04",
+    "endonym": "代々木八幡",
+    "exonym": "Yoyogi-Hachiman",
+    "distance": "2.7"
+  },
+  {
+    "id": "05",
+    "endonym": "代々木上原",
+    "exonym": "Yoyogi-Uehara",
+    "distance": "3.5"
+  },
+  {
+    "id": "06",
+    "endonym": "東北沢",
+    "exonym": "Higashi-Kitazawa",
+    "distance": "4.2"
+  },
+  {
+    "id": "07",
+    "endonym": "下北沢",
+    "exonym": "Shimo-Kitazawa",
+    "distance": "4.9"
+  },
+  {
+    "id": "08",
+    "endonym": "世田谷代田",
+    "exonym": "Setagaya-Daita",
+    "distance": "5.6"
+  },
+  {
+    "id": "09",
+    "endonym": "梅ヶ丘",
+    "exonym": "Umegaoka",
+    "distance": "6.3"
+  },
+  {
+    "id": "0a",
+    "endonym": "豪徳寺",
+    "exonym": "Gotokuji",
+    "distance": "7.0"
+  },
+  {
+    "id": "0b",
+    "endonym": "経堂",
+    "exonym": "Kyōdo",
+    "distance": "8.0"
+  },
+  {
+    "id": "0c",
+    "endonym": "千歳船橋",
+    "exonym": "Chitose-Funabashi",
+    "distance": "9.2"
+  },
+  {
+    "id": "0d",
+    "endonym": "祖師ヶ谷大蔵",
+    "exonym": "Soshigaya-Okura",
+    "distance": "10.6"
+  },
+  {
+    "id": "0e",
+    "endonym": "成城学園前",
+    "exonym": "Seijogakuen-Mae",
+    "distance": "11.6"
+  },
+  {
+    "id": "0f",
+    "endonym": "喜多見",
+    "exonym": "Kitami",
+    "distance": "12.7"
+  },
+  {
+    "id": "0g",
+    "endonym": "狛江",
+    "exonym": "Komae",
+    "distance": "13.8"
+  },
+  {
+    "id": "0h",
+    "endonym": "和泉多摩川",
+    "exonym": "Izumi-Tamagawa",
+    "distance": "14.4"
+  },
+  {
+    "id": "0i",
+    "endonym": "登戸",
+    "exonym": "Noborito",
+    "distance": "15.2"
+  },
+  {
+    "id": "0j",
+    "endonym": "向ヶ丘遊園",
+    "exonym": "Mukogaoka-Yuen",
+    "distance": "15.8"
+  },
+  {
+    "id": "0k",
+    "endonym": "生田",
+    "exonym": "Ikuta",
+    "distance": "17.9"
+  },
+  {
+    "id": "0l",
+    "endonym": "読売ランド前",
+    "exonym": "Yomiuri-Land-mae",
+    "distance": "19.2"
+  },
+  {
+    "id": "0m",
+    "endonym": "百合ヶ丘",
+    "exonym": "Yurigaoka",
+    "distance": "20.5"
+  },
+  {
+    "id": "0n",
+    "endonym": "新百合ヶ丘",
+    "exonym": "Shin-Yurigaoka",
+    "distance": "21.5"
+  },
+  {
+    "id": "0o",
+    "endonym": "柿生",
+    "exonym": "Kakio",
+    "distance": "23.4"
+  },
+  {
+    "id": "0p",
+    "endonym": "鶴川",
+    "exonym": "Tsurukawa",
+    "distance": "25.1"
+  },
+  {
+    "id": "0q",
+    "endonym": "玉川学園前",
+    "exonym": "Tamagawagakuen-mae",
+    "distance": "27.9"
+  },
+  {
+    "id": "0r",
+    "endonym": "町田",
+    "exonym": "Machida",
+    "distance": "30.8"
+  },
+  {
+    "id": "0s",
+    "endonym": "相模大野",
+    "exonym": "Sagami-Ono",
+    "distance": "32.3"
+  },
+  {
+    "id": "0t",
+    "endonym": "小田急相模原",
+    "exonym": "Odakyu-Sagamihara",
+    "distance": "34.7"
+  },
+  {
+    "id": "0u",
+    "endonym": "相武台前",
+    "exonym": "Sobudai-mae",
+    "distance": "36.9"
+  },
+  {
+    "id": "0v",
+    "endonym": "座間",
+    "exonym": "Zama",
+    "distance": "39.2"
+  },
+  {
+    "id": "0w",
+    "endonym": "海老名",
+    "exonym": "Ebina",
+    "distance": "42.5"
+  },
+  {
+    "id": "0x",
+    "endonym": "厚木",
+    "exonym": "Atsugi",
+    "distance": "44.1"
+  },
+  {
+    "id": "0y",
+    "endonym": "本厚木",
+    "exonym": "Hon-Atsugi",
+    "distance": "45.4"
+  },
+  {
+    "id": "0z",
+    "endonym": "愛甲石田",
+    "exonym": "Aiko-Ishida",
+    "distance": "48.5"
+  },
+  {
+    "id": "10",
+    "endonym": "伊勢原",
+    "exonym": "Isehara",
+    "distance": "52.2"
+  },
+  {
+    "id": "11",
+    "endonym": "鶴巻温泉",
+    "exonym": "Tsurumaki-Onsen",
+    "distance": "55.9"
+  },
+  {
+    "id": "12",
+    "endonym": "東海大学前",
+    "exonym": "Tokaidaigaku-mae",
+    "distance": "57"
+  },
+  {
+    "id": "13",
+    "endonym": "秦野",
+    "exonym": "Hadano",
+    "distance": "61.7"
+  },
+  {
+    "id": "14",
+    "endonym": "渋沢",
+    "exonym": "Shibusawa",
+    "distance": "65.6"
+  },
+  {
+    "id": "15",
+    "endonym": "新松田",
+    "exonym": "Shin-Matsuda",
+    "distance": "71.8"
+  },
+  {
+    "id": "16",
+    "endonym": "開成",
+    "exonym": "Kaisei",
+    "distance": "74.3"
+  },
+  {
+    "id": "17",
+    "endonym": "栢山",
+    "exonym": "Kayama",
+    "distance": "76.2"
+  },
+  {
+    "id": "18",
+    "endonym": "富水",
+    "exonym": "Tomizu",
+    "distance": "77.8"
+  },
+  {
+    "id": "19",
+    "endonym": "螢田",
+    "exonym": "Hotaruda",
+    "distance": "79.2"
+  },
+  {
+    "id": "1a",
+    "endonym": "足柄",
+    "exonym": "Ashigara",
+    "distance": "80.8"
+  },
+  {
+    "id": "1b",
+    "endonym": "小田原",
+    "exonym": "Odawara",
+    "distance": "82.5"
+  }
+]

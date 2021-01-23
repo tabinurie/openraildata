@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01",
+    "endonym": "堀ノ内",
+    "exonym": "Horinouchi",
+    "distance": "0"
+  },
+  {
+    "id": "02",
+    "endonym": "新大津",
+    "exonym": "Shin-ōtsu",
+    "distance": "0.8"
+  },
+  {
+    "id": "03",
+    "endonym": "北久里浜",
+    "exonym": "Kitakurihama",
+    "distance": "1.7"
+  },
+  {
+    "id": "04",
+    "endonym": "京急久里浜",
+    "exonym": "Keikyū Kurihama",
+    "distance": "4.5"
+  },
+  {
+    "id": "05",
+    "endonym": "YRP野比",
+    "exonym": "YRP Nobi",
+    "distance": "7.2"
+  },
+  {
+    "id": "06",
+    "endonym": "京急長沢",
+    "exonym": "Keikyū Nagasawa",
+    "distance": "8.5"
+  },
+  {
+    "id": "07",
+    "endonym": "津久井浜",
+    "exonym": "Tsukuihama",
+    "distance": "9.7"
+  },
+  {
+    "id": "08",
+    "endonym": "三浦海岸",
+    "exonym": "Miurakaigan",
+    "distance": "11.2"
+  },
+  {
+    "id": "09",
+    "endonym": "三崎口",
+    "exonym": "Misakiguchi",
+    "distance": "13.4"
+  }
+]

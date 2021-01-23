@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01",
+    "endonym": "調布",
+    "exonym": "Chofu",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "京王多摩川",
+    "exonym": "Keio-Tamagawa",
+    "distance": "1.2"
+  },
+  {
+    "id": "03",
+    "endonym": "京王稲田堤",
+    "exonym": "Keio-Inadazutsumi",
+    "distance": "2.5"
+  },
+  {
+    "id": "04",
+    "endonym": "京王よみうりランド",
+    "exonym": "Keio-Yomiuri-Land",
+    "distance": "3.9"
+  },
+  {
+    "id": "05",
+    "endonym": "稲城",
+    "exonym": "Inagi",
+    "distance": "5.5"
+  },
+  {
+    "id": "06",
+    "endonym": "若葉台",
+    "exonym": "Wakabadai",
+    "distance": "8.8"
+  },
+  {
+    "id": "07",
+    "endonym": "京王永山",
+    "exonym": "Keiō-Nagayama",
+    "distance": "11.4"
+  },
+  {
+    "id": "08",
+    "endonym": "京王多摩センター",
+    "exonym": "Keio-Tama-Center",
+    "distance": "13.7"
+  },
+  {
+    "id": "09",
+    "endonym": "京王堀之内",
+    "exonym": "Keio-Horinouchi",
+    "distance": "16"
+  },
+  {
+    "id": "0a",
+    "endonym": "南大沢",
+    "exonym": "Minami-Osawa",
+    "distance": "18.2"
+  },
+  {
+    "id": "0b",
+    "endonym": "多摩境",
+    "exonym": "Tamasakai",
+    "distance": "20.1"
+  },
+  {
+    "id": "0c",
+    "endonym": "橋本",
+    "exonym": "Hashimoto",
+    "distance": "22.6"
+  }
+]

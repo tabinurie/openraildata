@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "endonym": "多摩川",
+    "exonym": "Tamagawa",
+    "distance": "0"
+  },
+  {
+    "id": "02",
+    "endonym": "沼部",
+    "exonym": "Numabe",
+    "distance": "0.9"
+  },
+  {
+    "id": "03",
+    "endonym": "鵜の木",
+    "exonym": "Unoki",
+    "distance": "1.9"
+  },
+  {
+    "id": "04",
+    "endonym": "下丸子",
+    "exonym": "Shimo-Maruko",
+    "distance": "2.6"
+  },
+  {
+    "id": "05",
+    "endonym": "武蔵新田",
+    "exonym": "Musashi-Nitta",
+    "distance": "3.3"
+  },
+  {
+    "id": "06",
+    "endonym": "矢口渡",
+    "exonym": "Yaguchinowatashi",
+    "distance": "4.2"
+  },
+  {
+    "id": "07",
+    "endonym": "蒲田",
+    "exonym": "Kamata",
+    "distance": "5.6"
+  }
+]

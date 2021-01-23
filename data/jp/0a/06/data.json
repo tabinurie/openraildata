@@ -1,0 +1,104 @@
+[
+  {
+    "id": "01",
+    "endonym": "渋谷",
+    "exonym": "Shibuya",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "神泉",
+    "exonym": "Shinsen",
+    "distance": "0.5"
+  },
+  {
+    "id": "03",
+    "endonym": "駒場東大前",
+    "exonym": "Komaba-Todaimae",
+    "distance": "1.4"
+  },
+  {
+    "id": "04",
+    "endonym": "池ノ上",
+    "exonym": "Ikenoue",
+    "distance": "2.4"
+  },
+  {
+    "id": "05",
+    "endonym": "下北沢",
+    "exonym": "Shimo-Kitazawa",
+    "distance": "3"
+  },
+  {
+    "id": "06",
+    "endonym": "新代田",
+    "exonym": "Shindaita",
+    "distance": "3.5"
+  },
+  {
+    "id": "07",
+    "endonym": "東松原",
+    "exonym": "Higashi-Matsubara",
+    "distance": "4"
+  },
+  {
+    "id": "08",
+    "endonym": "明大前",
+    "exonym": "Meidaimae",
+    "distance": "4.9"
+  },
+  {
+    "id": "09",
+    "endonym": "永福町",
+    "exonym": "Eifukucho",
+    "distance": "6"
+  },
+  {
+    "id": "0a",
+    "endonym": "西永福",
+    "exonym": "Nishi-Eifuku",
+    "distance": "6.7"
+  },
+  {
+    "id": "0b",
+    "endonym": "浜田山",
+    "exonym": "Hamadayama",
+    "distance": "7.5"
+  },
+  {
+    "id": "0c",
+    "endonym": "高井戸",
+    "exonym": "Takaido",
+    "distance": "8.7"
+  },
+  {
+    "id": "0d",
+    "endonym": "富士見ヶ丘",
+    "exonym": "Fujimigaoka",
+    "distance": "9.4"
+  },
+  {
+    "id": "0e",
+    "endonym": "久我山",
+    "exonym": "Kugayama",
+    "distance": "10.2"
+  },
+  {
+    "id": "0f",
+    "endonym": "三鷹台",
+    "exonym": "Mitakadai",
+    "distance": "11.2"
+  },
+  {
+    "id": "0g",
+    "endonym": "井の頭公園",
+    "exonym": "Inokashira-koen",
+    "distance": "12.1"
+  },
+  {
+    "id": "0h",
+    "endonym": "吉祥寺",
+    "exonym": "Kichijoji",
+    "distance": "12.7"
+  }
+]

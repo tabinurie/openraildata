@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "endonym": "二俣川",
+    "exonym": "Futamatagawa",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "南万騎が原",
+    "exonym": "Minami-Makigahara",
+    "distance": "1.6"
+  },
+  {
+    "id": "03",
+    "endonym": "緑園都市",
+    "exonym": "Ryokuentoshi",
+    "distance": "3.1"
+  },
+  {
+    "id": "04",
+    "endonym": "弥生台",
+    "exonym": "Yayoidai",
+    "distance": "4.9"
+  },
+  {
+    "id": "05",
+    "endonym": "いずみ野",
+    "exonym": "Izumino",
+    "distance": "6"
+  },
+  {
+    "id": "06",
+    "endonym": "いずみ中央",
+    "exonym": "Izumi-chuo",
+    "distance": "8.2"
+  },
+  {
+    "id": "07",
+    "endonym": "ゆめが丘",
+    "exonym": "Yumegaoka",
+    "distance": "9.3"
+  },
+  {
+    "id": "08",
+    "endonym": "湘南台",
+    "exonym": "Shōnandai",
+    "distance": "11.3"
+  }
+]

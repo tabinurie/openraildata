@@ -1,0 +1,164 @@
+[
+  {
+    "id": "01",
+    "endonym": "渋谷",
+    "exonym": "Shibuya",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "池尻大橋",
+    "exonym": "Ikejiri-Ohashi",
+    "distance": "1.9"
+  },
+  {
+    "id": "03",
+    "endonym": "三軒茶屋",
+    "exonym": "Sangen-Jaya",
+    "distance": "3.3"
+  },
+  {
+    "id": "04",
+    "endonym": "駒沢大学",
+    "exonym": "Komazawa-Daigaku",
+    "distance": "4.8"
+  },
+  {
+    "id": "05",
+    "endonym": "桜新町",
+    "exonym": "Sakura-shimmachi",
+    "distance": "6.3"
+  },
+  {
+    "id": "06",
+    "endonym": "用賀",
+    "exonym": "Yōga",
+    "distance": "7.6"
+  },
+  {
+    "id": "07",
+    "endonym": "二子玉川",
+    "exonym": "Futako-Tamagawa",
+    "distance": "9.4"
+  },
+  {
+    "id": "08",
+    "endonym": "二子新地",
+    "exonym": "Futako-Shinchi",
+    "distance": "10.1"
+  },
+  {
+    "id": "09",
+    "endonym": "高津",
+    "exonym": "Takatsu",
+    "distance": "10.7"
+  },
+  {
+    "id": "0a",
+    "endonym": "溝の口",
+    "exonym": "Mizonokuchi",
+    "distance": "11.4"
+  },
+  {
+    "id": "0b",
+    "endonym": "梶が谷",
+    "exonym": "Kajigaya",
+    "distance": "12.2"
+  },
+  {
+    "id": "0c",
+    "endonym": "宮崎台",
+    "exonym": "Miyazakidai",
+    "distance": "13.7"
+  },
+  {
+    "id": "0d",
+    "endonym": "宮前平",
+    "exonym": "Miyamaedaira",
+    "distance": "14.7"
+  },
+  {
+    "id": "0e",
+    "endonym": "鷺沼",
+    "exonym": "Saginuma",
+    "distance": "15.7"
+  },
+  {
+    "id": "0f",
+    "endonym": "たまプラーザ",
+    "exonym": "Tama-Plaza",
+    "distance": "17.1"
+  },
+  {
+    "id": "0g",
+    "endonym": "あざみ野",
+    "exonym": "Azamino",
+    "distance": "18.2"
+  },
+  {
+    "id": "0h",
+    "endonym": "江田",
+    "exonym": "Eda",
+    "distance": "19.3"
+  },
+  {
+    "id": "0i",
+    "endonym": "市が尾",
+    "exonym": "Ichigao",
+    "distance": "20.6"
+  },
+  {
+    "id": "0j",
+    "endonym": "藤が丘",
+    "exonym": "Fujigaoka",
+    "distance": "22.1"
+  },
+  {
+    "id": "0k",
+    "endonym": "青葉台",
+    "exonym": "Aobadai",
+    "distance": "23.1"
+  },
+  {
+    "id": "0l",
+    "endonym": "田奈",
+    "exonym": "Tana",
+    "distance": "24.5"
+  },
+  {
+    "id": "0m",
+    "endonym": "長津田",
+    "exonym": "Nagatsuta",
+    "distance": "25.6"
+  },
+  {
+    "id": "0n",
+    "endonym": "つくし野",
+    "exonym": "Tsukushino",
+    "distance": "26.8"
+  },
+  {
+    "id": "0o",
+    "endonym": "すずかけ台",
+    "exonym": "Suzukakedai",
+    "distance": "28"
+  },
+  {
+    "id": "0p",
+    "endonym": "南町田グランベリーパーク",
+    "exonym": "Minami-machida Grandberry Park",
+    "distance": "29.2"
+  },
+  {
+    "id": "0q",
+    "endonym": "つきみ野",
+    "exonym": "Tsukimino",
+    "distance": "30.3"
+  },
+  {
+    "id": "0r",
+    "endonym": "中央林間",
+    "exonym": "Chuo-Rinkan",
+    "distance": "31.5"
+  }
+]

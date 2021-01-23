@@ -1,0 +1,92 @@
+[
+  {
+    "id": "01",
+    "endonym": "五反田",
+    "exonym": "Gotanda",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "大崎広小路",
+    "exonym": "Osaki-Hirokoji",
+    "distance": "0.3"
+  },
+  {
+    "id": "03",
+    "endonym": "戸越銀座",
+    "exonym": "Togoshi-ginza",
+    "distance": "1.4"
+  },
+  {
+    "id": "04",
+    "endonym": "荏原中延",
+    "exonym": "Ebara-Nakanobu",
+    "distance": "2.2"
+  },
+  {
+    "id": "05",
+    "endonym": "旗の台",
+    "exonym": "Hatanodai",
+    "distance": "3.1"
+  },
+  {
+    "id": "06",
+    "endonym": "長原",
+    "exonym": "Nagahara",
+    "distance": "3.7"
+  },
+  {
+    "id": "07",
+    "endonym": "洗足池",
+    "exonym": "Senzoku-Ike",
+    "distance": "4.3"
+  },
+  {
+    "id": "08",
+    "endonym": "石川台",
+    "exonym": "Ishikawadai",
+    "distance": "4.9"
+  },
+  {
+    "id": "09",
+    "endonym": "雪が谷大塚",
+    "exonym": "Yukigaya-Otsuka",
+    "distance": "5.6"
+  },
+  {
+    "id": "0a",
+    "endonym": "御嶽山",
+    "exonym": "Ontakesan",
+    "distance": "6.4"
+  },
+  {
+    "id": "0b",
+    "endonym": "久が原",
+    "exonym": "Kugahara",
+    "distance": "7.1"
+  },
+  {
+    "id": "0c",
+    "endonym": "千鳥町",
+    "exonym": "Chidoricho",
+    "distance": "8"
+  },
+  {
+    "id": "0d",
+    "endonym": "池上",
+    "exonym": "Ikegami",
+    "distance": "9.1"
+  },
+  {
+    "id": "0e",
+    "endonym": "蓮沼",
+    "exonym": "Hasunuma",
+    "distance": "10.2"
+  },
+  {
+    "id": "0f",
+    "endonym": "蒲田",
+    "exonym": "Kamata",
+    "distance": "10.8"
+  }
+]

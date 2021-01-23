@@ -1,0 +1,52 @@
+[
+  {
+    "id": "01",
+    "endonym": "3号線銀座線",
+    "exonym": "Ginza Line"
+  },
+  {
+    "id": "02",
+    "endonym": "4号線丸ノ内線",
+    "exonym": "Marunouchi Line"
+  },
+  {
+    "id": "03",
+    "endonym": "4号線丸ノ内線(方南町支線)",
+    "exonym": "Marunouti Line Branch Line"
+  },
+  {
+    "id": "04",
+    "endonym": "2号線日比谷線",
+    "exonym": "HIbiya Line"
+  },
+  {
+    "id": "05",
+    "endonym": "5号線東西線",
+    "exonym": "Tozai Line"
+  },
+  {
+    "id": "06",
+    "endonym": "9号線千代田線",
+    "exonym": "Chiyoda Line"
+  },
+  {
+    "id": "07",
+    "endonym": "8号線有楽町線",
+    "exonym": "Yurakucho Line"
+  },
+  {
+    "id": "08",
+    "endonym": "11号線半蔵門線",
+    "exonym": "Hanzomon Line"
+  },
+  {
+    "id": "09",
+    "endonym": "7号線南北線",
+    "exonym": "Namboku Line"
+  },
+  {
+    "id": "0a",
+    "endonym": "13号線副都心線",
+    "exonym": "Fukutoshin Line"
+  }
+]

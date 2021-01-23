@@ -1,0 +1,116 @@
+[
+  {
+    "id": "01",
+    "endonym": "目黒",
+    "exonym": "Meguro",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "白金台",
+    "exonym": "Shirokanedai",
+    "distance": "1.3"
+  },
+  {
+    "id": "03",
+    "endonym": "白金高輪",
+    "exonym": "Shirokane-takanawa",
+    "distance": "2.3"
+  },
+  {
+    "id": "04",
+    "endonym": "麻布十番",
+    "exonym": "Azabu-juban",
+    "distance": "3.6"
+  },
+  {
+    "id": "05",
+    "endonym": "六本木一丁目",
+    "exonym": "Roppongi-itchome",
+    "distance": "4.8"
+  },
+  {
+    "id": "06",
+    "endonym": "溜池山王",
+    "exonym": "Tameike-sanno",
+    "distance": "5.7"
+  },
+  {
+    "id": "07",
+    "endonym": "永田町",
+    "exonym": "Nagatacho",
+    "distance": "6.6"
+  },
+  {
+    "id": "08",
+    "endonym": "四ツ谷",
+    "exonym": "Yotsuya",
+    "distance": "7.9"
+  },
+  {
+    "id": "09",
+    "endonym": "市ケ谷",
+    "exonym": "Ichigaya",
+    "distance": "8.9"
+  },
+  {
+    "id": "0a",
+    "endonym": "飯田橋",
+    "exonym": "Iidabashi",
+    "distance": "10"
+  },
+  {
+    "id": "0b",
+    "endonym": "後楽園",
+    "exonym": "Korakuen",
+    "distance": "11.4"
+  },
+  {
+    "id": "0c",
+    "endonym": "東大前",
+    "exonym": "Todaimae",
+    "distance": "12.7"
+  },
+  {
+    "id": "0d",
+    "endonym": "本駒込",
+    "exonym": "Hon-komagome",
+    "distance": "13.6"
+  },
+  {
+    "id": "0e",
+    "endonym": "駒込",
+    "exonym": "Komagome",
+    "distance": "15"
+  },
+  {
+    "id": "0f",
+    "endonym": "西ケ原",
+    "exonym": "Nishigahara",
+    "distance": "16.4"
+  },
+  {
+    "id": "0g",
+    "endonym": "王子",
+    "exonym": "Oji",
+    "distance": "17.4"
+  },
+  {
+    "id": "0h",
+    "endonym": "王子神谷",
+    "exonym": "Oji-kamiya",
+    "distance": "18.6"
+  },
+  {
+    "id": "0i",
+    "endonym": "志茂",
+    "exonym": "Shimo",
+    "distance": "20.2"
+  },
+  {
+    "id": "0j",
+    "endonym": "赤羽岩淵",
+    "exonym": "Akabane-iwabuchi",
+    "distance": "21.3"
+  }
+]

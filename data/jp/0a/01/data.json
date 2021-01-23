@@ -1,0 +1,194 @@
+[
+  {
+    "id": "01",
+    "endonym": "新宿",
+    "exonym": "Shinjuku",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "笹塚",
+    "exonym": "Sasazuka",
+    "distance": "3.6"
+  },
+  {
+    "id": "03",
+    "endonym": "代田橋",
+    "exonym": "Daitabashi",
+    "distance": "4.4"
+  },
+  {
+    "id": "04",
+    "endonym": "明大前",
+    "exonym": "Meidaimae",
+    "distance": "5.2"
+  },
+  {
+    "id": "05",
+    "endonym": "下高井戸",
+    "exonym": "Shimo-Takaido",
+    "distance": "6.1"
+  },
+  {
+    "id": "06",
+    "endonym": "桜上水",
+    "exonym": "Sakurajōsui",
+    "distance": "7"
+  },
+  {
+    "id": "07",
+    "endonym": "上北沢",
+    "exonym": "Kami-Kitazawa",
+    "distance": "7.8"
+  },
+  {
+    "id": "08",
+    "endonym": "八幡山",
+    "exonym": "Hachimanyama",
+    "distance": "8.4"
+  },
+  {
+    "id": "09",
+    "endonym": "芦花公園",
+    "exonym": "Roka-kōen",
+    "distance": "9.1"
+  },
+  {
+    "id": "0a",
+    "endonym": "千歳烏山",
+    "exonym": "Chitose-Karasuyama",
+    "distance": "9.9"
+  },
+  {
+    "id": "0b",
+    "endonym": "仙川",
+    "exonym": "Sengawa",
+    "distance": "11.5"
+  },
+  {
+    "id": "0c",
+    "endonym": "つつじヶ丘",
+    "exonym": "Tsutsujigaoka",
+    "distance": "12.5"
+  },
+  {
+    "id": "0d",
+    "endonym": "柴崎",
+    "exonym": "Shibasaki",
+    "distance": "13.3"
+  },
+  {
+    "id": "0e",
+    "endonym": "国領",
+    "exonym": "Kokuryo",
+    "distance": "14.2"
+  },
+  {
+    "id": "0f",
+    "endonym": "布田",
+    "exonym": "Fuda",
+    "distance": "14.9"
+  },
+  {
+    "id": "0g",
+    "endonym": "調布",
+    "exonym": "Chōfu",
+    "distance": "15.5"
+  },
+  {
+    "id": "0h",
+    "endonym": "西調布",
+    "exonym": "Nishi-Chofu",
+    "distance": "17"
+  },
+  {
+    "id": "0i",
+    "endonym": "飛田給",
+    "exonym": "Tobitakyu",
+    "distance": "17.7"
+  },
+  {
+    "id": "0j",
+    "endonym": "武蔵野台",
+    "exonym": "Musashinodai",
+    "distance": "18.8"
+  },
+  {
+    "id": "0k",
+    "endonym": "多磨霊園",
+    "exonym": "Tama-Reien",
+    "distance": "19.6"
+  },
+  {
+    "id": "0l",
+    "endonym": "東府中",
+    "exonym": "Higashi-Fuchu",
+    "distance": "20.4"
+  },
+  {
+    "id": "0m",
+    "endonym": "府中",
+    "exonym": "Fuchu",
+    "distance": "21.9"
+  },
+  {
+    "id": "0n",
+    "endonym": "分倍河原",
+    "exonym": "Bubaigawara",
+    "distance": "23.1"
+  },
+  {
+    "id": "0o",
+    "endonym": "中河原",
+    "exonym": "Nakagawara",
+    "distance": "24.7"
+  },
+  {
+    "id": "0p",
+    "endonym": "聖蹟桜ヶ丘",
+    "exonym": "Seiseki-Sakuragaoka",
+    "distance": "26.3"
+  },
+  {
+    "id": "0q",
+    "endonym": "百草園",
+    "exonym": "Mogusaen",
+    "distance": "28"
+  },
+  {
+    "id": "0r",
+    "endonym": "高幡不動",
+    "exonym": "Takahatafudō",
+    "distance": "29.7"
+  },
+  {
+    "id": "0s",
+    "endonym": "南平",
+    "exonym": "Minamidaira",
+    "distance": "32.1"
+  },
+  {
+    "id": "0t",
+    "endonym": "平山城址公園",
+    "exonym": "Hirayamajōshi-kōen",
+    "distance": "33.4"
+  },
+  {
+    "id": "0u",
+    "endonym": "長沼",
+    "exonym": "Naganuma",
+    "distance": "34.9"
+  },
+  {
+    "id": "0v",
+    "endonym": "北野",
+    "exonym": "Kitano",
+    "distance": "36.1"
+  },
+  {
+    "id": "0w",
+    "endonym": "京王八王子",
+    "exonym": "Keiō-Hachiōji",
+    "distance": "37.9"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "endonym": "京急川崎",
+    "exonym": "Keikyu Kawasaki",
+    "distance": "0"
+  },
+  {
+    "id": "02",
+    "endonym": "港町",
+    "exonym": "Minatochō",
+    "distance": "1.2"
+  },
+  {
+    "id": "03",
+    "endonym": "鈴木町",
+    "exonym": "Suzukichō",
+    "distance": "2"
+  },
+  {
+    "id": "04",
+    "endonym": "川崎大師",
+    "exonym": "Kawasaki-Daishi",
+    "distance": "2.5"
+  },
+  {
+    "id": "05",
+    "endonym": "東門前",
+    "exonym": "Higashi-Monzen",
+    "distance": "3.2"
+  },
+  {
+    "id": "06",
+    "endonym": "大師橋",
+    "exonym": "Daishibashi",
+    "distance": "3.8"
+  },
+  {
+    "id": "07",
+    "endonym": "小島新田",
+    "exonym": "Kojimashinden",
+    "distance": "4.5"
+  }
+]

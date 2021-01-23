@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "endonym": "北野",
+    "exonym": "Kitano",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "京王片倉",
+    "exonym": "Keio-Katakura",
+    "distance": "1.7"
+  },
+  {
+    "id": "03",
+    "endonym": "山田",
+    "exonym": "Yamada",
+    "distance": "3.2"
+  },
+  {
+    "id": "04",
+    "endonym": "めじろ台",
+    "exonym": "Mejirodai",
+    "distance": "4.3"
+  },
+  {
+    "id": "05",
+    "endonym": "狭間",
+    "exonym": "Hazama",
+    "distance": "5.8"
+  },
+  {
+    "id": "06",
+    "endonym": "高尾",
+    "exonym": "Takao",
+    "distance": "6.9"
+  },
+  {
+    "id": "07",
+    "endonym": "高尾山口",
+    "exonym": "Takaosanguchi",
+    "distance": "8.6"
+  }
+]

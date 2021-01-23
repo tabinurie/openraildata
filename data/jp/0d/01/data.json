@@ -1,0 +1,302 @@
+[
+  {
+    "id": "01",
+    "endonym": "泉岳寺",
+    "exonym": "Sengakuji",
+    "distance": "0"
+  },
+  {
+    "id": "02",
+    "endonym": "品川",
+    "exonym": "Shinagawa",
+    "distance": "1.2"
+  },
+  {
+    "id": "03",
+    "endonym": "北品川",
+    "exonym": "Kitashinagawa",
+    "distance": "1.9"
+  },
+  {
+    "id": "04",
+    "endonym": "新馬場",
+    "exonym": "Shimbamba",
+    "distance": "2.6"
+  },
+  {
+    "id": "05",
+    "endonym": "青物横丁",
+    "exonym": "Aomono-yokochō",
+    "distance": "3.4"
+  },
+  {
+    "id": "06",
+    "endonym": "鮫洲",
+    "exonym": "Samezu",
+    "distance": "3.9"
+  },
+  {
+    "id": "07",
+    "endonym": "立会川",
+    "exonym": "Tachiaigawa",
+    "distance": "4.7"
+  },
+  {
+    "id": "08",
+    "endonym": "大森海岸",
+    "exonym": "Ōmorikaigan",
+    "distance": "6"
+  },
+  {
+    "id": "09",
+    "endonym": "平和島",
+    "exonym": "Heiwajima",
+    "distance": "6.9"
+  },
+  {
+    "id": "0a",
+    "endonym": "大森町",
+    "exonym": "Ōmorimachi",
+    "distance": "7.7"
+  },
+  {
+    "id": "0b",
+    "endonym": "梅屋敷",
+    "exonym": "Umeyashiki",
+    "distance": "8.4"
+  },
+  {
+    "id": "0c",
+    "endonym": "京急蒲田",
+    "exonym": "Keikyū Kamata",
+    "distance": "9.2"
+  },
+  {
+    "id": "0d",
+    "endonym": "雑色",
+    "exonym": "Zōshiki",
+    "distance": "10.6"
+  },
+  {
+    "id": "0e",
+    "endonym": "六郷土手",
+    "exonym": "Rokugōdote",
+    "distance": "11.8"
+  },
+  {
+    "id": "0f",
+    "endonym": "京急川崎",
+    "exonym": "Keikyū Kawasaki",
+    "distance": "13"
+  },
+  {
+    "id": "0g",
+    "endonym": "八丁畷",
+    "exonym": "Hatchō-nawate",
+    "distance": "14.3"
+  },
+  {
+    "id": "0h",
+    "endonym": "鶴見市場",
+    "exonym": "Tsurumi-ichiba",
+    "distance": "15"
+  },
+  {
+    "id": "0i",
+    "endonym": "京急鶴見",
+    "exonym": "Keikyū Tsurumi",
+    "distance": "16.5"
+  },
+  {
+    "id": "0j",
+    "endonym": "花月総持寺",
+    "exonym": "Kagetsu-sōjiji",
+    "distance": "17.3"
+  },
+  {
+    "id": "0k",
+    "endonym": "生麦",
+    "exonym": "Namamugi",
+    "distance": "18.1"
+  },
+  {
+    "id": "0l",
+    "endonym": "京急新子安",
+    "exonym": "Keikyū Shinkoyasu",
+    "distance": "19.5"
+  },
+  {
+    "id": "0m",
+    "endonym": "子安",
+    "exonym": "Koyasu",
+    "distance": "20.5"
+  },
+  {
+    "id": "0n",
+    "endonym": "神奈川新町",
+    "exonym": "Kanagawa-shimmachi",
+    "distance": "21.2"
+  },
+  {
+    "id": "0o",
+    "endonym": "京急東神奈川",
+    "exonym": "Keikyū Higashi-kanagawa",
+    "distance": "21.7"
+  },
+  {
+    "id": "0p",
+    "endonym": "神奈川",
+    "exonym": "Kanagawa",
+    "distance": "22.7"
+  },
+  {
+    "id": "0q",
+    "endonym": "横浜",
+    "exonym": "Yokohama",
+    "distance": "23.4"
+  },
+  {
+    "id": "0r",
+    "endonym": "戸部",
+    "exonym": "Tobe",
+    "distance": "24.6"
+  },
+  {
+    "id": "0s",
+    "endonym": "日ノ出町",
+    "exonym": "Hinodechō",
+    "distance": "26"
+  },
+  {
+    "id": "0t",
+    "endonym": "黄金町",
+    "exonym": "Koganechō",
+    "distance": "26.8"
+  },
+  {
+    "id": "0u",
+    "endonym": "南太田",
+    "exonym": "Minamiōta",
+    "distance": "27.7"
+  },
+  {
+    "id": "0v",
+    "endonym": "井土ヶ谷",
+    "exonym": "Idogaya",
+    "distance": "28.9"
+  },
+  {
+    "id": "0w",
+    "endonym": "弘明寺",
+    "exonym": "Gumyōji",
+    "distance": "30.3"
+  },
+  {
+    "id": "0x",
+    "endonym": "上大岡",
+    "exonym": "Kamiōoka",
+    "distance": "32"
+  },
+  {
+    "id": "0y",
+    "endonym": "屏風浦",
+    "exonym": "Byōbugaura",
+    "distance": "34.2"
+  },
+  {
+    "id": "0z",
+    "endonym": "杉田",
+    "exonym": "Sugita",
+    "distance": "35.5"
+  },
+  {
+    "id": "10",
+    "endonym": "京急富岡",
+    "exonym": "Keikyū Tomioka",
+    "distance": "37.9"
+  },
+  {
+    "id": "11",
+    "endonym": "能見台",
+    "exonym": "Nōkendai",
+    "distance": "38.6"
+  },
+  {
+    "id": "12",
+    "endonym": "金沢文庫",
+    "exonym": "Kanazawa-bunko",
+    "distance": "40.7"
+  },
+  {
+    "id": "13",
+    "endonym": "金沢八景",
+    "exonym": "Kanazawa-hakkei",
+    "distance": "42.1"
+  },
+  {
+    "id": "14",
+    "endonym": "追浜",
+    "exonym": "Oppama",
+    "distance": "44"
+  },
+  {
+    "id": "15",
+    "endonym": "京急田浦",
+    "exonym": "Keikyū Taura",
+    "distance": "45.7"
+  },
+  {
+    "id": "16",
+    "endonym": "安針塚",
+    "exonym": "Anjinzuka",
+    "distance": "48.3"
+  },
+  {
+    "id": "17",
+    "endonym": "逸見",
+    "exonym": "Hemi",
+    "distance": "49.3"
+  },
+  {
+    "id": "18",
+    "endonym": "汐入",
+    "exonym": "Shioiri",
+    "distance": "50.4"
+  },
+  {
+    "id": "19",
+    "endonym": "横須賀中央",
+    "exonym": "Yokosuka-chūō",
+    "distance": "51.1"
+  },
+  {
+    "id": "1a",
+    "endonym": "県立大学",
+    "exonym": "Kenritsudaigaku",
+    "distance": "52.3"
+  },
+  {
+    "id": "1b",
+    "endonym": "堀ノ内",
+    "exonym": "Horinouchi",
+    "distance": "53.5"
+  },
+  {
+    "id": "1c",
+    "endonym": "京急大津",
+    "exonym": "Keikyū Ōtsu",
+    "distance": "54.3"
+  },
+  {
+    "id": "1d",
+    "endonym": "馬堀海岸",
+    "exonym": "Maborikaigan",
+    "distance": "55.4"
+  },
+  {
+    "id": "1e",
+    "endonym": "浦賀",
+    "exonym": "Uraga",
+    "distance": "56.7"
+  }
+]

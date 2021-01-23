@@ -38,5 +38,45 @@
     "id": "08",
     "endonym": "西武鉄道",
     "exonym": "Seibu Railway"
+  },
+  {
+    "id": "09",
+    "endonym": "京成電鉄",
+    "exonym": "Keisei Electric Railway"
+  },
+  {
+    "id": "0a",
+    "endonym": "京王電鉄",
+    "exonym": "Keio Corporation"
+  },
+  {
+    "id": "0b",
+    "endonym": "小田急電鉄",
+    "exonym": "Odakyu Electric Railway"
+  },
+  {
+    "id": "0c",
+    "endonym": "東急電鉄",
+    "exonym": "Tokyu Railways Company"
+  },
+  {
+    "id": "0d",
+    "endonym": "京浜急行電鉄",
+    "exonym": "Keikyu Corporation"
+  },
+  {
+    "id": "0e",
+    "endonym": "相模鉄道",
+    "exonym": "Sagami Railway"
+  },
+  {
+    "id": "0f",
+    "endonym": "東京地下鉄",
+    "exonym": "Tokyo Metro"
+  },
+  {
+    "id": "0g",
+    "endonym": "名古屋鉄道",
+    "exonym": "Nagoya Railroad"
   }
 ]

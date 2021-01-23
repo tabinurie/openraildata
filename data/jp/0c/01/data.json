@@ -1,0 +1,128 @@
+[
+  {
+    "id": "01",
+    "endonym": "渋谷",
+    "exonym": "Shibuya",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "代官山",
+    "exonym": "Daikan-yama",
+    "distance": "1.5"
+  },
+  {
+    "id": "03",
+    "endonym": "中目黒",
+    "exonym": "Naka-Meguro",
+    "distance": "2.2"
+  },
+  {
+    "id": "04",
+    "endonym": "祐天寺",
+    "exonym": "Yutenji",
+    "distance": "3.2"
+  },
+  {
+    "id": "05",
+    "endonym": "学芸大学",
+    "exonym": "Gakugeidaigaku",
+    "distance": "4.2"
+  },
+  {
+    "id": "06",
+    "endonym": "都立大学",
+    "exonym": "Toritsudaigaku",
+    "distance": "5.6"
+  },
+  {
+    "id": "07",
+    "endonym": "自由が丘",
+    "exonym": "Jiyugaoka",
+    "distance": "7"
+  },
+  {
+    "id": "08",
+    "endonym": "田園調布",
+    "exonym": "Den-en-chofu",
+    "distance": "8.2"
+  },
+  {
+    "id": "09",
+    "endonym": "多摩川",
+    "exonym": "Tamagawa",
+    "distance": "9"
+  },
+  {
+    "id": "0a",
+    "endonym": "新丸子",
+    "exonym": "Shin-Maruko",
+    "distance": "10.3"
+  },
+  {
+    "id": "0b",
+    "endonym": "武蔵小杉",
+    "exonym": "Musashi-Kosugi",
+    "distance": "10.8"
+  },
+  {
+    "id": "0c",
+    "endonym": "元住吉",
+    "exonym": "Motosumiyoshi",
+    "distance": "12.1"
+  },
+  {
+    "id": "0d",
+    "endonym": "日吉",
+    "exonym": "Hiyoshi",
+    "distance": "13.6"
+  },
+  {
+    "id": "0e",
+    "endonym": "綱島",
+    "exonym": "Tsunashima",
+    "distance": "15.8"
+  },
+  {
+    "id": "0f",
+    "endonym": "大倉山",
+    "exonym": "Okurayama",
+    "distance": "17.5"
+  },
+  {
+    "id": "0g",
+    "endonym": "菊名",
+    "exonym": "Kikuna",
+    "distance": "18.8"
+  },
+  {
+    "id": "0h",
+    "endonym": "妙蓮寺",
+    "exonym": "Myorenji",
+    "distance": "20.2"
+  },
+  {
+    "id": "0i",
+    "endonym": "白楽",
+    "exonym": "Hakuraku",
+    "distance": "21.4"
+  },
+  {
+    "id": "0j",
+    "endonym": "東白楽",
+    "exonym": "Higashi-Hakuraku",
+    "distance": "22.1"
+  },
+  {
+    "id": "0k",
+    "endonym": "反町",
+    "exonym": "Tammachi",
+    "distance": "23.2"
+  },
+  {
+    "id": "0l",
+    "endonym": "横浜",
+    "exonym": "Yokohama",
+    "distance": "24.2"
+  }
+]

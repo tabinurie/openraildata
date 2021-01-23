@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "endonym": "京成高砂",
+    "exonym": "Keisei-Takasago",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "東松戸",
+    "exonym": "Higashi-Matsudo",
+    "distance": "7.5"
+  },
+  {
+    "id": "03",
+    "endonym": "新鎌ヶ谷",
+    "exonym": "Shin-Kamagaya",
+    "distance": "12.7"
+  },
+  {
+    "id": "04",
+    "endonym": "千葉ニュータウン中央",
+    "exonym": "Chiba New Town Chuo",
+    "distance": "23.8"
+  },
+  {
+    "id": "05",
+    "endonym": "印旛日本医大",
+    "exonym": "Imba Nihon-idai",
+    "distance": "32.3"
+  },
+  {
+    "id": "06",
+    "endonym": "成田湯川",
+    "exonym": "Narita Yukawa",
+    "distance": "40.7"
+  },
+  {
+    "id": "07",
+    "endonym": "空港第2ビル",
+    "exonym": "Narita Airport Terminal 2·3",
+    "distance": "50.4"
+  },
+  {
+    "id": "08",
+    "endonym": "成田空港",
+    "exonym": "Narita Airport Terminal 1",
+    "distance": "51.4"
+  }
+]

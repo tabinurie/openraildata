@@ -1,0 +1,140 @@
+[
+  {
+    "id": "01",
+    "endonym": "中野",
+    "exonym": "Nakano",
+    "distance": "0.0"
+  },
+  {
+    "id": "02",
+    "endonym": "落合",
+    "exonym": "Ochiai",
+    "distance": "2"
+  },
+  {
+    "id": "03",
+    "endonym": "高田馬場",
+    "exonym": "Takadanobaba",
+    "distance": "1.9"
+  },
+  {
+    "id": "04",
+    "endonym": "早稲田",
+    "exonym": "Waseda",
+    "distance": "1.7"
+  },
+  {
+    "id": "05",
+    "endonym": "神楽坂",
+    "exonym": "Kagurazaka",
+    "distance": "1.2"
+  },
+  {
+    "id": "06",
+    "endonym": "飯田橋",
+    "exonym": "Iidabashi",
+    "distance": "1.2"
+  },
+  {
+    "id": "07",
+    "endonym": "九段下",
+    "exonym": "Kudanshita",
+    "distance": "0.7"
+  },
+  {
+    "id": "08",
+    "endonym": "竹橋",
+    "exonym": "Takebashi",
+    "distance": "1"
+  },
+  {
+    "id": "09",
+    "endonym": "大手町",
+    "exonym": "Otemachi",
+    "distance": "1"
+  },
+  {
+    "id": "0a",
+    "endonym": "日本橋",
+    "exonym": "Nihombashi",
+    "distance": "0.8"
+  },
+  {
+    "id": "0b",
+    "endonym": "茅場町",
+    "exonym": "Kayabachō",
+    "distance": "0.5"
+  },
+  {
+    "id": "0c",
+    "endonym": "門前仲町",
+    "exonym": "Monzen-Nakachō",
+    "distance": "1.8"
+  },
+  {
+    "id": "0d",
+    "endonym": "木場",
+    "exonym": "Kiba",
+    "distance": "1.1"
+  },
+  {
+    "id": "0e",
+    "endonym": "東陽町",
+    "exonym": "Toyocho",
+    "distance": "0.9"
+  },
+  {
+    "id": "0f",
+    "endonym": "南砂町",
+    "exonym": "Minami-Sunamachi",
+    "distance": "1.2"
+  },
+  {
+    "id": "0g",
+    "endonym": "西葛西",
+    "exonym": "Nishi-Kasai",
+    "distance": "2.7"
+  },
+  {
+    "id": "0h",
+    "endonym": "葛西",
+    "exonym": "Kasai",
+    "distance": "1.2"
+  },
+  {
+    "id": "0i",
+    "endonym": "浦安",
+    "exonym": "Urayasu",
+    "distance": "1.9"
+  },
+  {
+    "id": "0j",
+    "endonym": "南行徳",
+    "exonym": "Minami-Gyotoku",
+    "distance": "1.2"
+  },
+  {
+    "id": "0k",
+    "endonym": "行徳",
+    "exonym": "Gyotoku",
+    "distance": "1.5"
+  },
+  {
+    "id": "0l",
+    "endonym": "妙典",
+    "exonym": "Myoden",
+    "distance": "1.3"
+  },
+  {
+    "id": "0m",
+    "endonym": "原木中山",
+    "exonym": "Baraki-Nakayama",
+    "distance": "2.1"
+  },
+  {
+    "id": "0n",
+    "endonym": "西船橋",
+    "exonym": "Nishi-Funabashi",
+    "distance": "1.9"
+  }
+]
