@@ -1,8 +1,8 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","神木北","Shenmu North",,,,,
-"02","店塔","Dianta",,,,,
-"03","神木","Shenmu",,,,,
-"04","神木南","Shenmu South",,,,,
-"05","西沟","Xigou",,,,,
-"06","锦界","Jinjie",,,,,
-"07","大保当","Dabaodang",,,,,
+"01","神木北","Shenmu North","0","","","",""
+"02","店塔","Dianta","0","","","",""
+"03","神木","Shenmu","0","","","",""
+"04","神木南","Shenmu South","24","","","",""
+"05","西沟","Xigou","41","","","",""
+"06","锦界","Jinjie","65","","","",""
+"07","大保当","Dabaodang","78","","","",""

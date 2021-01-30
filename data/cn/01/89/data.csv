@@ -1,23 +1,23 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","益阳东","Yiyang East",,,,,
-"02","泥江口","Nijiangkou",,,,,
-"03","灰山港","Huishangang",,,,,
-"04","横市","Hengshi",,,,,
-"05","老粮仓","Laoliangcang",,,,,
-"06","青山桥","Qingshanqiao",,,,,
-"07","壶天","Hutian",,,,,
-"08","娄底东","Loudi East",,,,,
-"09","娄底","Loudi",,,,,
-"0a","娄底西","Loudi West",,,,,
-"0b","万宝镇线路所","Wanbaozhen Signal Base",,,,,
-"0c","双峰北","Shuangfeng North",,,,,
-"0d","廉桥","Lianqiao",,,,,
-"0e","邵东","Shaodong",,,,,
-"0f","邵阳东","Shaoyang East",,,,,
-"0g","邵阳","Shaoyang",,,,,
-"0h","李家冲","Lijiachong",,,,,
-"0i","塘渡口","Tangdukou",,,,,
-"0j","白仓","Baicang",,,,,
-"0k","易江桥","Yijiangqiao",,,,,
-"0l","芦洪市","Luhongshi",,,,,
-"0m","永州","Yongzhou",,,,,
+"01","益阳东","Yiyang East","0","","","",""
+"02","泥江口","Nijiangkou","17","","","",""
+"03","灰山港","Huishangang","30","","","",""
+"04","横市","Hengshi","48","","","",""
+"05","老粮仓","Laoliangcang","56","","","",""
+"06","青山桥","Qingshanqiao","77","","","",""
+"07","壶天","Hutian","91","","","",""
+"08","娄底东","Loudi East","102","","","",""
+"09","娄底","Loudi","122","","","",""
+"0a","娄底西","Loudi West","130","","","",""
+"0b","万宝镇线路所","Wanbaozhen Signal Base","138","","","",""
+"0c","双峰北","Shuangfeng North","146","","","",""
+"0d","廉桥","Lianqiao","179","","","",""
+"0e","邵东","Shaodong","190","","","",""
+"0f","邵阳东","Shaoyang East","211","","","",""
+"0g","邵阳","Shaoyang","220","","","",""
+"0h","李家冲","Lijiachong","231","","","",""
+"0i","塘渡口","Tangdukou","246","","","",""
+"0j","白仓","Baicang","261","","","",""
+"0k","易江桥","Yijiangqiao","288","","","",""
+"0l","芦洪市","Luhongshi","303","","","",""
+"0m","永州","Yongzhou","325","","","",""

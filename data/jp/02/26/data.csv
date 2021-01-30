@@ -1,6 +1,6 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","御茶ノ水","Ochanomizu",,,,,
-"02","秋葉原","Akihabara",,,,,
-"03","浅草橋","Asakusabashi",,,,,
-"04","両国","Ryogoku",,,,,
-"05","錦糸町","Kinshicho",,,,,
+"01","御茶ノ水","Ochanomizu","0","","","ja9468",""
+"02","秋葉原","Akihabara","0.9","","","ja2885244",""
+"03","浅草橋","Asakusabashi","2","","","ja12436",""
+"04","両国","Ryogoku","2.8","","","ja12435",""
+"05","錦糸町","Kinshicho","4.3","","","ja12434",""

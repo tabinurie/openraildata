@@ -1,12 +1,12 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","哈尔滨","Harbin",,,,,
-"02","新香坊北","Xinxiangfang North",,,,,
-"03","阿城北","Acheng North",,,,,
-"04","帽儿山西","Mao'ershan West",,,,,
-"05","尚志南","Shangzhi South",,,,,
-"06","一面坡北","Yimianpo North",,,,,
-"07","苇河西","Weihe West",,,,,
-"08","亚布力西","Yabuli West",,,,,
-"09","横道河子东","Hengdaohezi East",,,,,
-"0a","海林北","Hailin North",,,,,
-"0b","牡丹江","Mudanjiang",,,,,
+"01","哈尔滨","Harbin","0","","","",""
+"02","新香坊北","Xinxiangfang North","31","","","",""
+"03","阿城北","Acheng North","51","","","",""
+"04","帽儿山西","Mao'ershan West","101","","","",""
+"05","尚志南","Shangzhi South","141","","","",""
+"06","一面坡北","Yimianpo North","158","","","",""
+"07","苇河西","Weihe West","186","","","",""
+"08","亚布力西","Yabuli West","204","","","",""
+"09","横道河子东","Hengdaohezi East","249","","","",""
+"0a","海林北","Hailin North","279","","","",""
+"0b","牡丹江","Mudanjiang","300","","","",""

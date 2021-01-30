@@ -1,13 +1,13 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","延平","Yanping",,,,,
-"02","后岭所","Houling Signal Base",,,,,
-"03","延平西","Yanping West",,,,,
-"04","三明北","Sanming North",,,,,
-"05","三明","Sanming",,,,,
-"06","永安南","Yong'an South",,,,,
-"07","双洋","Shuangyang",,,,,
-"08","漳平西","Zhangping West",,,,,
-"09","雁石南","Yanshi South",,,,,
-"0a","南石所","Nanshi Signal Base",,,,,
-"0b","湖一所","Huyi Signal Base",,,,,
-"0c","龙岩","Longyan",,,,,
+"01","延平","Yanping","0","","","",""
+"02","后岭所","Houling Signal Base","8","","","",""
+"03","延平西","Yanping West","17","","","",""
+"04","三明北","Sanming North","56","","","",""
+"05","三明","Sanming","85","","","",""
+"06","永安南","Yong'an South","124","","","",""
+"07","双洋","Shuangyang","160","","","",""
+"08","漳平西","Zhangping West","195","","","",""
+"09","雁石南","Yanshi South","218","","","",""
+"0a","南石所","Nanshi Signal Base","231","","","",""
+"0b","湖一所","Huyi Signal Base","242","","","",""
+"0c","龙岩","Longyan","247","","","",""

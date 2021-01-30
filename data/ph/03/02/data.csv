@@ -1,14 +1,14 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","North Avenue","North Avenue",,,,,
-"02","Quezon Avenue","Quezon Avenue",,,,,
-"03","Kamuning","Kamuning",,,,,
-"04","Araneta Center-Cubao","Araneta Center-Cubao",,,,,
-"05","Santolan","Santolan",,,,,
-"06","Ortigas","Ortigas",,,,,
-"07","Shaw Boulevard","Shaw Boulevard",,,,,
-"08","Boni","Boni",,,,,
-"09","Guadalupe","Guadalupe",,,,,
-"0a","Buendia","Buendia",,,,,
-"0b","Ayala","Ayala",,,,,
-"0c","Magallanes","Magallanes",,,,,
-"0d","Taft Avenue","Taft Avenue",,,,,
+"01","North Avenue","North Avenue","0","","","tl223974",""
+"02","Quezon Avenue","Quezon Avenue","1.2","","","tl223974",""
+"03","Kamuning","Kamuning","2.2","","","tl223972",""
+"04","Araneta Center-Cubao","Araneta Center-Cubao","4.1","","","tl223880",""
+"05","Santolan","Santolan","5.6","","","tl223922",""
+"06","Ortigas","Ortigas","7.9","","","tl223928",""
+"07","Shaw Boulevard","Shaw Boulevard","8.7","","","tl223932",""
+"08","Boni","Boni","9.7","","","tl223933",""
+"09","Guadalupe","Guadalupe","10.5","","","tl280026",""
+"0a","Buendia","Buendia","12.5","","","tl223935",""
+"0b","Ayala","Ayala","13.45","","","tl223936",""
+"0c","Magallanes","Magallanes","14.65","","","tl160589",""
+"0d","Taft Avenue","Taft Avenue","16.7","","","tl223977",""

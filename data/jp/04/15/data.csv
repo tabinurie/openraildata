@@ -1,17 +1,17 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","米子","Yonago",,,,,
-"02","博労町","Bakuromachi",,,,,
-"03","富士見町","Fujimicho",,,,,
-"04","後藤","Goto",,,,,
-"05","三本松口","Sambommatsuguchi",,,,,
-"06","河崎口","Kawasakiguchi",,,,,
-"07","弓ヶ浜","Yumigahama",,,,,
-"08","和田浜","Wadahama",,,,,
-"09","大篠津町","Oshinozucho",,,,,
-"0a","米子空港","Yonago Airport",,,,,
-"0b","中浜","Nakahama",,,,,
-"0c","高松町","Takamatsucho",,,,,
-"0d","余子","Amariko",,,,,
-"0e","上道","Agarimichi",,,,,
-"0f","馬場崎町","Babasakicho",,,,,
-"0g","境港","Sakaiminato",,,,,
+"01","米子","Yonago","0","","","ja21095",""
+"02","博労町","Bakuromachi","1","","","ja21653",""
+"03","富士見町","Fujimicho","1.5","","","ja21654",""
+"04","後藤","Goto","2.2","","","ja21651",""
+"05","三本松口","Sambommatsuguchi","3.3","","","ja21655",""
+"06","河崎口","Kawasakiguchi","5.3","","","ja21656",""
+"07","弓ヶ浜","Yumigahama","7.2","","","ja3126774",""
+"08","和田浜","Wadahama","9.7","","","ja21657",""
+"09","大篠津町","Oshinozucho","11.1","","","ja21658",""
+"0a","米子空港","Yonago Airport","12.7","","","ja21652",""
+"0b","中浜","Nakahama","13.2","","","ja21511",""
+"0c","高松町","Takamatsucho","14.3","","","ja21659",""
+"0d","余子","Amariko","15","","","ja21660",""
+"0e","上道","Agarimichi","16.3","","","ja21682",""
+"0f","馬場崎町","Babasakicho","17.2","","","ja21663",""
+"0g","境港","Sakaiminato","17.9","","","ja21513",""

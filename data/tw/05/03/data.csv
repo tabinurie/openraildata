@@ -1,15 +1,15 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","籬仔內","Lizihnei",,,,,
-"02","凱旋瑞田","Kaisyuan Rueitian",,,,,
-"03","前鎮之星","Cianjhen Star",,,,,
-"04","凱旋中華","Kaisyuan Jhonghua",,,,,
-"05","夢時代","Dream Mall",,,,,
-"06","經貿園區","Commerce and Trade Park",,,,,
-"07","軟體園區","Software Technology Park",,,,,
-"08","高雄展覽館","Kaohsiung Exhibition Center",,,,,
-"09","旅運中心","Cruise Terminal",,,,,
-"0a","光榮碼頭","Glory Pier",,,,,
-"0b","真愛碼頭","Love Pier",,,,,
-"0c","駁二大義","Pier-2 Dayi",,,,,
-"0d","駁二蓬萊","Pier-2 Ponglai",,,,,
-"0e","哈瑪星","Hamasen",,,,,
+"01","籬仔內","Lizihnei","0","","","zh1003575",""
+"02","凱旋瑞田","Kaisyuan Rueitian","0.74","","","zh1003587",""
+"03","前鎮之星","Cianjhen Star","1.378","","","zh1003593",""
+"04","凱旋中華","Kaisyuan Jhonghua","2.082","","","zh1003594",""
+"05","夢時代","Dream Mall","2.773","","","zh1003601",""
+"06","經貿園區","Commerce and Trade Park","3.396","","","zh1003610",""
+"07","軟體園區","Software Technology Park","3.915","","","zh1009034",""
+"08","高雄展覽館","Kaohsiung Exhibition Center","4.551","","","zh1009044",""
+"09","旅運中心","Cruise Terminal","5.242","","","zh4201796",""
+"0a","光榮碼頭","Glory Pier","5.969","","","zh4392326",""
+"0b","真愛碼頭","Love Pier","6.596","","","zh3326878",""
+"0c","駁二大義","Pier-2 Dayi","7.117","","","zh2978959",""
+"0d","駁二蓬萊","Pier-2 Ponglai","7.604","","","zh4239560",""
+"0e","哈瑪星","Hamasen","8.213","","","zh2984264",""

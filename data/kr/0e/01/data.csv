@@ -1,22 +1,22 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","사상","Sasang",,,,,
-"02","괘법르네시떼","Gwaebeop Renecite",,,,,
-"03","서부산유통지구","Seobusan Yutongjigu",,,,,
-"04","공항","Gimhae Int'l Airport",,,,,
-"05","덕두","Deokdu",,,,,
-"06","등구","Deunggu",,,,,
-"07","대저","Daejeo",,,,,
-"08","평강","Pyeonggang",,,,,
-"09","대사","Daesa",,,,,
-"0a","불암","Buram",,,,,
-"0b","지내","Jinae",,,,,
-"0c","김해대학","Gimhae College",,,,,
-"0d","인제대","Inje Univ.",,,,,
-"0e","김해시청","Gimhae City Hall",,,,,
-"0f","부원","Buwon",,,,,
-"0g","봉황","Bonghwang",,,,,
-"0h","수로왕릉","Royal Tomb of King Suro",,,,,
-"0i","박물관","Gimhae Nat'l Museum",,,,,
-"0j","연지공원","Yeonji Park",,,,,
-"0k","장신대","Presbyterian Univ.",,,,,
-"0l","가야대","Gaya Univ.",,,,,
+"01","사상","Sasang","0","","","ko94982",""
+"02","괘법르네시떼","Gwaebeop Renecite","0.8","","","ko625672",""
+"03","서부산유통지구","Seobusan Yutongjigu","3.1","","","ko625674",""
+"04","공항","Gimhae Int'l Airport","4","","","ko189209",""
+"05","덕두","Deokdu","5.3","","","ko625678",""
+"06","등구","Deunggu","7.2","","","ko625680",""
+"07","대저","Daejeo","9.2","","","ko70874",""
+"08","평강","Pyeonggang","10.2","","","ko625952",""
+"09","대사","Daesa","11.4","","","ko625687",""
+"0a","불암","Buram","12.5","","","ko625688",""
+"0b","지내","Jinae","13.2","","","ko625783",""
+"0c","김해대학","Gimhae College","14","","","ko625785",""
+"0d","인제대","Inje Univ.","15.3","","","ko625787",""
+"0e","김해시청","Gimhae City Hall","16.3","","","ko625788",""
+"0f","부원","Buwon","16.9","","","ko625789",""
+"0g","봉황","Bonghwang","17.9","","","ko625790",""
+"0h","수로왕릉","Royal Tomb of King Suro","18.6","","","ko625793",""
+"0i","박물관","Gimhae Nat'l Museum","19.4","","","ko625794",""
+"0j","연지공원","Yeonji Park","20.5","","","ko625795",""
+"0k","장신대","Presbyterian Univ.","21.7","","","ko625796",""
+"0l","가야대","Gaya Univ.","22.6","","","ko625797",""

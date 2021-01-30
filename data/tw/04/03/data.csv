@@ -1,22 +1,22 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","淡水","Tamsui",,,,,
-"02","紅樹林","Hongshulin",,,,,
-"03","竹圍","Zhuwei",,,,,
-"04","關渡","Guandu",,,,,
-"05","忠義","Zhongyi",,,,,
-"06","復興崗","Fuxinggang",,,,,
-"07","北投","Beitou",,,,,
-"08","奇岩","Qiyan",,,,,
-"09","唭哩岸","Qilian",,,,,
-"0a","石牌","Shipai",,,,,
-"0b","明德","Mingde",,,,,
-"0c","芝山","Zhishan",,,,,
-"0d","士林","Shilin",,,,,
-"0e","劍潭","Jiantan",,,,,
-"0f","圓山","Yuanshan",,,,,
-"0g","民權西路","Minquan West Road",,,,,
-"0h","雙連","Shuanglian",,,,,
-"0i","中山","Zhongshan",,,,,
-"0j","台北車站","Taipei Main Station",,,,,
-"0k","台大醫院","National Taiwan University Hospital",,,,,
-"0l","中正紀念堂","Chiang Kai-Shek Memorial Hall",,,,,
+"01","淡水","Tamsui","0","","","zh199096",""
+"02","紅樹林","Hongshulin","2.1","","","zh199114",""
+"03","竹圍","Zhuwei","4.1","","","zh199122",""
+"04","關渡","Guandu","6.2","","","zh199240",""
+"05","忠義","Zhongyi","7.1","","","zh199245",""
+"06","復興崗","Fuxinggang","8.5","","","zh199250",""
+"07","北投","Beitou","10.2","","","zh199254",""
+"08","奇岩","Qiyan","10.9","","","zh199304",""
+"09","唭哩岸","Qilian","11.7","","","zh199308",""
+"0a","石牌","Shipai","13","","","zh480806",""
+"0b","明德","Mingde","13.6","","","zh199313",""
+"0c","芝山","Zhishan","14.5","","","zh199319",""
+"0d","士林","Shilin","15.6","","","zh199321",""
+"0e","劍潭","Jiantan","16.7","","","zh199327",""
+"0f","圓山","Yuanshan","18.3","","","zh199335",""
+"0g","民權西路","Minquan West Road","19.2","","","zh199341",""
+"0h","雙連","Shuanglian","19.8","","","zh199347",""
+"0i","中山","Zhongshan","20.4","","","zh207096",""
+"0j","台北車站","Taipei Main Station","21.2","","","zh4138653",""
+"0k","台大醫院","National Taiwan University Hospital","21.7","","","zh130183",""
+"0l","中正紀念堂","Chiang Kai-Shek Memorial Hall","22.7","","","zh144536",""

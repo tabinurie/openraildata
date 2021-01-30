@@ -1,13 +1,13 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","湖潮","Huchao",,,,,
-"02","清镇","Qingzhen",,,,,
-"03","条子场","Tiaozichang",,,,,
-"04","林歹南","Lindai South",,,,,
-"05","岩脚","Yanjiao",,,,,
-"06","坪子上","Pingzishang",,,,,
-"07","新发","Xinfa",,,,,
-"08","织金北","Zhijin North",,,,,
-"09","大田坝","Datianba",,,,,
-"0a","大龙场","Dalongchang",,,,,
-"0b","纳雍","Nayong",,,,,
-"0c","纳雍西","Nayong West",,,,,
+"01","湖潮","Huchao","0","","","",""
+"02","清镇","Qingzhen","0","","","",""
+"03","条子场","Tiaozichang","0","","","",""
+"04","林歹南","Lindai South","31","","","",""
+"05","岩脚","Yanjiao","0","","","",""
+"06","坪子上","Pingzishang","0","","","",""
+"07","新发","Xinfa","0","","","",""
+"08","织金北","Zhijin North","111","","","",""
+"09","大田坝","Datianba","0","","","",""
+"0a","大龙场","Dalongchang","0","","","",""
+"0b","纳雍","Nayong","164","","","",""
+"0c","纳雍西","Nayong West","170","","","",""

@@ -1,8 +1,8 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","宇都宮","Utsunomiya",,,,,
-"02","鶴田","Tsuruta",,,,,
-"03","鹿沼","Kanuma",,,,,
-"04","文挟","Fubasami",,,,,
-"05","下野大沢","Shimotsuke-Osawa",,,,,
-"06","今市","Imaichi",,,,,
-"07","日光","Nikko",,,,,
+"01","宇都宮","Utsunomiya","0","","","ja14388",""
+"02","鶴田","Tsuruta","4.8","","","ja14447",""
+"03","鹿沼","Kanuma","14.3","","","ja97930",""
+"04","文挟","Fubasami","22.4","","","ja102866",""
+"05","下野大沢","Shimotsuke-Osawa","28.2","","","ja141564",""
+"06","今市","Imaichi","33.9","","","ja141568",""
+"07","日光","Nikko","40.5","","","ja62019",""

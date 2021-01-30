@@ -1,14 +1,14 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","沈阳北","Shenyang North",,,,,
-"02","沈阳","Shenyang",,,,,
-"03","沈阳南","Shenyang South",,,,,
-"04","辽阳","Liaoyang",,,,,
-"05","鞍山西","Anshan West",,,,,
-"06","海城西","Haicheng West",,,,,
-"07","下夹河线路所","Xiajiahe Signal Base",,,,,
-"08","营口东","Yingkou East",,,,,
-"09","盖州西","Gaizhou West",,,,,
-"0a","鲅鱼圈","Bayuquan",,,,,
-"0b","瓦房店西","Wafangdian West",,,,,
-"0c","普湾","Puwan",,,,,
-"0d","大连北","Dalian North",,,,,
+"01","沈阳北","Shenyang North","0","","","",""
+"02","沈阳","Shenyang","5","","","",""
+"03","沈阳南","Shenyang South","20","","","",""
+"04","辽阳","Liaoyang","70","","","",""
+"05","鞍山西","Anshan West","100","","","",""
+"06","海城西","Haicheng West","139","","","",""
+"07","下夹河线路所","Xiajiahe Signal Base","149","","","",""
+"08","营口东","Yingkou East","177","","","",""
+"09","盖州西","Gaizhou West","205","","","",""
+"0a","鲅鱼圈","Bayuquan","234","","","",""
+"0b","瓦房店西","Wafangdian West","305","","","",""
+"0c","普湾","Puwan","342","","","",""
+"0d","大连北","Dalian North","383","","","",""

@@ -1,19 +1,19 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","仙台","Sendai",,,,,
-"02","東照宮","Toshogu",,,,,
-"03","北仙台","Kita-Sendai",,,,,
-"04","北山","Kitayama",,,,,
-"05","東北福祉大前","Tohoku Fukushi-dai-mae",,,,,
-"06","国見","Kunimi",,,,,
-"07","葛岡","Kuzuoka",,,,,
-"08","陸前落合","Rikuzen-Ochiai",,,,,
-"09","愛子","Ayashi",,,,,
-"0a","陸前白沢","Rikuzen-Shirasawa",,,,,
-"0b","熊ヶ根","Kumagane",,,,,
-"0c","作並","Sakunami",,,,,
-"0d","奥新川","Oku-Nikkawa",,,,,
-"0e","面白山高原","Omoshiroyama-Kogen",,,,,
-"0f","山寺","Yamadera",,,,,
-"0g","高瀬","Takase",,,,,
-"0h","楯山","Tateyama",,,,,
-"0i","羽前千歳","Uzen-Chitose",,,,,
+"01","仙台","Sendai","0","","","ja18811",""
+"02","東照宮","Toshogu","3.2","","","ja45811",""
+"03","北仙台","Kita-Sendai","4.8","","","ja44025",""
+"04","北山","Kitayama","6.5","","","ja89823",""
+"05","東北福祉大前","Tohoku Fukushi-dai-mae","7.5","","","ja592618",""
+"06","国見","Kunimi","8.6","","","ja118162",""
+"07","葛岡","Kuzuoka","10.1","","","ja61276",""
+"08","陸前落合","Rikuzen-Ochiai","12.7","","","ja61278",""
+"09","愛子","Ayashi","15.2","","","ja44022",""
+"0a","陸前白沢","Rikuzen-Shirasawa","20.6","","","ja65837",""
+"0b","熊ヶ根","Kumagane","23.7","","","ja3126622",""
+"0c","作並","Sakunami","28.7","","","ja65849",""
+"0d","奥新川","Oku-Nikkawa","33.8","","","ja65872",""
+"0e","面白山高原","Omoshiroyama-Kogen","42.5","","","ja65875",""
+"0f","山寺","Yamadera","48.7","","","ja65876",""
+"0g","高瀬","Takase","52.4","","","ja55118",""
+"0h","楯山","Tateyama","54.9","","","ja66471",""
+"0i","羽前千歳","Uzen-Chitose","58","","","ja40219",""

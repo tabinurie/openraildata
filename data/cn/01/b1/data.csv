@@ -1,14 +1,14 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","长春","Changchun",,,,,
-"02","龙嘉","Longjia",,,,,
-"03","九台南","Jiutai South",,,,,
-"04","双吉","Shuangji",,,,,
-"05","吉林","Jilin",,,,,
-"06","蛟河西","Jiaohe West",,,,,
-"07","威虎岭北","Weihuling North",,,,,
-"08","敦化","Dunhua",,,,,
-"09","大石头南","Dashitou South",,,,,
-"0a","安图西","Antu West",,,,,
-"0b","延吉西","Yanji West",,,,,
-"0c","图们北","Tumen North",,,,,
-"0d","珲春","Hunchun",,,,,
+"01","长春","Changchun","0","","","",""
+"02","龙嘉","Longjia","32","","","",""
+"03","九台南","Jiutai South","42","","","",""
+"04","双吉","Shuangji","94","","","",""
+"05","吉林","Jilin","111","","","",""
+"06","蛟河西","Jiaohe West","176","","","",""
+"07","威虎岭北","Weihuling North","229","","","",""
+"08","敦化","Dunhua","267","","","",""
+"09","大石头南","Dashitou South","287","","","",""
+"0a","安图西","Antu West","330","","","",""
+"0b","延吉西","Yanji West","380","","","",""
+"0c","图们北","Tumen North","416","","","",""
+"0d","珲春","Hunchun","471","","","",""

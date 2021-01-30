@@ -1,58 +1,58 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","Tutuban","Tutuban",,,,,
-"02","Blumentritt","Blumentritt",,,,,
-"03","Laon Laan","Laon Laan",,,,,
-"04","España","Espana",,,,,
-"05","Santa Mesa","Santa Mesa",,,,,
-"06","Pandacan","Pandacan",,,,,
-"07","Paco","Paco",,,,,
-"08","San Andres","San Andres",,,,,
-"09","Vito Cruz","Vito Cruz",,,,,
-"0a","Buendia","Buendia",,,,,
-"0b","Dela Rosa","Dela Rosa",,,,,
-"0c","Pasay Road","Pasay Road",,,,,
-"0d","EDSA","EDSA",,,,,
-"0e","Nichols","Nichols",,,,,
-"0f","FTI","FTI",,,,,
-"0g","Bicutan","Bicutan",,,,,
-"0h","Sucat","Sucat",,,,,
-"0i","Alabang","Alabang",,,,,
-"0j","Muntinlupa","Muntinlupa",,,,,
-"0k","San Pedro","San Pedro",,,,,
-"0l","Pacita MG","Pacita MG",,,,,
-"0m","Golden City 1","Golden City 1",,,,,
-"0n","Biñan","Binan",,,,,
-"0o","Santa Rosa","Santa Rosa",,,,,
-"0p","Cabuyao","Cabuyao",,,,,
-"0q","Mamatid","Mamatid",,,,,
-"0r","Calamba","Calamba",,,,,
-"0s","Pansol","Pansol",,,,,
-"0t","Masili","Masili",,,,,
-"0u","Los Baños","Los Banos",,,,,
-"0v","College","College",,,,,
-"0w","IRRI","IRRI",,,,,
-"0x","San Pablo","San Pablo",,,,,
-"0y","Candelaria","Candelaria",,,,,
-"0z","Lucena","Lucena",,,,,
-"10","Agdangan","Agdangan",,,,,
-"11","Gumaca","Gumaca",,,,,
-"12","Hondagua","Hondagua",,,,,
-"13","Calauag","Calauag",,,,,
-"14","Katimo","Katimo",,,,,
-"15","Tagkawayan","Tagkawayan",,,,,
-"16","Del Gallego","Del Gallego",,,,,
-"17","Ragay","Ragay",,,,,
-"18","Lupi","Lupi",,,,,
-"19","Sipocot","Sipocot",,,,,
-"1a","Libmanan","Libmanan",,,,,
-"1b","Pamplona","Pamplona",,,,,
-"1c","Naga","Naga",,,,,
-"1d","Pili","Pili",,,,,
-"1e","Baao","Baao",,,,,
-"1f","Iriga","Iriga",,,,,
-"1g","Polangui","Polangui",,,,,
-"1h","Oas","Oas",,,,,
-"1i","Ligao","Ligao",,,,,
-"1j","Travesia","Travesia",,,,,
-"1k","Daraga","Daraga",,,,,
-"1l","Legazpi","Legazpi",,,,,
+"01","Tutuban","Tutuban","","","","tl269547",""
+"02","Blumentritt","Blumentritt","","","","tl279543",""
+"03","Laon Laan","Laon Laan","","","","tl160587",""
+"04","España","Espana","","","","tl156783",""
+"05","Santa Mesa","Santa Mesa","","","","tl156784",""
+"06","Pandacan","Pandacan","","","","tl269550",""
+"07","Paco","Paco","","","","tl158432",""
+"08","San Andres","San Andres","","","","tl269552",""
+"09","Vito Cruz","Vito Cruz","","","","tl269544",""
+"0a","Buendia","Buendia","","","","tl223935",""
+"0b","Dela Rosa","Dela Rosa","","","","tl279590",""
+"0c","Pasay Road","Pasay Road","","","","tl269685",""
+"0d","EDSA","EDSA","","","","tl159191",""
+"0e","Nichols","Nichols","","","","tl158431",""
+"0f","FTI","FTI","","","","tl280199",""
+"0g","Bicutan","Bicutan","","","","tl280201",""
+"0h","Sucat","Sucat","","","","tl268840",""
+"0i","Alabang","Alabang","","","","tl268826",""
+"0j","Muntinlupa","Muntinlupa","","","","tl268882",""
+"0k","San Pedro","San Pedro","","","","tl270399",""
+"0l","Pacita MG","Pacita MG","","","","tl269258",""
+"0m","Golden City 1","Golden City 1","","","","tl269686",""
+"0n","Biñan","Binan","","","","tl268698",""
+"0o","Santa Rosa","Santa Rosa","","","","tl268687",""
+"0p","Cabuyao","Cabuyao","","","","tl268697",""
+"0q","Mamatid","Mamatid","","","","tl267878",""
+"0r","Calamba","Calamba","","","","tl262619",""
+"0s","Pansol","Pansol","","","","en62819476",""
+"0t","Masili","Masili","","","","en63308100",""
+"0u","Los Baños","Los Banos","","","","tl279953",""
+"0v","College","College","","","","tl160588",""
+"0w","IRRI","IRRI","","","","en62833496",""
+"0x","San Pablo","San Pablo","","","","tl268694",""
+"0y","Candelaria","Candelaria","","","","",""
+"0z","Lucena","Lucena","","","","tl268693",""
+"10","Agdangan","Agdangan","","","","tl268692",""
+"11","Gumaca","Gumaca","","","","tl268690",""
+"12","Hondagua","Hondagua","","","","tl268492",""
+"13","Calauag","Calauag","","","","tl268692",""
+"14","Katimo","Katimo","","","","",""
+"15","Tagkawayan","Tagkawayan","","","","tl268689",""
+"16","Del Gallego","Del Gallego","","","","tl267808",""
+"17","Ragay","Ragay","","","","tl268550",""
+"18","Lupi","Lupi","","","","",""
+"19","Sipocot","Sipocot","","","","tl268569",""
+"1a","Libmanan","Libmanan","","","","tl269599",""
+"1b","Pamplona","Pamplona","","","","tl269602",""
+"1c","Naga","Naga","","","","tl268565",""
+"1d","Pili","Pili","","","","tl268908",""
+"1e","Baao","Baao","","","","tl269604",""
+"1f","Iriga","Iriga","","","","tl269600",""
+"1g","Polangui","Polangui","","","","tl269609",""
+"1h","Oas","Oas","","","","tl269614",""
+"1i","Ligao","Ligao","","","","tl268533",""
+"1j","Travesia","Travesia","","","","tl269625",""
+"1k","Daraga","Daraga","","","","tl269637",""
+"1l","Legazpi","Legazpi","","","","tl268618",""

@@ -1,19 +1,19 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","东莞西","Dongguan West",,,,,
-"02","道滘","Daojiao",,,,,
-"03","西平西","Xipingxi",,,,,
-"04","东城南","Dongchengnan",,,,,
-"05","寮步","Liaobu",,,,,
-"06","松山湖北","Songshanhubei",,,,,
-"07","大朗镇","Dalangzhen",,,,,
-"08","常平南","Changping South",,,,,
-"09","常平东","Changping East",,,,,
-"0a","樟木头东","Zhangmutou East",,,,,
-"0b","银瓶","Yinping",,,,,
-"0c","沥林北","Lilinbei",,,,,
-"0d","仲恺","Zhongkai",,,,,
-"0e","惠环","Huihuan",,,,,
-"0f","龙丰","Longfeng",,,,,
-"0g","西湖东","Xihudong",,,,,
-"0h","云山","Yunshan",,,,,
-"0i","小金口","Xiaojinkou",,,,,
+"01","东莞西","Dongguan West","0","","","",""
+"02","道滘","Daojiao","4","","","",""
+"03","西平西","Xipingxi","14","","","",""
+"04","东城南","Dongchengnan","17","","","",""
+"05","寮步","Liaobu","26","","","",""
+"06","松山湖北","Songshanhubei","32","","","",""
+"07","大朗镇","Dalangzhen","38","","","",""
+"08","常平南","Changping South","44","","","",""
+"09","常平东","Changping East","48","","","",""
+"0a","樟木头东","Zhangmutou East","55","","","",""
+"0b","银瓶","Yinping","60","","","",""
+"0c","沥林北","Lilinbei","68","","","",""
+"0d","仲恺","Zhongkai","80","","","",""
+"0e","惠环","Huihuan","85","","","",""
+"0f","龙丰","Longfeng","90","","","",""
+"0g","西湖东","Xihudong","93","","","",""
+"0h","云山","Yunshan","96","","","",""
+"0i","小金口","Xiaojinkou","101","","","",""

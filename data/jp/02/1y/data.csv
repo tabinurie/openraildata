@@ -1,9 +1,9 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","高崎","Takasaki",,,,,
-"02","北高崎","Kita-Takasaki",,,,,
-"03","群馬八幡","Gumma-Yawata",,,,,
-"04","安中","Annaka",,,,,
-"05","磯部","Isobe",,,,,
-"06","松井田","Matsuida",,,,,
-"07","西松井田","Nishi-Matsuida",,,,,
-"08","横川","Yokokawa",,,,,
+"01","高崎","Takasaki","0","","","ja43338",""
+"02","北高崎","Kita-Takasaki","2.4","","","ja83409",""
+"03","群馬八幡","Gumma-Yawata","6.4","","","ja94177",""
+"04","安中","Annaka","10.6","","","ja92428",""
+"05","磯部","Isobe","17.6","","","ja79904",""
+"06","松井田","Matsuida","22.7","","","ja77792",""
+"07","西松井田","Nishi-Matsuida","23.9","","","ja80949",""
+"08","横川","Yokokawa","29.7","","","ja16846",""

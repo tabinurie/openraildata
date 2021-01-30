@@ -1,9 +1,9 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","弥彦","Yahiko",,,,,
-"02","矢作","Yahagi",,,,,
-"03","吉田","Yoshida",,,,,
-"04","西燕","Nishi-Tsubame",,,,,
-"05","燕","Tsubame",,,,,
-"06","燕三条","Tsubame-Sanjo",,,,,
-"07","北三条","Kita-Sanjo",,,,,
-"08","東三条","Higashi-Sanjo",,,,,
+"01","弥彦","Yahiko","0","","","ja102843",""
+"02","矢作","Yahagi","2.3","","","ja102841",""
+"03","吉田","Yoshida","4.9","","","ja88087",""
+"04","西燕","Nishi-Tsubame","8","","","ja102845",""
+"05","燕","Tsubame","10.3","","","ja101191",""
+"06","燕三条","Tsubame-Sanjo","12.9","","","ja40768",""
+"07","北三条","Kita-Sanjo","15.4","","","ja100939",""
+"08","東三条","Higashi-Sanjo","17.4","","","ja97328",""

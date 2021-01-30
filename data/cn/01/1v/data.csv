@@ -1,14 +1,14 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","成都东","Chengdu East",,,,,
-"02","华兴村线路所","Huaxingcun Signal Base",,,,,
-"03","简阳南","Jianyang South",,,,,
-"04","资阳北","Ziyang North",,,,,
-"05","资中北","Zizhong North",,,,,
-"06","内江北","Neijiang North",,,,,
-"07","隆昌北","Longchang North",,,,,
-"08","荣昌北","Rongchang North",,,,,
-"09","大足南","Dazu South",,,,,
-"0a","永川东","Yongchuan East",,,,,
-"0b","璧山","Bishan",,,,,
-"0c","半边山线路所","Banbianshan Signal Base",,,,,
-"0d","沙坪坝","Shapingba",,,,,
+"01","成都东","Chengdu East","0","","","",""
+"02","华兴村线路所","Huaxingcun Signal Base","5","","","",""
+"03","简阳南","Jianyang South","53","","","",""
+"04","资阳北","Ziyang North","83","","","",""
+"05","资中北","Zizhong North","124","","","",""
+"06","内江北","Neijiang North","153","","","",""
+"07","隆昌北","Longchang North","179","","","",""
+"08","荣昌北","Rongchang North","213","","","",""
+"09","大足南","Dazu South","223","","","",""
+"0a","永川东","Yongchuan East","245","","","",""
+"0b","璧山","Bishan","275","","","",""
+"0c","半边山线路所","Banbianshan Signal Base","292","","","",""
+"0d","沙坪坝","Shapingba","299","","","",""

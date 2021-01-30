@@ -1,8 +1,8 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","佐原","Sawara",,,,,
-"02","香取","Katori",,,,,
-"03","十二橋","Junikyo",,,,,
-"04","潮来","Itako",,,,,
-"05","延方","Nobukata",,,,,
-"06","鹿島神宮","Kashima-Jingu",,,,,
-"07","鹿島サッカースタジアム","Kashima Soccer Stadium",,,,,
+"01","佐原","Sawara","0","","","ja79639",""
+"02","香取","Katori","3.6","","","ja117881",""
+"03","十二橋","Junikyo","6.6","","","ja117999",""
+"04","潮来","Itako","8.8","","","ja118107",""
+"05","延方","Nobukata","14","","","ja118109",""
+"06","鹿島神宮","Kashima-Jingu","17.8","","","ja103307",""
+"07","鹿島サッカースタジアム","Kashima Soccer Stadium","21","","","ja65932",""

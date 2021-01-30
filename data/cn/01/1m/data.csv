@@ -1,12 +1,12 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","南京南","Nanjing South",,,,,
-"02","江宁西","Jiangning West",,,,,
-"03","马鞍山东","Ma'anshan East",,,,,
-"04","当涂东","Dangtu East",,,,,
-"05","芜湖","Wuhu",,,,,
-"06","芜湖南","Wuhu South",,,,,
-"07","铜陵北线路所","Tongling North Signal Base",,,,,
-"08","繁昌西","Fanchang West",,,,,
-"09","铜陵","Tongling",,,,,
-"0a","池州","Chizhou",,,,,
-"0b","安庆","Anqing",,,,,
+"01","南京南","Nanjing South","0","","","",""
+"02","江宁西","Jiangning West","25","","","",""
+"03","马鞍山东","Ma'anshan East","42","","","",""
+"04","当涂东","Dangtu East","57","","","",""
+"05","芜湖","Wuhu","85","","","",""
+"06","芜湖南","Wuhu South","97","","","",""
+"07","铜陵北线路所","Tongling North Signal Base","144","","","",""
+"08","繁昌西","Fanchang West","126","","","",""
+"09","铜陵","Tongling","161","","","",""
+"0a","池州","Chizhou","211","","","",""
+"0b","安庆","Anqing","257","","","",""

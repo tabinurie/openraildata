@@ -1,18 +1,18 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","東京","Tokyo",,,,,
-"02","八丁堀","Hatchobori",,,,,
-"03","越中島","Etchujima",,,,,
-"04","潮見","Shiomi",,,,,
-"05","新木場","Shin-Kiba",,,,,
-"06","葛西臨海公園","Kasai-Rinkai Park",,,,,
-"07","舞浜","Maihama",,,,,
-"08","新浦安","Shin-Urayasu",,,,,
-"09","市川塩浜","Ichikawashiohama",,,,,
-"0a","二俣新町","Futamatashimmachi",,,,,
-"0b","南船橋","Minami-Funabashi",,,,,
-"0c","新習志野","Shin-Narashino",,,,,
-"0d","海浜幕張","Kaihimmakuhari",,,,,
-"0e","検見川浜","Kemigawahama",,,,,
-"0f","稲毛海岸","Inagekaigan",,,,,
-"0g","千葉みなと","Chibaminato",,,,,
-"0h","蘇我","Soga",,,,,
+"01","東京","Tokyo","0","","","ja1608983",""
+"02","八丁堀","Hatchobori","1.2","","","ja24486",""
+"03","越中島","Etchujima","2.8","","","ja96571",""
+"04","潮見","Shiomi","5.4","","","ja53251",""
+"05","新木場","Shin-Kiba","7.4","","","ja10271",""
+"06","葛西臨海公園","Kasai-Rinkai Park","10.6","","","ja53245",""
+"07","舞浜","Maihama","12.7","","","ja24482",""
+"08","新浦安","Shin-Urayasu","16.1","","","ja42199",""
+"09","市川塩浜","Ichikawashiohama","18.2","","","ja255211",""
+"0a","二俣新町","Futamatashimmachi","22.6","","","ja108448",""
+"0b","南船橋","Minami-Funabashi","26","","","ja67827",""
+"0c","新習志野","Shin-Narashino","28.3","","","ja108452",""
+"0d","海浜幕張","Kaihimmakuhari","31.7","","","ja10849",""
+"0e","検見川浜","Kemigawahama","33.7","","","ja78029",""
+"0f","稲毛海岸","Inagekaigan","35.3","","","ja11472",""
+"0g","千葉みなと","Chibaminato","39","","","ja10265",""
+"0h","蘇我","Soga","43","","","ja22041",""

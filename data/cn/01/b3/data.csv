@@ -1,19 +1,19 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","承德南","Chengde South",,,,,
-"02","承德县北","Chengdexian North",,,,,
-"03","平泉北","Pingquan North",,,,,
-"04","牛河梁","Niuheliang",,,,,
-"05","孙家沟所","Sunjiagou Signal Base",,,,,
-"06","喀左","Kazuo",,,,,
-"07","奈林皋","Nailingao",,,,,
-"08","朝阳","Chaoyang",,,,,
-"09","北票","Beipiao",,,,,
-"0a","乌兰木图","Wulanmutu",,,,,
-"0b","阜新","Fuxin",,,,,
-"0c","黑山北","Heishan North",,,,,
-"0d","姚家窝堡所","Yaojiawobu Signal Base",,,,,
-"0e","新民北","Xinmin North",,,,,
-"0f","沈阳西","Shenyang West",,,,,
-"0g","前丁香东所","Qiandingxiangdong Signal Base",,,,,
-"0h","后丁香东所","Houdingxiangdong Signal Base",,,,,
-"0i","沈阳","Shenyang",,,,,
+"01","承德南","Chengde South","0","","","",""
+"02","承德县北","Chengdexian North","29","","","",""
+"03","平泉北","Pingquan North","66","","","",""
+"04","牛河梁","Niuheliang","127","","","",""
+"05","孙家沟所","Sunjiagou Signal Base","155","","","",""
+"06","喀左","Kazuo","162","","","",""
+"07","奈林皋","Nailingao","192","","","",""
+"08","朝阳","Chaoyang","229","","","",""
+"09","北票","Beipiao","266","","","",""
+"0a","乌兰木图","Wulanmutu","314","","","",""
+"0b","阜新","Fuxin","347","","","",""
+"0c","黑山北","Heishan North","403","","","",""
+"0d","姚家窝堡所","Yaojiawobu Signal Base","433","","","",""
+"0e","新民北","Xinmin North","445","","","",""
+"0f","沈阳西","Shenyang West","483","","","",""
+"0g","前丁香东所","Qiandingxiangdong Signal Base","494","","","",""
+"0h","后丁香东所","Houdingxiangdong Signal Base","497","","","",""
+"0i","沈阳","Shenyang","504","","","",""

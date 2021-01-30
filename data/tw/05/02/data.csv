@@ -1,25 +1,25 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","南岡山","Gangshan South",,,,,
-"02","橋頭火車站","Ciaotou",,,,,
-"03","橋頭糖廠","Ciaotou Sugar Refinery",,,,,
-"04","青埔","Cingpu",,,,,
-"05","都會公園","Metropolitan Park",,,,,
-"06","後勁","Houjing",,,,,
-"07","楠梓加工區","Nanzih Export Processing Zone",,,,,
-"08","油廠國小","Oil Refinery Elementary School",,,,,
-"09","世運","World Games",,,,,
-"0a","左營/高鐵","Zuoying/THSR",,,,,
-"0b","生態園區","Ecological District",,,,,
-"0c","巨蛋","Kaohsiung Arena",,,,,
-"0d","凹子底","Aozihdi",,,,,
-"0e","後驛","Houyi",,,,,
-"0f","高雄車站","Kaohsiung",,,,,
-"0g","美麗島","Formosa Boulevard",,,,,
-"0h","中央公園","Central Park",,,,,
-"0i","三多商圈","Sanduo Shopping District",,,,,
-"0j","獅甲","Shihjia",,,,,
-"0k","凱旋","Kaisyuan",,,,,
-"0l","前鎮高中","Cianjhen Senior High School",,,,,
-"0m","草衙","Caoya",,,,,
-"0n","高雄國際機場","Kaohsiung International Airport",,,,,
-"0o","小港","Siaogang",,,,,
+"01","南岡山","Gangshan South","0","","","zh324338",""
+"02","橋頭火車站","Ciaotou","2.8","","","zh154353",""
+"03","橋頭糖廠","Ciaotou Sugar Refinery","3.8","","","zh324323",""
+"04","青埔","Cingpu","4.9","","","zh324317",""
+"05","都會公園","Metropolitan Park","6.9","","","zh324307",""
+"06","後勁","Houjing","7.9","","","zh324298",""
+"07","楠梓加工區","Nanzih Export Processing Zone","9","","","zh324293",""
+"08","油廠國小","Oil Refinery Elementary School","10.4","","","zh324279",""
+"09","世運","World Games","11.3","","","zh324273",""
+"0a","左營/高鐵","Zuoying/THSR","13.1","","","zh146259",""
+"0b","生態園區","Ecological District","14.6","","","zh324271",""
+"0c","巨蛋","Kaohsiung Arena","15.9","","","zh324267",""
+"0d","凹子底","Aozihdi","17","","","zh324262",""
+"0e","後驛","Houyi","18.1","","","zh324258",""
+"0f","高雄車站","Kaohsiung","19.2","","","zh154588",""
+"0g","美麗島","Formosa Boulevard","20.2","","","zh323875",""
+"0h","中央公園","Central Park","21.1","","","zh324256",""
+"0i","三多商圈","Sanduo Shopping District","22.5","","","zh324180",""
+"0j","獅甲","Shihjia","23.6","","","zh324176",""
+"0k","凱旋","Kaisyuan","24.9","","","zh324173",""
+"0l","前鎮高中","Cianjhen Senior High School","26.3","","","zh324167",""
+"0m","草衙","Caoya","27.5","","","zh324163",""
+"0n","高雄國際機場","Kaohsiung International Airport","29.5","","","zh324161",""
+"0o","小港","Siaogang","31","","","zh324160",""

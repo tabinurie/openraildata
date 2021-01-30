@@ -1,31 +1,31 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","칠곡경대병원","Chilgok Kyungpook Nat'l Univ. Medical Center",,,,,
-"02","학정","Hakjeong",,,,,
-"03","팔거","Palgeo",,,,,
-"04","동천","Dongcheon",,,,,
-"05","칠곡운암","Chilgok·Unam",,,,,
-"06","구암","Guam",,,,,
-"07","태전","Taejeon",,,,,
-"08","매천","Maecheon",,,,,
-"09","매천시장","Maecheon Market",,,,,
-"0a","팔달","Paldal",,,,,
-"0b","공단","Gongdan",,,,,
-"0c","만평","Manpyeong",,,,,
-"0d","팔달시장","Paldal Market",,,,,
-"0e","원대","Wondae",,,,,
-"0f","북구청","Buk-gu Office",,,,,
-"0g","달성공원","Dalseong Park",,,,,
-"0h","서문시장","Seomun Market",,,,,
-"0i","청라언덕","Cheongnaeokdeok",,,,,
-"0j","남산","Namsan",,,,,
-"0k","명덕","Myeongdeok",,,,,
-"0l","건들바위","Geondeulbawi",,,,,
-"0m","대봉교","Daebonggyo",,,,,
-"0n","수성시장","Suseong Market",,,,,
-"0o","수성구민운동장","Suseong District Stadium",,,,,
-"0p","어린이회관","Children's Hall",,,,,
-"0q","황금","Hwanggeum",,,,,
-"0r","수성못","Suseongmot",,,,,
-"0s","지산","Jisan",,,,,
-"0t","범물","Beommul",,,,,
-"0u","용지","Yongji",,,,,
+"01","칠곡경대병원","Chilgok Kyungpook Nat'l Univ. Medical Center","0","","","ko1064825",""
+"02","학정","Hakjeong","0.8","","","ko1064826",""
+"03","팔거","Palgeo","1.6","","","ko1064827",""
+"04","동천","Dongcheon","2.3","","","ko1062356",""
+"05","칠곡운암","Chilgok·Unam","3.1","","","ko1064829",""
+"06","구암","Guam","3.8","","","ko1065159",""
+"07","태전","Taejeon","4.5","","","ko1064831",""
+"08","매천","Maecheon","5.4","","","ko1064832",""
+"09","매천시장","Maecheon Market","6.5","","","ko1064833",""
+"0a","팔달","Paldal","7.3","","","ko1064834",""
+"0b","공단","Gongdan","8.2","","","ko809715",""
+"0c","만평","Manpyeong","9","","","ko1064835",""
+"0d","팔달시장","Paldal Market","9.6","","","ko1064836",""
+"0e","원대","Wondae","10.2","","","ko1064837",""
+"0f","북구청","Buk-gu Office","11","","","ko1064838",""
+"0g","달성공원","Dalseong Park","12","","","ko1064840",""
+"0h","서문시장","Seomun Market","12.7","","","ko1064692",""
+"0i","청라언덕","Cheongnaeokdeok","13.4","","","ko47470",""
+"0j","남산","Namsan","14.2","","","ko715939",""
+"0k","명덕","Myeongdeok","14.8","","","ko101353",""
+"0l","건들바위","Geondeulbawi","15.7","","","ko1064845",""
+"0m","대봉교","Daebonggyo","16.4","","","ko1064846",""
+"0n","수성시장","Suseong Market","17.2","","","ko1064847",""
+"0o","수성구민운동장","Suseong District Stadium","18.2","","","ko1064848",""
+"0p","어린이회관","Children's Hall","19","","","ko1064849",""
+"0q","황금","Hwanggeum","19.7","","","ko1064850",""
+"0r","수성못","Suseongmot","20.5","","","ko1064852",""
+"0s","지산","Jisan","21.7","","","ko1064854",""
+"0t","범물","Beommul","22.5","","","ko1064856",""
+"0u","용지","Yongji","23.2","","","ko1064857",""

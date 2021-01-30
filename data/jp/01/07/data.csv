@@ -1,9 +1,9 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","南千歳","Minami-Chitose",,,,,
-"02","追分","Oiwake",,,,,
-"03","川端","Kawabata",,,,,
-"04","滝ノ上","Takinoue",,,,,
-"05","新夕張","Shin-Yubari",,,,,
-"06","占冠","Shimukappu",,,,,
-"07","トマム","Tomamu",,,,,
-"08","新得","Shintoku",,,,,
+"01","南千歳","Minami-Chitose","0","","","ja50462",""
+"02","追分","Oiwake","17.6","","","ja37842",""
+"03","川端","Kawabata","27","","","ja120436",""
+"04","滝ノ上","Takinoue","35.8","","","ja120440",""
+"05","新夕張","Shin-Yubari","43","","","ja60530",""
+"06","占冠","Shimukappu","77.3","","","ja150981",""
+"07","トマム","Tomamu","98.6","","","ja95161",""
+"08","新得","Shintoku","132.4","","","ja60397",""

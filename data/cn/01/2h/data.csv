@@ -1,17 +1,17 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","怀化南","Huaihua South",,,,,
-"02","安江东","Anjiang East",,,,,
-"03","月溪","Yuexi",,,,,
-"04","洞口","Dongkou",,,,,
-"05","隆回西","Longhui West",,,,,
-"06","隆回","Longhui",,,,,
-"07","邵阳西","Shaoyang West",,,,,
-"08","邵阳","Shaoyang",,,,,
-"09","邵东","Shaodong",,,,,
-"0a","杨桥","Yangqiao",,,,,
-"0b","库宗桥","Kuzongqiao",,,,,
-"0c","西渡","Xidu",,,,,
-"0d","松木","Songmu",,,,,
-"0e","咸塘","Xiantang",,,,,
-"0f","长塘所","Changtang Signal Base",,,,,
-"0g","衡阳东","Hengyang East",,,,,
+"01","怀化南","Huaihua South","0","","","",""
+"02","安江东","Anjiang East","28","","","",""
+"03","月溪","Yuexi","0","","","",""
+"04","洞口","Dongkou","81","","","",""
+"05","隆回西","Longhui West","0","","","",""
+"06","隆回","Longhui","124","","","",""
+"07","邵阳西","Shaoyang West","146","","","",""
+"08","邵阳","Shaoyang","169","","","",""
+"09","邵东","Shaodong","199","","","",""
+"0a","杨桥","Yangqiao","229","","","",""
+"0b","库宗桥","Kuzongqiao","0","","","",""
+"0c","西渡","Xidu","275","","","",""
+"0d","松木","Songmu","0","","","",""
+"0e","咸塘","Xiantang","308","","","",""
+"0f","长塘所","Changtang Signal Base","312","","","",""
+"0g","衡阳东","Hengyang East","319","","","",""

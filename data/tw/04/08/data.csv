@@ -1,9 +1,9 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","松山","Songshan",,,,,
-"02","南京三民","Nanjing Sanmin",,,,,
-"03","台北小巨蛋","Taipei Arena",,,,,
-"04","南京復興","Nanjing Fuxing",,,,,
-"05","松江南京","Songjiang Nanjing",,,,,
-"06","中山","Zhongshan",,,,,
-"07","北門","Beimen",,,,,
-"08","西門","Ximen",,,,,
+"01","松山","Songshan","0","","","zh176165",""
+"02","南京三民","Nanjing Sanmin","1.3","","","zh290419",""
+"03","台北小巨蛋","Taipei Arena","2.5","","","zh290422",""
+"04","南京復興","Nanjing Fuxing","3.7","","","zh165301",""
+"05","松江南京","Songjiang Nanjing","4.9","","","zh290428",""
+"06","中山","Zhongshan","6.1","","","zh207096",""
+"07","北門","Beimen","7.3","","","zh290434",""
+"08","西門","Ximen","8.5","","","zh6909342",""

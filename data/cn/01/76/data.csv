@@ -1,39 +1,39 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","包头","Baotou",,,,,
-"02","包头南","Baotou South",,,,,
-"03","达拉特西","Dalad West",,,,,
-"04","响沙湾","Xiangshawan",,,,,
-"05","罕台川北","Hantaichuan North",,,,,
-"06","罕台川","Hantaichuan",,,,,
-"07","东胜西","Dongsheng West",,,,,
-"08","鄂尔多斯","Ordos",,,,,
-"09","新街","Xinjie",,,,,
-"0a","中鸡","Zhongji",,,,,
-"0b","神木西","Shenmu West",,,,,
-"0c","大保当","Dabaodang",,,,,
-"0d","曹家伙场","Caojiahuochang",,,,,
-"0e","牛家梁","Niujialiang",,,,,
-"0f","红石峡","Hongshixia",,,,,
-"0g","榆林","Yulin",,,,,
-"0h","闫庄则","Yanzhuangze",,,,,
-"0i","鱼河","Yuhe",,,,,
-"0j","镇川","Zhenchuan",,,,,
-"0k","米脂","Mizhi",,,,,
-"0l","绥德","Suide",,,,,
-"0m","田庄镇","Tianzhuangzhen",,,,,
-"0n","清涧县","Qingjianxian",,,,,
-"0o","子长","Zichang",,,,,
-"0p","蟠龙镇","Panlongzhen",,,,,
-"0q","延安北","Yan'an North",,,,,
-"0r","延安","Yan'an",,,,,
-"0s","甘泉北","Ganquan North",,,,,
-"0t","富县东","Fuxian East",,,,,
-"0u","洛川东","Luochuan East",,,,,
-"0v","黄陵南","Huangling South",,,,,
-"0w","北塬","Beiyuan",,,,,
-"0x","西社","Xishe",,,,,
-"0y","蒲城东","Pucheng East",,,,,
-"0z","张桥","Zhangqiao",,,,,
-"10","关山","Guanshan",,,,,
-"11","何寨","Hezhai",,,,,
-"12","新丰镇","Xinfengzhen",,,,,
+"01","包头","Baotou","0","","","",""
+"02","包头南","Baotou South","0","","","",""
+"03","达拉特西","Dalad West","33","","","",""
+"04","响沙湾","Xiangshawan","61","","","",""
+"05","罕台川北","Hantaichuan North","0","","","",""
+"06","罕台川","Hantaichuan","91","","","",""
+"07","东胜西","Dongsheng West","111","","","",""
+"08","鄂尔多斯","Ordos","131","","","",""
+"09","新街","Xinjie","163","","","",""
+"0a","中鸡","Zhongji","0","","","",""
+"0b","神木西","Shenmu West","208","","","",""
+"0c","大保当","Dabaodang","246","","","",""
+"0d","曹家伙场","Caojiahuochang","0","","","",""
+"0e","牛家梁","Niujialiang","0","","","",""
+"0f","红石峡","Hongshixia","0","","","",""
+"0g","榆林","Yulin","304","","","",""
+"0h","闫庄则","Yanzhuangze","0","","","",""
+"0i","鱼河","Yuhe","0","","","",""
+"0j","镇川","Zhenchuan","0","","","",""
+"0k","米脂","Mizhi","381","","","",""
+"0l","绥德","Suide","406","","","",""
+"0m","田庄镇","Tianzhuangzhen","0","","","",""
+"0n","清涧县","Qingjianxian","465","","","",""
+"0o","子长","Zichang","489","","","",""
+"0p","蟠龙镇","Panlongzhen","0","","","",""
+"0q","延安北","Yan'an North","0","","","",""
+"0r","延安","Yan'an","573","","","",""
+"0s","甘泉北","Ganquan North","613","","","",""
+"0t","富县东","Fuxian East","643","","","",""
+"0u","洛川东","Luochuan East","666","","","",""
+"0v","黄陵南","Huangling South","693","","","",""
+"0w","北塬","Beiyuan","723","","","",""
+"0x","西社","Xishe","752","","","",""
+"0y","蒲城东","Pucheng East","791","","","",""
+"0z","张桥","Zhangqiao","823","","","",""
+"10","关山","Guanshan","0","","","",""
+"11","何寨","Hezhai","856","","","",""
+"12","新丰镇","Xinfengzhen","864","","","",""

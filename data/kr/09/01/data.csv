@@ -1,9 +1,9 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","정자","Jeongja",,,,,
-"02","미금","Migeum",,,,,
-"03","동천","Dongcheon",,,,,
-"04","수지구청","Suji-gu Office",,,,,
-"05","성복","Seongbok",,,,,
-"06","상현","Sanghyeon",,,,,
-"07","광교중앙","Gwanggyo Jungang",,,,,
-"08","광교","Gwanggyo",,,,,
+"01","정자","Jeongja","0","","","ko20920",""
+"02","미금","Migeum","1.9","","","ko20794",""
+"03","동천","Dongcheon","3.5","","","ko1062356",""
+"04","수지구청","Suji-gu Office","5.6","","","ko1353388",""
+"05","성복","Seongbok","7.3","","","ko1353390",""
+"06","상현","Sanghyeon","9.4","","","ko1353392",""
+"07","광교중앙","Gwanggyo Jungang","11.8","","","ko1353394",""
+"08","광교","Gwanggyo","13.7","","","ko1353407",""

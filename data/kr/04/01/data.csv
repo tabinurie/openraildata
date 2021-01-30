@@ -1,11 +1,11 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","서울역","Seoul Station",,,,,
-"02","시청","City Hall",,,,,
-"03","종각","Jonggak",,,,,
-"04","종로3가","Jongno 3(sam)-ga",,,,,
-"05","종로5가","Jongno 5(o)-ga",,,,,
-"06","동대문","Dongdaemun",,,,,
-"07","동묘앞","Dongmyo",,,,,
-"08","신설동","Sinseol-dong",,,,,
-"09","제기동","Jegi-dong",,,,,
-"0a","청량리","Cheongnyangni",,,,,
+"01","서울역","Seoul Station","0","","","ko1461824",""
+"02","시청","City Hall","1.1","","","ko47035",""
+"03","종각","Jonggak","2.1","","","ko20648",""
+"04","종로3가","Jongno 3(sam)-ga","2.9","","","ko15185",""
+"05","종로5가","Jongno 5(o)-ga","3.8","","","ko14481",""
+"06","동대문","Dongdaemun","4.6","","","ko15938",""
+"07","동묘앞","Dongmyo","5.2","","","ko19636",""
+"08","신설동","Sinseol-dong","5.9","","","ko19697",""
+"09","제기동","Jegi-dong","6.8","","","ko20726",""
+"0a","청량리","Cheongnyangni","7.8","","","ko480822",""

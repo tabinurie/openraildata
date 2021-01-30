@@ -1,33 +1,33 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","설화명곡","Seolhwa·Myeonggok",,,,,
-"02","화원","Hwawon",,,,,
-"03","대곡","Daegok",,,,,
-"04","진천","Jincheon",,,,,
-"05","월배","Wolbae",,,,,
-"06","상인","Sangin",,,,,
-"07","월촌","Wolchon",,,,,
-"08","송현","Songhyeon",,,,,
-"09","서부정류장","Seobu Bus Terminal",,,,,
-"0a","대명","Daemyeong",,,,,
-"0b","안지랑","Anjirang",,,,,
-"0c","현충로","Hyeonchungno",,,,,
-"0d","영대병원","Yeungnam University Hospital",,,,,
-"0e","교대","National University of Education",,,,,
-"0f","명덕","Myeongdeok",,,,,
-"0g","반월당","Banwoldang",,,,,
-"0h","중앙로","Jungangno",,,,,
-"0i","대구역","Daegu Station",,,,,
-"0j","칠성시장","Chilseong Market",,,,,
-"0k","신천","Sincheon",,,,,
-"0l","동대구역","Dongdaegu Station",,,,,
-"0m","동구청","Dong-gu Office",,,,,
-"0n","아양교","Ayanggyo",,,,,
-"0o","동촌","Dongchon",,,,,
-"0p","해안","Haean",,,,,
-"0q","방촌","Bangchon",,,,,
-"0r","용계","Yonggye",,,,,
-"0s","율하","Yulha",,,,,
-"0t","신기","Singi",,,,,
-"0u","반야월","Banyawol",,,,,
-"0v","각산","Gaksan",,,,,
-"0w","안심","Ansim",,,,,
+"01","설화명곡","Seolhwa·Myeonggok","0","","","ko1477919",""
+"02","화원","Hwawon","1.2","","","ko1351165",""
+"03","대곡","Daegok","2.5","","","ko47418",""
+"04","진천","Jincheon","3.5","","","ko47424",""
+"05","월배","Wolbae","4.3","","","ko47423",""
+"06","상인","Sangin","5","","","ko47419",""
+"07","월촌","Wolchon","5.9","","","ko101346",""
+"08","송현","Songhyeon","6.9","","","ko101347",""
+"09","서부정류장","Seobu Bus Terminal","7.7","","","ko47438",""
+"0a","대명","Daemyeong","8.5","","","ko101349",""
+"0b","안지랑","Anjirang","9.3","","","ko101350",""
+"0c","현충로","Hyeonchungno","10","","","ko101351",""
+"0d","영대병원","Yeungnam University Hospital","10.7","","","ko47433",""
+"0e","교대","National University of Education","11.6","","","ko82554",""
+"0f","명덕","Myeongdeok","12.3","","","ko101353",""
+"0g","반월당","Banwoldang","13.1","","","ko47447",""
+"0h","중앙로","Jungangno","13.8","","","ko69803",""
+"0i","대구역","Daegu Station","14.5","","","ko",""
+"0j","칠성시장","Chilseong Market","15.3","","","ko101703",""
+"0k","신천","Sincheon","16.5","","","ko101705",""
+"0l","동대구역","Dongdaegu Station","17.4","","","ko104114",""
+"0m","동구청","Dong-gu Office","18.3","","","ko975901",""
+"0n","아양교","Ayanggyo","19.1","","","ko101709",""
+"0o","동촌","Dongchon","20.1","","","ko104782",""
+"0p","해안","Haean","21.1","","","ko104784",""
+"0q","방촌","Bangchon","22.1","","","ko100542",""
+"0r","용계","Yonggye","23.2","","","ko105048",""
+"0s","율하","Yulha","24.4","","","ko105049",""
+"0t","신기","Singi","25.5","","","ko77034",""
+"0u","반야월","Banyawol","26.5","","","ko105051",""
+"0v","각산","Gaksan","27.5","","","ko105053",""
+"0w","안심","Ansim","28.4","","","ko47440",""

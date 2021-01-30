@@ -1,8 +1,8 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","中正紀念堂","Chiang Kai-Shek Memorial Hall",,,,,
-"02","東門","Dongmen",,,,,
-"03","大安森林公園","Daan Park",,,,,
-"04","大安","Daan",,,,,
-"05","信義安和","Xinyi Anhe",,,,,
-"06","臺北101/世貿","Taipei 101/World Trade Center",,,,,
-"07","象山","Xiangshan",,,,,
+"01","中正紀念堂","Chiang Kai-Shek Memorial Hall","0","","","zh144536",""
+"02","東門","Dongmen","1.4","","","zh289506",""
+"03","大安森林公園","Daan Park","2","","","zh290040",""
+"04","大安","Daan","2.9","","","zh197387",""
+"05","信義安和","Xinyi Anhe","3.9","","","zh290044",""
+"06","臺北101/世貿","Taipei 101/World Trade Center","4.9","","","zh290046",""
+"07","象山","Xiangshan","5.6","","","zh290051",""

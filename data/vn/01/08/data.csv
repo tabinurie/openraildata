@@ -1,14 +1,14 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","Hà Nội","Ha Noi",,,,,
-"02","Long Biên","Long Bien",,,,,
-"03","Gia Lâm","Gia Lam",,,,,
-"04","Yên Viên","Yen Vien",,,,,
-"05","Cổ Loa","Co Loa",,,,,
-"06","Đông Anh","Dong Anh",,,,,
-"07","Đa Phúc","Da Phuc",,,,,
-"08","Trung Giã","Trung Gia",,,,,
-"09","Phổ Yên","Pho Yen",,,,,
-"0a","Lương Sơn","Luong Son",,,,,
-"0b","Lưu Xá","Luu Xa",,,,,
-"0c","Thái Nguyên","Thai Nguyen",,,,,
-"0d","Quán Triều","Quan Trieu",,,,,
+"01","Hà Nội","Ha Noi","0","","","vi45446",""
+"02","Long Biên","Long Bien","2","","","vi1242654",""
+"03","Gia Lâm","Gia Lam","5","","","vi3121666",""
+"04","Yên Viên","Yen Vien","11","","","vi13491120",""
+"05","Cổ Loa","Co Loa","18","","","vi13491127",""
+"06","Đông Anh","Dong Anh","21","","","vi13491132",""
+"07","Đa Phúc","Da Phuc","31","","","vi13497812",""
+"08","Trung Giã","Trung Gia","40","","","vi13497811",""
+"09","Phổ Yên","Pho Yen","51","","","vi13497810",""
+"0a","Lương Sơn","Luong Son","60","","","vi1326189",""
+"0b","Lưu Xá","Luu Xa","68","","","vi13497806",""
+"0c","Thái Nguyên","Thai Nguyen","74","","","vi13497804",""
+"0d","Quán Triều","Quan Trieu","75","","","vi13497805",""

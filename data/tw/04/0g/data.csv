@@ -1,15 +1,15 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","大坪林","Dapinglin",,,,,
-"02","十四張","Shisizhang",,,,,
-"03","秀朗橋","Xiulang Bridge",,,,,
-"04","景平","Jingping",,,,,
-"05","景安","Jingan",,,,,
-"06","中和","Zhonghe",,,,,
-"07","橋和","Qiaohe",,,,,
-"08","中原","Zhongyuan",,,,,
-"09","板新","Banxin",,,,,
-"0a","板橋","Banqiao",,,,,
-"0b","新埔民生","Xinpu Minsheng",,,,,
-"0c","頭前庄","Touqianzhuang",,,,,
-"0d","幸福","Xingfu",,,,,
-"0e","新北產業園區","New Taipei Industrial Park",,,,,
+"01","大坪林","Dapinglin","0","","","zh198739",""
+"02","十四張","Shisizhang","1.5","","","zh1101097",""
+"03","秀朗橋","Xiulang Bridge","2.5","","","zh1090135",""
+"04","景平","Jingping","3.2","","","zh364678",""
+"05","景安","Jingan","4.4","","","zh200522",""
+"06","中和","Zhonghe","5.9","","","zh809465",""
+"07","橋和","Qiaohe","6.7","","","zh364664",""
+"08","中原","Zhongyuan","7.4","","","zh985764",""
+"09","板新","Banxin","8.8","","","zh364675",""
+"0a","板橋","Banqiao","9.7","","","zh157412",""
+"0b","新埔民生","Xinpu Minsheng","10.6","","","zh976849",""
+"0c","頭前庄","Touqianzhuang","12.7","","","zh291894",""
+"0d","幸福","Xingfu","13.9","","","zh364209",""
+"0e","新北產業園區","New Taipei Industrial Park","15.3","","","zh291912",""

@@ -1,21 +1,21 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","녹동","Nokdong",,,,,
-"02","소태","Sotae",,,,,
-"03","학동·증심사입구","Hakdong·Jeungsimsa",,,,,
-"04","남광주","Namgwangju",,,,,
-"05","문화전당","Asian Culture Center",,,,,
-"06","금남로4가","Geumnamro 4(sa)-ga",,,,,
-"07","금남로5가","Geumnamro 5(o)-ga",,,,,
-"08","양동시장","Yangdong Market",,,,,
-"09","돌고개","Dolgogae",,,,,
-"0a","농성","Nongseong",,,,,
-"0b","화정","Hwajeong",,,,,
-"0c","쌍촌","Ssangchon",,,,,
-"0d","운천","Uncheon",,,,,
-"0e","상무","Sangmu",,,,,
-"0f","김대중컨벤션센터","Kim Daejung Convention Center",,,,,
-"0g","공항","Gwangju Airport",,,,,
-"0h","송정공원","Songjeong Park",,,,,
-"0i","광주송정역","Gwangju Songjeong Station",,,,,
-"0j","도산","Dosan",,,,,
-"0k","평동","Pyeongdong",,,,,
+"01","녹동","Nokdong","0","","","ko77167",""
+"02","소태","Sotae","1.9","","","ko77179",""
+"03","학동·증심사입구","Hakdong·Jeungsimsa","3","","","ko77180",""
+"04","남광주","Namgwangju","3.9","","","ko77181",""
+"05","문화전당","Asian Culture Center","4.8","","","ko77182",""
+"06","금남로4가","Geumnamro 4(sa)-ga","5.5","","","ko77185",""
+"07","금남로5가","Geumnamro 5(o)-ga","6.1","","","ko77186",""
+"08","양동시장","Yangdong Market","7.1","","","ko77187",""
+"09","돌고개","Dolgogae","7.7","","","ko77413",""
+"0a","농성","Nongseong","8.9","","","ko77414",""
+"0b","화정","Hwajeong","9.6","","","ko106812",""
+"0c","쌍촌","Ssangchon","10.2","","","ko77416",""
+"0d","운천","Uncheon","11.1","","","ko87023",""
+"0e","상무","Sangmu","12.2","","","ko77419",""
+"0f","김대중컨벤션센터","Kim Daejung Convention Center","12.9","","","ko188472",""
+"0g","공항","Gwangju Airport","15.8","","","ko189209",""
+"0h","송정공원","Songjeong Park","16.9","","","ko188478",""
+"0i","광주송정역","Gwangju Songjeong Station","18","","","ko",""
+"0j","도산","Dosan","18.7","","","ko188485",""
+"0k","평동","Pyeongdong","20.5","","","ko188535",""

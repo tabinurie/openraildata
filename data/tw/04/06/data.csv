@@ -1,11 +1,11 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","中正紀念堂","Chiang Kai-Shek Memorial Hall",,,,,
-"02","古亭","Guting",,,,,
-"03","台電大樓","Taipower Building",,,,,
-"04","公館","Gongguan",,,,,
-"05","萬隆","Wanlong",,,,,
-"06","景美","Jingmei",,,,,
-"07","大坪林","Dapinglin",,,,,
-"08","七張","Qizhang",,,,,
-"09","新店區公所","Xindian District Office",,,,,
-"0a","新店","Xindian",,,,,
+"01","中正紀念堂","Chiang Kai-Shek Memorial Hall","0","","","zh144536",""
+"02","古亭","Guting","1","","","zh198709",""
+"03","台電大樓","Taipower Building","2","","","zh198716",""
+"04","公館","Gongguan","3","","","zh130649",""
+"05","萬隆","Wanlong","4.4","","","zh198726",""
+"06","景美","Jingmei","5.5","","","zh198732",""
+"07","大坪林","Dapinglin","6.5","","","zh198739",""
+"08","七張","Qizhang","7.4","","","zh198748",""
+"09","新店區公所","Xindian District Office","8.2","","","zh198751",""
+"0a","新店","Xindian","9.3","","","zh198754",""

@@ -1,12 +1,12 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","桂川","Keisen",,,,,
-"02","筑前大分","Chikuzen Daibu",,,,,
-"03","九郎原","Kurobaru",,,,,
-"04","城戸南蔵院前","Kido Nanzoin-mae",,,,,
-"05","筑前山手","Chikuzen Yamate",,,,,
-"06","篠栗","Sasaguri",,,,,
-"07","門松","Kadomatsu",,,,,
-"08","長者原","Chojabaru",,,,,
-"09","原町","Harumachi",,,,,
-"0a","柚須","Yusu",,,,,
-"0b","吉塚","Yoshizuka",,,,,
+"01","桂川","Keisen","0","","","ja64248",""
+"02","筑前大分","Chikuzen Daibu","3.2","","","ja86012",""
+"03","九郎原","Kurobaru","5.2","","","ja86045",""
+"04","城戸南蔵院前","Kido Nanzoin-mae","10.2","","","ja86046",""
+"05","筑前山手","Chikuzen Yamate","11.7","","","ja86047",""
+"06","篠栗","Sasaguri","14.8","","","ja86048",""
+"07","門松","Kadomatsu","17.4","","","ja86049",""
+"08","長者原","Chojabaru","19.4","","","ja84753",""
+"09","原町","Harumachi","20.1","","","ja85988",""
+"0a","柚須","Yusu","22.6","","","ja85442",""
+"0b","吉塚","Yoshizuka","25.1","","","ja70580",""

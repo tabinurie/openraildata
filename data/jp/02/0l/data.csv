@@ -1,8 +1,8 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","拝島","Haijima",,,,,
-"02","熊川","Kumagawa",,,,,
-"03","東秋留","Higashi-Akiru",,,,,
-"04","秋川","Akigawa",,,,,
-"05","武蔵引田","Musashi-Hikida",,,,,
-"06","武蔵増戸","Musashi-Masuko",,,,,
-"07","武蔵五日市","Musashi-Itsukaichi",,,,,
+"01","拝島","Haijima","0","","","ja43833",""
+"02","熊川","Kumagawa","1.1","","","ja98297",""
+"03","東秋留","Higashi-Akiru","3.5","","","ja96706",""
+"04","秋川","Akigawa","5.7","","","ja98286",""
+"05","武蔵引田","Musashi-Hikida","7.2","","","ja98290",""
+"06","武蔵増戸","Musashi-Masuko","8.5","","","ja98291",""
+"07","武蔵五日市","Musashi-Itsukaichi","11.1","","","ja98293",""

@@ -1,14 +1,14 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","南港展覽館","Taipei Nangang Exhibition Center",,,,,
-"02","南港軟體園區","Nangang Software Park",,,,,
-"03","東湖","Donghu",,,,,
-"04","葫洲","Huzhou",,,,,
-"05","大湖公園","Dahu Park",,,,,
-"06","內湖","Neihu",,,,,
-"07","文德","Wende",,,,,
-"08","港墘","Gangqian",,,,,
-"09","西湖","Xihu",,,,,
-"0a","劍南路","Jiannan Road",,,,,
-"0b","大直","Dazhi",,,,,
-"0c","松山機場","Songshan Airport",,,,,
-"0d","中山國中","Zhongshan Junior High School",,,,,
+"01","南港展覽館","Taipei Nangang Exhibition Center","0","","","zh293482",""
+"02","南港軟體園區","Nangang Software Park","0.7","","","zh304987",""
+"03","東湖","Donghu","1.7","","","zh749928",""
+"04","葫洲","Huzhou","2.5","","","zh304985",""
+"05","大湖公園","Dahu Park","4.2","","","zh304982",""
+"06","內湖","Neihu","5.1","","","zh304977",""
+"07","文德","Wende","6.2","","","zh304974",""
+"08","港墘","Gangqian","7.3","","","zh304972",""
+"09","西湖","Xihu","8.1","","","zh5982357",""
+"0a","劍南路","Jiannan Road","9.3","","","zh295777",""
+"0b","大直","Dazhi","10.6","","","zh304966",""
+"0c","松山機場","Songshan Airport","13.1","","","zh304962",""
+"0d","中山國中","Zhongshan Junior High School","14.2","","","zh144755",""

@@ -1,22 +1,22 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","臺北車站","Taipei Main Station",,,,,
-"02","三重","Sanchong",,,,,
-"03","新北產業園區","New Taipei Industrial Park",,,,,
-"04","新莊副都心","Xinzhuang Fuduxin",,,,,
-"05","泰山","Taishan",,,,,
-"06","泰山貴和","Taishan Guihe",,,,,
-"07","體育大學","National Taiwan Sport University",,,,,
-"08","長庚醫院","Chang Gung Memorial Hospital",,,,,
-"09","林口","Linkou",,,,,
-"0a","山鼻","Shanbi",,,,,
-"0b","坑口","Kengkou",,,,,
-"0c","機場第一航廈","Airport Terminal 1",,,,,
-"0d","機場第二航廈","Airport Terminal 2",,,,,
-"0e","機場旅館","Airport Hotel",,,,,
-"0f","大園","Dayuan",,,,,
-"0g","橫山","Hengshan",,,,,
-"0h","領航","Linghang",,,,,
-"0i","高鐵桃園","Taoyuan HSR",,,,,
-"0j","桃園體育園區","Taoyuan Sports Park",,,,,
-"0k","興南","Xingnan",,,,,
-"0l","環北","Huanbei",,,,,
+"01","臺北車站","Taipei Main Station","0","","","zh4138653",""
+"02","三重","Sanchong","4.13","","","zh293476",""
+"03","新北產業園區","New Taipei Industrial Park","7.63","","","zh291912",""
+"04","新莊副都心","Xinzhuang Fuduxin","9","","","zh659437",""
+"05","泰山","Taishan","9.93","","","zh659441",""
+"06","泰山貴和","Taishan Guihe","12.73","","","zh930044",""
+"07","體育大學","National Taiwan Sport University","17.29","","","zh659446",""
+"08","長庚醫院","Chang Gung Memorial Hospital","20.04","","","zh660553",""
+"09","林口","Linkou","21.25","","","zh660554",""
+"0a","山鼻","Shanbi","29.64","","","zh660556",""
+"0b","坑口","Kengkou","31.61","","","zh660559",""
+"0c","機場第一航廈","Airport Terminal 1","34.78","","","zh660561",""
+"0d","機場第二航廈","Airport Terminal 2","35.8","","","zh660564",""
+"0e","機場旅館","Airport Hotel","37.14","","","zh941175",""
+"0f","大園","Dayuan","39.11","","","zh793241",""
+"0g","橫山","Hengshan","41.36","","","zh887288",""
+"0h","領航","Linghang","42.94","","","zh887461",""
+"0i","高鐵桃園","Taoyuan HSR","44.55","","","zh5575294",""
+"0j","桃園體育園區","Taoyuan Sports Park","46.29","","","zh887462",""
+"0k","興南","Xingnan","49.24","","","zh887463",""
+"0l","環北","Huanbei","50.79","","","zh887464",""

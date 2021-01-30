@@ -1,15 +1,15 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","서울","Seoul",,,,,
-"02","공덕","Gongdeok",,,,,
-"03","홍대입구","Hongik Univ.",,,,,
-"04","디지털미디어시티","Digital Media City",,,,,
-"05","마곡나루","Magongnaru",,,,,
-"06","김포공항","Gimpo Intl Airport",,,,,
-"07","계양","Gyeyang",,,,,
-"08","검암","Geomam",,,,,
-"09","청라국제도시","Cheongna Int'l City",,,,,
-"0a","영종","Yeongjong",,,,,
-"0b","운서","Unseo",,,,,
-"0c","공항화물청사","Incheon Int'l Airport Cargo Terminal",,,,,
-"0d","인천공항1터미널","Incheon Int'l Airport Terminal 1",,,,,
-"0e","인천공항2터미널","Incheon Int'l Airport Terminal 2",,,,,
+"01","서울","Seoul","0","","","ko75408",""
+"02","공덕","Gongdeok","3.3","","","ko15105",""
+"03","홍대입구","Hongik Univ.","6.1","","","ko15902",""
+"04","디지털미디어시티","Digital Media City","9.5","","","ko19762",""
+"05","마곡나루","Magongnaru","18.1","","","ko247518",""
+"06","김포공항","Gimpo Intl Airport","20.4","","","ko15757",""
+"07","계양","Gyeyang","27","","","ko21027",""
+"08","검암","Geomam","32.5","","","ko101201",""
+"09","청라국제도시","Cheongna Int'l City","37.3","","","ko975883",""
+"0a","영종","Yeongjong","47.6","","","ko1008258",""
+"0b","운서","Unseo","51.1","","","ko101203",""
+"0c","공항화물청사","Incheon Int'l Airport Cargo Terminal","55.4","","","ko101206",""
+"0d","인천공항1터미널","Incheon Int'l Airport Terminal 1","58","","","ko101207",""
+"0e","인천공항2터미널","Incheon Int'l Airport Terminal 2","63.8","","","ko1798540",""

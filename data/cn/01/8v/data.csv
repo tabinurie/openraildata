@@ -1,8 +1,8 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","郫县西","Pixian West",,,,,
-"02","新民场","Xinmingchang",,,,,
-"03","三道堰","Sandaoyan",,,,,
-"04","马街","Majie",,,,,
-"05","彭州南","Pengzhou South",,,,,
-"06","步行街","Buxingjie",,,,,
-"07","彭州","Pengzhou",,,,,
+"01","郫县西","Pixian West","0","","","",""
+"02","新民场","Xinmingchang","5","","","",""
+"03","三道堰","Sandaoyan","8","","","",""
+"04","马街","Majie","11","","","",""
+"05","彭州南","Pengzhou South","16","","","",""
+"06","步行街","Buxingjie","18","","","",""
+"07","彭州","Pengzhou","21","","","",""

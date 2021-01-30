@@ -1,16 +1,16 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","기흥","Giheung",,,,,
-"02","강남대","Kangnam University",,,,,
-"03","지석","Jiseok",,,,,
-"04","어정","Eojong",,,,,
-"05","동백","Dongbaek",,,,,
-"06","초당","Chodang",,,,,
-"07","삼가","Samga",,,,,
-"08","시청·용인대","City Hall·Yongin University",,,,,
-"09","명지대","Myeongji University",,,,,
-"0a","김량장","Gimnyangjang",,,,,
-"0b","운동장·송담대","Stadium·Songdam College",,,,,
-"0c","고진","Gojin",,,,,
-"0d","보평","Bopyeong",,,,,
-"0e","둔전","Dunjeon",,,,,
-"0f","전대·에버랜드","Jeondae·Everland",,,,,
+"01","기흥","Giheung","0","","","ko622844",""
+"02","강남대","Kangnam University","1.044","","","ko536513",""
+"03","지석","Jiseok","2.106","","","ko536515",""
+"04","어정","Eojong","3.024","","","ko621815",""
+"05","동백","Dongbaek","4.209","","","ko271274",""
+"06","초당","Chodang","5.306","","","ko536517",""
+"07","삼가","Samga","7.897","","","ko621341",""
+"08","시청·용인대","City Hall·Yongin University","8.942","","","ko746864",""
+"09","명지대","Myeongji University","9.976","","","ko621591",""
+"0a","김량장","Gimnyangjang","10.731","","","ko621592",""
+"0b","운동장·송담대","Stadium·Songdam College","11.676","","","ko621594",""
+"0c","고진","Gojin","12.611","","","ko621596",""
+"0d","보평","Bopyeong","14.361","","","ko621598",""
+"0e","둔전","Dunjeon","15.388","","","ko734371",""
+"0f","전대·에버랜드","Jeondae·Everland","18.014","","","ko621602",""

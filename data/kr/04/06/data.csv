@@ -1,27 +1,27 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","당고개","Danggogae",,,,,
-"02","상계","Sanggye",,,,,
-"03","노원","Nowon",,,,,
-"04","창동","Chang-dong",,,,,
-"05","쌍문","Ssangmun",,,,,
-"06","수유","Suyu",,,,,
-"07","미아","Mia",,,,,
-"08","미아사거리","Miasageori",,,,,
-"09","길음","Gireum",,,,,
-"0a","성신여대입구","Sungshin Women's Univ.",,,,,
-"0b","한성대입구","Hansung Univ.",,,,,
-"0c","혜화","Hyehwa",,,,,
-"0d","동대문","Dongdaemun",,,,,
-"0e","동대문역사문화공원","Dongdaemun History & Culture Park",,,,,
-"0f","충무로","Chungmuro",,,,,
-"0g","명동","Myeong-dong",,,,,
-"0h","회현","Hoehyeon",,,,,
-"0i","서울역","Seoul Station",,,,,
-"0j","숙대입구","Sookmyung Women's Univ.",,,,,
-"0k","삼각지","Samgakji",,,,,
-"0l","신용산","Sinyongsan",,,,,
-"0m","이촌","Ichon",,,,,
-"0n","동작","Dongjak",,,,,
-"0o","총신대입구","Chongsin Univ.",,,,,
-"0p","사당","Sadang",,,,,
-"0q","남태령","Namtaeryeong",,,,,
+"01","당고개","Danggogae","0","","","ko20559",""
+"02","상계","Sanggye","1.2","","","ko19755",""
+"03","노원","Nowon","2.2","","","ko15989",""
+"04","창동","Chang-dong","3.6","","","ko15992",""
+"05","쌍문","Ssangmun","4.9","","","ko19757",""
+"06","수유","Suyu","6.4","","","ko19758",""
+"07","미아","Mia","7.8","","","ko20561",""
+"08","미아사거리","Miasageori","9.3","","","ko20562",""
+"09","길음","Gireum","10.6","","","ko19760",""
+"0a","성신여대입구","Sungshin Women's Univ.","12","","","ko19897",""
+"0b","한성대입구","Hansung Univ.","13","","","ko20560",""
+"0c","혜화","Hyehwa","13.9","","","ko15988",""
+"0d","동대문","Dongdaemun","15.4","","","ko15938",""
+"0e","동대문역사문화공원","Dongdaemun History & Culture Park","16.1","","","ko15068",""
+"0f","충무로","Chungmuro","17.4","","","ko15087",""
+"0g","명동","Myeong-dong","18.1","","","ko15086",""
+"0h","회현","Hoehyeon","18.8","","","ko15089",""
+"0i","서울역","Seoul Station","19.7","","","ko1461824",""
+"0j","숙대입구","Sookmyung Women's Univ.","20.7","","","ko15160",""
+"0k","삼각지","Samgakji","21.9","","","ko15107",""
+"0l","신용산","Sinyongsan","22.6","","","ko15159",""
+"0m","이촌","Ichon","23.9","","","ko15987",""
+"0n","동작","Dongjak","26.6","","","ko15161",""
+"0o","총신대입구","Chongsin Univ.","28.4","","","ko45495",""
+"0p","사당","Sadang","29.5","","","ko15151",""
+"0q","남태령","Namtaeryeong","31.1","","","ko15894",""

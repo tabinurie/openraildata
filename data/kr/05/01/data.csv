@@ -1,39 +1,39 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","개화","Gaehwa",,,,,
-"02","김포공항","Gimpo Int'l Airport",,,,,
-"03","공항시장","Airport Market",,,,,
-"04","신방화","Sinbanghwa",,,,,
-"05","마곡나루","Magongnaru",,,,,
-"06","양천향교","Yangcheon Hyanggyo",,,,,
-"07","가양","Gayang",,,,,
-"08","증미","Jeungmi",,,,,
-"09","등촌","Deungchon",,,,,
-"0a","염창","Yeomchang",,,,,
-"0b","신목동","Sinmokdong",,,,,
-"0c","선유도","Seonyudo",,,,,
-"0d","당산","Dangsan",,,,,
-"0e","국회의사당","National Assembly",,,,,
-"0f","여의도","Yeouido",,,,,
-"0g","샛강","Saetgang",,,,,
-"0h","노량진","Noryangjin",,,,,
-"0i","노들","Nodeul",,,,,
-"0j","흑석","Heukseok",,,,,
-"0k","동작","Dongjak",,,,,
-"0l","구반포","Gubanpo",,,,,
-"0m","신반포","Sinbanpo",,,,,
-"0n","고속터미널","Express Bus Terminal",,,,,
-"0o","사평","Sapyeong",,,,,
-"0p","신논현","Sinnonhyeon",,,,,
-"0q","언주","Eonju",,,,,
-"0r","선정릉","Seonjeongneung",,,,,
-"0s","삼성중앙","Samseongjungang",,,,,
-"0t","봉은사","Bongeunsa",,,,,
-"0u","종합운동장","Sports Complex",,,,,
-"0v","삼전","Samjeon",,,,,
-"0w","석촌고분","Seokchon Gobun",,,,,
-"0x","석촌","Seokchon",,,,,
-"0y","송파나루","Songpanaru",,,,,
-"0z","한성백제","Hanseong Baekje",,,,,
-"10","올림픽공원","Olympic Park",,,,,
-"11","둔촌오륜","Dunchon Oryun",,,,,
-"12","중앙보훈병원","VHS Medical Center",,,,,
+"01","개화","Gaehwa","0","","","ko247510",""
+"02","김포공항","Gimpo Int'l Airport","3.6","","","ko15757",""
+"03","공항시장","Airport Market","4.4","","","ko247516",""
+"04","신방화","Sinbanghwa","5.2","","","ko247517",""
+"05","마곡나루","Magongnaru","6.1","","","ko247518",""
+"06","양천향교","Yangcheon Hyanggyo","7.5","","","ko247520",""
+"07","가양","Gayang","8.8","","","ko247521",""
+"08","증미","Jeungmi","9.5","","","ko247522",""
+"09","등촌","Deungchon","10.5","","","ko247523",""
+"0a","염창","Yeomchang","11.4","","","ko247524",""
+"0b","신목동","Sinmokdong","12.3","","","ko247526",""
+"0c","선유도","Seonyudo","13.5","","","ko247527",""
+"0d","당산","Dangsan","14.5","","","ko15109",""
+"0e","국회의사당","National Assembly","16","","","ko247530",""
+"0f","여의도","Yeouido","16.9","","","ko15158",""
+"0g","샛강","Saetgang","17.7","","","ko247532",""
+"0h","노량진","Noryangjin","18.9","","","ko20938",""
+"0i","노들","Nodeul","20","","","ko247533",""
+"0j","흑석","Heukseok","21.1","","","ko246880",""
+"0k","동작","Dongjak","22.5","","","ko15161",""
+"0l","구반포","Gubanpo","23.5","","","ko247534",""
+"0m","신반포","Sinbanpo","24.2","","","ko247535",""
+"0n","고속터미널","Express Bus Terminal","25","","","ko15114",""
+"0o","사평","Sapyeong","26.1","","","ko247536",""
+"0p","신논현","Sinnonhyeon","27","","","ko247537",""
+"0q","언주","Eonju","27.8","","","ko1111289",""
+"0r","선정릉","Seonjeongneung","28.7","","","ko627213",""
+"0s","삼성중앙","Samseongjungang","29.5","","","ko1111290",""
+"0t","봉은사","Bongeunsa","30.3","","","ko1111291",""
+"0u","종합운동장","Sports Complex","31.7","","","ko82568",""
+"0v","삼전","Samjeon","33.1","","","ko1959688",""
+"0w","석촌고분","Seokchon Gobun","33.9","","","ko1959693",""
+"0x","석촌","Seokchon","34.9","","","ko19784",""
+"0y","송파나루","Songpanaru","35.7","","","ko1959695",""
+"0z","한성백제","Hanseong Baekje","36.5","","","ko1959697",""
+"10","올림픽공원","Olympic Park","37.9","","","ko19650",""
+"11","둔촌오륜","Dunchon Oryun","38.9","","","ko1959699",""
+"12","중앙보훈병원","VHS Medical Center","40.6","","","ko1959700",""

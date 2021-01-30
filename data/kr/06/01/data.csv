@@ -1,14 +1,14 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","북한산우이","Bukhansan Ui",,,,,
-"02","솔밭공원","Solbat Park",,,,,
-"03","4.19민주묘지","April 19th National Cemetery",,,,,
-"04","가오리","Gaori",,,,,
-"05","화계","Hwagye",,,,,
-"06","삼양","Samyang",,,,,
-"07","삼양사거리","Samyangsageori",,,,,
-"08","솔샘","Solsaem",,,,,
-"09","북한산보국문","Bukhansan Bogungmun",,,,,
-"0a","정릉","Jeongneung",,,,,
-"0b","성신여대입구","Sungshin Women's Univ.",,,,,
-"0c","보문","Bomun",,,,,
-"0d","신설동","Sinseol-dong",,,,,
+"01","북한산우이","Bukhansan Ui","0","","","ko1737448",""
+"02","솔밭공원","Solbat Park","0.8","","","ko1737449",""
+"03","4.19민주묘지","April 19th National Cemetery","1.5","","","ko1737457",""
+"04","가오리","Gaori","2.4","","","ko1737461",""
+"05","화계","Hwagye","3.2","","","ko1737463",""
+"06","삼양","Samyang","4","","","ko1737492",""
+"07","삼양사거리","Samyangsageori","4.7","","","ko1737494",""
+"08","솔샘","Solsaem","5.5","","","ko1737504",""
+"09","북한산보국문","Bukhansan Bogungmun","6.7","","","ko1737515",""
+"0a","정릉","Jeongneung","7.9","","","ko1737518",""
+"0b","성신여대입구","Sungshin Women's Univ.","9.1","","","ko19897",""
+"0c","보문","Bomun","10","","","ko20050",""
+"0d","신설동","Sinseol-dong","11","","","ko19697",""

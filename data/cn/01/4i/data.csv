@@ -1,11 +1,11 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","长江埠","Changjiangbu",,,,,
-"02","应城东","Yingcheng East",,,,,
-"03","应城","Yingcheng",,,,,
-"04","天门","Tianmen",,,,,
-"05","京山","Jingshan",,,,,
-"06","官桥","Guanqiao",,,,,
-"07","东桥","Dongqiao",,,,,
-"08","钟祥","Zhongxiang",,,,,
-"09","冷水镇","Lengshuizhen",,,,,
-"0a","荆门","Jingmen",,,,,
+"01","长江埠","Changjiangbu","0","","","",""
+"02","应城东","Yingcheng East","0","","","",""
+"03","应城","Yingcheng","18","","","",""
+"04","天门","Tianmen","44","","","",""
+"05","京山","Jingshan","71","","","",""
+"06","官桥","Guanqiao","0","","","",""
+"07","东桥","Dongqiao","0","","","",""
+"08","钟祥","Zhongxiang","127","","","",""
+"09","冷水镇","Lengshuizhen","0","","","",""
+"0a","荆门","Jingmen","176","","","",""

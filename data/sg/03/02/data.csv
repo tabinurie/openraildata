@@ -1,35 +1,35 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","Bukit Panjang","Bukit Panjang",,,,,
-"02","Cashew","Cashew",,,,,
-"03","Hillview","Hillview",,,,,
-"04","Beauty World","Beauty World",,,,,
-"05","King Albert Park","King Albert Park",,,,,
-"06","Sixth Avenue","Sixth Avenue",,,,,
-"07","Tan Kah Kee","Tan Kah Kee",,,,,
-"08","Botanic Gardens","Botanic Gardens",,,,,
-"09","Stevens","Stevens",,,,,
-"0a","Newton","Newton",,,,,
-"0b","Little India","Little India",,,,,
-"0c","Rochor","Rochor",,,,,
-"0d","Bugis","Bugis",,,,,
-"0e","Promenade","Promenade",,,,,
-"0f","Bayfront","Bayfront",,,,,
-"0g","Downtown","Downtown",,,,,
-"0h","Telok Ayer","Telok Ayer",,,,,
-"0i","Chinatown","Chinatown",,,,,
-"0j","Fort Canning","Fort Canning",,,,,
-"0k","Bencoolen","Bencoolen",,,,,
-"0l","Jalan Besar","Jalan Besar",,,,,
-"0m","Bendemeer","Bendemeer",,,,,
-"0n","Geylang Bahru","Geylang Bahru",,,,,
-"0o","Mattar","Mattar",,,,,
-"0p","MacPherson","MacPherson",,,,,
-"0q","Ubi","Ubi",,,,,
-"0r","Kaki Bukit","Kaki Bukit",,,,,
-"0s","Bedok North","Bedok North",,,,,
-"0t","Bedok Reservoir","Bedok Reservoir",,,,,
-"0u","Tampines West","Tampines West",,,,,
-"0v","Tampines","Tampines",,,,,
-"0w","Tampines East","Tampines East",,,,,
-"0x","Upper Changi","Upper Changi",,,,,
-"0y","Expo","Expo",,,,,
+"01","Bukit Panjang","Bukit Panjang","","","","en18451668",""
+"02","Cashew","Cashew","","","","en18448303",""
+"03","Hillview","Hillview","","","","en18448273",""
+"04","Beauty World","Beauty World","","","","en18448234",""
+"05","King Albert Park","King Albert Park","","","","en18448199",""
+"06","Sixth Avenue","Sixth Avenue","","","","en18448174",""
+"07","Tan Kah Kee","Tan Kah Kee","","","","en18448136",""
+"08","Botanic Gardens","Botanic Gardens","","","","en2106686",""
+"09","Stevens","Stevens","","","","en18448066",""
+"0a","Newton","Newton","","","","en2050805",""
+"0b","Little India","Little India","","","","en1159128",""
+"0c","Rochor","Rochor","","","","en18447900",""
+"0d","Bugis","Bugis","","","","en2232720",""
+"0e","Promenade","Promenade","","","","en2106729",""
+"0f","Bayfront","Bayfront","","","","en2297920",""
+"0g","Downtown","Downtown","","","","en2297928",""
+"0h","Telok Ayer","Telok Ayer","","","","en2297942",""
+"0i","Chinatown","Chinatown","","","","en1159123",""
+"0j","Fort Canning","Fort Canning","","","","en28464613",""
+"0k","Bencoolen","Bencoolen","","","","en28464647",""
+"0l","Jalan Besar","Jalan Besar","","","","en32798980",""
+"0m","Bendemeer","Bendemeer","","","","en28464731",""
+"0n","Geylang Bahru","Geylang Bahru","","","","en28464770",""
+"0o","Mattar","Mattar","","","","en28464795",""
+"0p","MacPherson","MacPherson","","","","en2106678",""
+"0q","Ubi","Ubi","","","","en28464827",""
+"0r","Kaki Bukit","Kaki Bukit","","","","en28464886",""
+"0s","Bedok North","Bedok North","","","","en28465011",""
+"0t","Bedok Reservoir","Bedok Reservoir","","","","en28465009",""
+"0u","Tampines West","Tampines West","","","","en28465008",""
+"0v","Tampines","Tampines","","","","en1822097",""
+"0w","Tampines East","Tampines East","","","","en28465006",""
+"0x","Upper Changi","Upper Changi","","","","en28465004",""
+"0y","Expo","Expo","","","","en1846348",""

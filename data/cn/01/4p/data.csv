@@ -1,12 +1,12 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","汉口","Hankou",,,,,
-"02","后湖","Houhu",,,,,
-"03","金银潭","Jinyintan",,,,,
-"04","盘龙城","Panlongcheng",,,,,
-"05","天河机场","Tianhe Airport",,,,,
-"06","天河街","Tianhejie",,,,,
-"07","闵集","Minji",,,,,
-"08","毛陈","Maochen",,,,,
-"09","槐荫","Huaiyin",,,,,
-"0a","孝感东","Xiaogan East",,,,,
-"0b","云梦东","Yunmeng East",,,,,
+"01","汉口","Hankou","0","","","",""
+"02","后湖","Houhu","3","","","",""
+"03","金银潭","Jinyintan","6","","","",""
+"04","盘龙城","Panlongcheng","14","","","",""
+"05","天河机场","Tianhe Airport","21","","","",""
+"06","天河街","Tianhejie","29","","","",""
+"07","闵集","Minji","36","","","",""
+"08","毛陈","Maochen","52","","","",""
+"09","槐荫","Huaiyin","57","","","",""
+"0a","孝感东","Xiaogan East","61","","","",""
+"0b","云梦东","Yunmeng East","83","","","",""

@@ -1,26 +1,26 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","合肥北城","Hefei Beicheng",,,,,
-"02","合肥西","Heifei West",,,,,
-"03","合肥南","Hefei South",,,,,
-"04","长临河","Changlinhe",,,,,
-"05","巢湖东","Chaohu East",,,,,
-"06","无为","Wuwei",,,,,
-"07","铜陵北","Tongling North",,,,,
-"08","南陵","Nanling",,,,,
-"09","泾县","Jingxian",,,,,
-"0a","旌德","Jingde",,,,,
-"0b","绩溪北","Jixi North",,,,,
-"0c","歙县北","Shexian North",,,,,
-"0d","黄山北","Huangshan North",,,,,
-"0e","婺源","Wuyuan",,,,,
-"0f","德兴","Dexing",,,,,
-"0g","上饶","Shangrao",,,,,
-"0h","五府山","Wufushan",,,,,
-"0i","武夷山北","Wuyishan North",,,,,
-"0j","南平市","Nanpingshi",,,,,
-"0k","建瓯西","Jian'ou West",,,,,
-"0l","红星所","Hongxing Signal Base",,,,,
-"0m","延平","Yanping",,,,,
-"0n","古田北","Gutian North",,,,,
-"0o","闽清北","Minqing North",,,,,
-"0p","福州","Fuzhou",,,,,
+"01","合肥北城","Hefei Beicheng","0","","","",""
+"02","合肥西","Heifei West","29","","","",""
+"03","合肥南","Hefei South","42","","","",""
+"04","长临河","Changlinhe","66","","","",""
+"05","巢湖东","Chaohu East","112","","","",""
+"06","无为","Wuwei","147","","","",""
+"07","铜陵北","Tongling North","181","","","",""
+"08","南陵","Nanling","215","","","",""
+"09","泾县","Jingxian","236","","","",""
+"0a","旌德","Jingde","279","","","",""
+"0b","绩溪北","Jixi North","307","","","",""
+"0c","歙县北","Shexian North","330","","","",""
+"0d","黄山北","Huangshan North","348","","","",""
+"0e","婺源","Wuyuan","424","","","",""
+"0f","德兴","Dexing","455","","","",""
+"0g","上饶","Shangrao","510","","","",""
+"0h","五府山","Wufushan","540","","","",""
+"0i","武夷山北","Wuyishan North","590","","","",""
+"0j","南平市","Nanpingshi","625","","","",""
+"0k","建瓯西","Jian'ou West","676","","","",""
+"0l","红星所","Hongxing Signal Base","722","","","",""
+"0m","延平","Yanping","729","","","",""
+"0n","古田北","Gutian North","771","","","",""
+"0o","闽清北","Minqing North","800","","","",""
+"0p","福州","Fuzhou","850","","","",""

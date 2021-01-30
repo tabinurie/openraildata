@@ -1,13 +1,13 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","济南东","Jinan East",,,,,
-"02","章丘北","Zhangqiu North",,,,,
-"03","邹平","Zouping",,,,,
-"04","淄博北","Zibo North",,,,,
-"05","临淄北","Linzi North",,,,,
-"06","青州市北","Qingzhoushi North",,,,,
-"07","潍坊北","Weifang North",,,,,
-"08","高密北","Gaomi North",,,,,
-"09","胶州北","Jiaozhou North",,,,,
-"0a","青岛机场","Qingdao Airport",,,,,
-"0b","疃村所","Tuancun Signal Base",,,,,
-"0c","红岛","Hongdao",,,,,
+"01","济南东","Jinan East","0","","","",""
+"02","章丘北","Zhangqiu North","30","","","",""
+"03","邹平","Zouping","54","","","",""
+"04","淄博北","Zibo North","82","","","",""
+"05","临淄北","Linzi North","112","","","",""
+"06","青州市北","Qingzhoushi North","135","","","",""
+"07","潍坊北","Weifang North","190","","","",""
+"08","高密北","Gaomi North","253","","","",""
+"09","胶州北","Jiaozhou North","281","","","",""
+"0a","青岛机场","Qingdao Airport","287","","","",""
+"0b","疃村所","Tuancun Signal Base","300","","","",""
+"0c","红岛","Hongdao","305","","","",""

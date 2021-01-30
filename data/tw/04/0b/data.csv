@@ -1,18 +1,18 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","迴龍","Huilong",,,,,
-"02","丹鳳","Danfeng",,,,,
-"03","輔大","Fu Jen University",,,,,
-"04","新莊","Xinzhuang",,,,,
-"05","頭前庄","Touqianzhuang",,,,,
-"06","先嗇宮","Xianse Temple",,,,,
-"07","三重","Sanchong",,,,,
-"08","菜寮","Cailiao",,,,,
-"09","台北橋","Taipei Bridge",,,,,
-"0a","大橋頭","Daqiaotou",,,,,
-"0b","民權西路","Minquan West Road",,,,,
-"0c","中山國小","Zhongshan Elementary School",,,,,
-"0d","行天宮","Xingtian Temple",,,,,
-"0e","松江南京","Songjiang Nanjing",,,,,
-"0f","忠孝新生","Zhongxiao Xinsheng",,,,,
-"0g","東門","Dongmen",,,,,
-"0h","古亭","Guting",,,,,
+"01","迴龍","Huilong","0","","","zh306675",""
+"02","丹鳳","Danfeng","1.4","","","zh804639",""
+"03","輔大","Fu Jen University","2.8","","","zh306670",""
+"04","新莊","Xinzhuang","4.6","","","zh306668",""
+"05","頭前庄","Touqianzhuang","5.6","","","zh291894",""
+"06","先嗇宮","Xianse Temple","6.9","","","zh306008",""
+"07","三重","Sanchong","8.7","","","zh293476",""
+"08","菜寮","Cailiao","9.7","","","zh306007",""
+"09","台北橋","Taipei Bridge","10.6","","","zh306005",""
+"0a","大橋頭","Daqiaotou","11.9","","","zh291879",""
+"0b","民權西路","Minquan West Road","12.5","","","zh199341",""
+"0c","中山國小","Zhongshan Elementary School","13.2","","","zh305998",""
+"0d","行天宮","Xingtian Temple","14.2","","","zh256833",""
+"0e","松江南京","Songjiang Nanjing","15","","","zh290428",""
+"0f","忠孝新生","Zhongxiao Xinsheng","16.2","","","zh166729",""
+"0g","東門","Dongmen","17.5","","","zh289506",""
+"0h","古亭","Guting","19","","","zh198709",""

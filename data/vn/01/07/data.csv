@@ -1,25 +1,25 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","Hà Nội","Ha Noi",,,,,
-"02","Long Biên","Long Bien",,,,,
-"03","Gia Lâm","Gia Lam",,,,,
-"04","Yên Viên","Yen Vien",,,,,
-"05","Từ Sơn","Tu Son",,,,,
-"06","Lim","Lim",,,,,
-"07","Bắc Ninh","Bac Ninh",,,,,
-"08","Thị Cầu","Thi Cau",,,,,
-"09","Sen Hồ","Sen Ho",,,,,
-"0a","Bắc Giang","Bac Giang",,,,,
-"0b","Phố Tráng","Pho Trang",,,,,
-"0c","Kép","Kep",,,,,
-"0d","Voi Xô","Voi Xo",,,,,
-"0e","Phố Vị","Pho Vi",,,,,
-"0f","Bắc Lệ","Bac Le",,,,,
-"0g","Sông Hòa","Song Hoa",,,,,
-"0h","Chi Lăng","Chi Lang",,,,,
-"0i","Đồng Mỏ","Dong Mo",,,,,
-"0j","Bắc Thủy","Bac Thuy",,,,,
-"0k","Bản Thí","Ban Thi",,,,,
-"0l","Yên Trạch","Yen Trach",,,,,
-"0m","Lạng Sơn","Lang Son",,,,,
-"0n","Đồng Đăng","Dong Dang",,,,,
-"0o","Biên giới (Trung Quốc)","Border(China)",,,,,
+"01","Hà Nội","Ha Noi","0","","","vi45446",""
+"02","Long Biên","Long Bien","2","","","vi1242654",""
+"03","Gia Lâm","Gia Lam","5","","","vi3121666",""
+"04","Yên Viên","Yen Vien","11","","","vi13491120",""
+"05","Từ Sơn","Tu Son","17","","","vi13497722",""
+"06","Lim","Lim","24","","","vi13497720",""
+"07","Bắc Ninh","Bac Ninh","29","","","vi2260061",""
+"08","Thị Cầu","Thi Cau","32","","","vi13497729",""
+"09","Sen Hồ","Sen Ho","39","","","vi13497735",""
+"0a","Bắc Giang","Bac Giang","49","","","vi13491074",""
+"0b","Phố Tráng","Pho Trang","59","","","vi13497746",""
+"0c","Kép","Kep","69","","","vi308430",""
+"0d","Voi Xô","Voi Xo","75","","","vi13497787",""
+"0e","Phố Vị","Pho Vi","81","","","vi13497786",""
+"0f","Bắc Lệ","Bac Le","89","","","vi13497785",""
+"0g","Sông Hòa","Song Hoa","99","","","vi13497778",""
+"0h","Chi Lăng","Chi Lang","106","","","vi13497756",""
+"0i","Đồng Mỏ","Dong Mo","113","","","vi13497781",""
+"0j","Bắc Thủy","Bac Thuy","125","","","vi13497783",""
+"0k","Bản Thí","Ban Thi","135","","","vi13497784",""
+"0l","Yên Trạch","Yen Trach","143","","","vi13497776",""
+"0m","Lạng Sơn","Lang Son","149","","","vi13491086",""
+"0n","Đồng Đăng","Dong Dang","162","","","vi1444373",""
+"0o","Biên giới (Trung Quốc)","Border(China)","0","","","",""

@@ -1,7 +1,7 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","강남","Gangnam",,,,,
-"02","양재","Yangjae",,,,,
-"03","양재시민의숲","Yangjae Citizen's Forest",,,,,
-"04","청계산입구","Cheonggyesan",,,,,
-"05","판교","Pangyo",,,,,
-"06","정자","Jeongja",,,,,
+"01","강남","Gangnam","0","","","ko15826",""
+"02","양재","Yangjae","1.5","","","ko20717",""
+"03","양재시민의숲","Yangjae Citizen's Forest","3.1","","","ko668137",""
+"04","청계산입구","Cheonggyesan","6","","","ko668139",""
+"05","판교","Pangyo","14.2","","","ko692469",""
+"06","정자","Jeongja","17.3","","","ko20920",""

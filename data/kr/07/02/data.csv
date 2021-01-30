@@ -1,28 +1,28 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","검단오류","Geomdan Oryu",,,,,
-"02","왕길","Wanggil",,,,,
-"03","검단사거리","Geomdan Sageori",,,,,
-"04","마전","Majeon",,,,,
-"05","완정","Wanjeong",,,,,
-"06","독정","Dokjeong",,,,,
-"07","검암","Geomam",,,,,
-"08","검바위","Geombawi",,,,,
-"09","아시아드경기장","Asiad Stadium",,,,,
-"0a","서구청","Seo-gu Office",,,,,
-"0b","가정","Gajeong",,,,,
-"0c","가정중앙시장","Gajeong Jungang Market",,,,,
-"0d","석남","Seongnam",,,,,
-"0e","서부여성회관","West Woman's Community Center",,,,,
-"0f","인천가좌","Incheon Gajwa",,,,,
-"0g","가재울","Gajaeul",,,,,
-"0h","주안국가산단","Juan Nat'l Industrial Complex",,,,,
-"0i","주안","Juan",,,,,
-"0j","시민공원","Citizens Park",,,,,
-"0k","석바위시장","Seokbawi Market",,,,,
-"0l","인천시청","Incheon City Hall",,,,,
-"0m","석천사거리","Seokcheon Sageori",,,,,
-"0n","모래내시장","Moraenae Market",,,,,
-"0o","만수","Mansu",,,,,
-"0p","남동구청","Namdong-gu office",,,,,
-"0q","인천대공원","Incheon Grand Park",,,,,
-"0r","운연","Unyeon",,,,,
+"01","검단오류","Geomdan Oryu","0","","","ko1343081",""
+"02","왕길","Wanggil","1.3","","","ko1343090",""
+"03","검단사거리","Geomdan Sageori","2.7","","","ko1343092",""
+"04","마전","Majeon","3.8","","","ko752606",""
+"05","완정","Wanjeong","4.6","","","ko1343096",""
+"06","독정","Dokjeong","5.5","","","ko1343097",""
+"07","검암","Geomam","7.3","","","ko101201",""
+"08","검바위","Geombawi","8.2","","","ko1343110",""
+"09","아시아드경기장","Asiad Stadium","9.3","","","ko1343112",""
+"0a","서구청","Seo-gu Office","10.1","","","ko1343114",""
+"0b","가정","Gajeong","12.3","","","ko1343119",""
+"0c","가정중앙시장","Gajeong Jungang Market","13.1","","","ko1343120",""
+"0d","석남","Seongnam","14.3","","","ko1343121",""
+"0e","서부여성회관","West Woman's Community Center","15.1","","","ko1343123",""
+"0f","인천가좌","Incheon Gajwa","16.2","","","ko1343124",""
+"0g","가재울","Gajaeul","17.3","","","ko1343125",""
+"0h","주안국가산단","Juan Nat'l Industrial Complex","18.7","","","ko1343126",""
+"0i","주안","Juan","19.7","","","ko19672",""
+"0j","시민공원","Citizens Park","20.7","","","ko1343129",""
+"0k","석바위시장","Seokbawi Market","21.7","","","ko1343130",""
+"0l","인천시청","Incheon City Hall","22.4","","","ko20642",""
+"0m","석천사거리","Seokcheon Sageori","23.2","","","ko1343132",""
+"0n","모래내시장","Moraenae Market","24","","","ko1343133",""
+"0o","만수","Mansu","25.1","","","ko1603526",""
+"0p","남동구청","Namdong-gu office","26.3","","","ko1343135",""
+"0q","인천대공원","Incheon Grand Park","27.8","","","ko1343136",""
+"0r","운연","Unyeon","29.1","","","ko1343137",""

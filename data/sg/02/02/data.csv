@@ -1,34 +1,34 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","Pasir Ris","Pasir Ris",,,,,
-"02","Tampines","Tampines",,,,,
-"03","Simei","Simei",,,,,
-"04","Tanah Merah","Tanah Merah",,,,,
-"05","Bedok","Bedok",,,,,
-"06","Kembangan","Kembangan",,,,,
-"07","Eunos","Eunos",,,,,
-"08","Paya Lebar","Paya Lebar",,,,,
-"09","Aljunied","Aljunied",,,,,
-"0a","Kallang","Kallang",,,,,
-"0b","Lavender","Lavender",,,,,
-"0c","Bugis","Bugis",,,,,
-"0d","City Hall","City Hall",,,,,
-"0e","Raffles Place","Raffles Place",,,,,
-"0f","Tanjong Pagar","Tanjong Pagar",,,,,
-"0g","Outram Park","Outram Park",,,,,
-"0h","Tiong Bahru","Tiong Bahru",,,,,
-"0i","Redhill","Redhill",,,,,
-"0j","Queenstown","Queenstown",,,,,
-"0k","Commonwealth","Commonwealth",,,,,
-"0l","Buona Vista","Buona Vista",,,,,
-"0m","Dover","Dover",,,,,
-"0n","Clementi","Clementi",,,,,
-"0o","Jurong East","Jurong East",,,,,
-"0p","Chinese Garden","Chinese Garden",,,,,
-"0q","Lakeside","Lakeside",,,,,
-"0r","Boon Lay","Boon Lay",,,,,
-"0s","Pioneer","Pioneer",,,,,
-"0t","Joo Koon","Joo Koon",,,,,
-"0u","Gul Circle","Gul Circle",,,,,
-"0v","Tuas Crescent","Tuas Crescent",,,,,
-"0w","Tuas West Road","Tuas West Road",,,,,
-"0x","Tuas Link","Tuas Link",,,,,
+"01","Pasir Ris","Pasir Ris","","","","en1159104",""
+"02","Tampines","Tampines","","","","en1822097",""
+"03","Simei","Simei","","","","en1174404",""
+"04","Tanah Merah","Tanah Merah","","","","en2050973",""
+"05","Bedok","Bedok","","","","en2292706",""
+"06","Kembangan","Kembangan","","","","en2292711",""
+"07","Eunos","Eunos","","","","en2292713",""
+"08","Paya Lebar","Paya Lebar","","","","en1159094",""
+"09","Aljunied","Aljunied","","","","en2292715",""
+"0a","Kallang","Kallang","","","","en2292720",""
+"0b","Lavender","Lavender","","","","en2292723",""
+"0c","Bugis","Bugis","","","","en2232720",""
+"0d","City Hall","City Hall","","","","en1159072",""
+"0e","Raffles Place","Raffles Place","","","","en1159079",""
+"0f","Tanjong Pagar","Tanjong Pagar","","","","en2292727",""
+"0g","Outram Park","Outram Park","","","","en1159088",""
+"0h","Tiong Bahru","Tiong Bahru","","","","en2245784",""
+"0i","Redhill","Redhill","","","","en2292736",""
+"0j","Queenstown","Queenstown","","","","en2292752",""
+"0k","Commonwealth","Commonwealth","","","","en2245731",""
+"0l","Buona Vista","Buona Vista","","","","en1159095",""
+"0m","Dover","Dover","","","","en1846331",""
+"0n","Clementi","Clementi","","","","en1966893",""
+"0o","Jurong East","Jurong East","","","","en1159080",""
+"0p","Chinese Garden","Chinese Garden","","","","en2292758",""
+"0q","Lakeside","Lakeside","","","","en2292762",""
+"0r","Boon Lay","Boon Lay","","","","en1159102",""
+"0s","Pioneer","Pioneer","","","","en2292765",""
+"0t","Joo Koon","Joo Koon","","","","en2292771",""
+"0u","Gul Circle","Gul Circle","","","","en30419501",""
+"0v","Tuas Crescent","Tuas Crescent","","","","en30419527",""
+"0w","Tuas West Road","Tuas West Road","","","","en30419591",""
+"0x","Tuas Link","Tuas Link","","","","en30419591",""

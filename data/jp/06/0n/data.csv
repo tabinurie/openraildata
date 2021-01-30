@@ -1,18 +1,18 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","吉松","Yoshimatsu",,,,,
-"02","鶴丸","Tsurumaru",,,,,
-"03","京町温泉","Kyomachi Onsen",,,,,
-"04","えびの","Ebino",,,,,
-"05","えびの上江","Ebino Uwae",,,,,
-"06","えびの飯野","Ebino Iino",,,,,
-"07","西小林","Nishi Kobayashi",,,,,
-"08","小林","Kobayashi",,,,,
-"09","広原","Hirowara",,,,,
-"0a","高原","Takaharu",,,,,
-"0b","日向前田","Hyuga Maeda",,,,,
-"0c","高崎新田","Takasaki Shinden",,,,,
-"0d","東高崎","Higashi Takasaki",,,,,
-"0e","万ケ塚","Mangatsuka",,,,,
-"0f","谷頭","Tanigashira",,,,,
-"0g","日向庄内","Hyuga Shonai",,,,,
-"0h","都城","Miyakonojo",,,,,
+"01","吉松","Yoshimatsu","0","","","ja181752",""
+"02","鶴丸","Tsurumaru","2.6","","","ja211908",""
+"03","京町温泉","Kyomachi Onsen","5","","","ja211912",""
+"04","えびの","Ebino","9.6","","","ja211919",""
+"05","えびの上江","Ebino Uwae","13","","","ja211924",""
+"06","えびの飯野","Ebino Iino","15","","","ja211936",""
+"07","西小林","Nishi Kobayashi","20.6","","","ja211946",""
+"08","小林","Kobayashi","26.8","","","ja37400",""
+"09","広原","Hirowara","30.8","","","ja99157",""
+"0a","高原","Takaharu","34.8","","","ja211952",""
+"0b","日向前田","Hyuga Maeda","39.4","","","ja99119",""
+"0c","高崎新田","Takasaki Shinden","43.8","","","ja211949",""
+"0d","東高崎","Higashi Takasaki","48.1","","","ja97408",""
+"0e","万ケ塚","Mangatsuka","51","","","ja211930",""
+"0f","谷頭","Tanigashira","54.5","","","ja211925",""
+"0g","日向庄内","Hyuga Shonai","57.5","","","ja98996",""
+"0h","都城","Miyakonojo","61.6","","","ja144361",""

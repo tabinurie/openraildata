@@ -1,9 +1,9 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","石家庄","Shijiazhuang",,,,,
-"02","获鹿所","Huolusuo",,,,,
-"03","井陉北","Jingxing North",,,,,
-"04","阳泉北","Yangquan North",,,,,
-"05","东凌井","Donglingjing",,,,,
-"06","太原东","Taiyuan East",,,,,
-"07","太原","Taiyuan",,,,,
-"08","太原南","Taiyuan South",,,,,
+"01","石家庄","Shijiazhuang","0","","","",""
+"02","获鹿所","Huolusuo","29","","","",""
+"03","井陉北","Jingxing North","0","","","",""
+"04","阳泉北","Yangquan North","103","","","",""
+"05","东凌井","Donglingjing","0","","","",""
+"06","太原东","Taiyuan East","221","","","",""
+"07","太原","Taiyuan","224","","","",""
+"08","太原南","Taiyuan South","232","","","",""

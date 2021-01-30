@@ -1,15 +1,15 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","西子灣","Sizihwan",,,,,
-"02","鹽埕埔","Yanchengpu",,,,,
-"03","市議會","City Council",,,,,
-"04","美麗島","Formosa Boulevard",,,,,
-"05","信義國小","Sinyi Elementary School",,,,,
-"06","文化中心","Cultural Center",,,,,
-"07","五塊厝","Wukuaicuo",,,,,
-"08","技擊館","Martial Arts Stadium",,,,,
-"09","衛武營","Weiwuying",,,,,
-"0a","鳳山西","Fongshan West",,,,,
-"0b","鳳山","Fongshan",,,,,
-"0c","大東","Dadong",,,,,
-"0d","鳳山國中","Fongshan Junior High School",,,,,
-"0e","大寮","Daliao",,,,,
+"01","西子灣","Sizihwan","0","","","zh323877",""
+"02","鹽埕埔","Yanchengpu","1","","","zh323879",""
+"03","市議會","City Council","2.5","","","zh323881",""
+"04","美麗島","Formosa Boulevard","3.3","","","zh323875",""
+"05","信義國小","Sinyi Elementary School","4.4","","","zh323884",""
+"06","文化中心","Cultural Center","5.1","","","zh323887",""
+"07","五塊厝","Wukuaicuo","6.3","","","zh323890",""
+"08","技擊館","Martial Arts Stadium","7.1","","","zh323895",""
+"09","衛武營","Weiwuying","7.9","","","zh323898",""
+"0a","鳳山西","Fongshan West","8.7","","","zh323900",""
+"0b","鳳山","Fongshan","9.5","","","zh952636",""
+"0c","大東","Dadong","10.5","","","zh323908",""
+"0d","鳳山國中","Fongshan Junior High School","11.5","","","zh323911",""
+"0e","大寮","Daliao","13.6","","","zh281620",""

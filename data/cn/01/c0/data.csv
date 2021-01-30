@@ -1,9 +1,9 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","沈阳南","Shenyang South",,,,,
-"02","本溪新城","Benxi New Town",,,,,
-"03","本溪","Benxi",,,,,
-"04","南芬北","Nanfen North",,,,,
-"05","通远堡西","Tongyuanpu West",,,,,
-"06","凤城东","Fengcheng East",,,,,
-"07","五龙背东","Wulongbei East",,,,,
-"08","丹东","Dandong",,,,,
+"01","沈阳南","Shenyang South","0","","","zh277013",""
+"02","本溪新城","Benxi New Town","34","","","zh1762073",""
+"03","本溪","Benxi","61","","","zh1174014",""
+"04","南芬北","Nanfen North","79","","","zh4841672",""
+"05","通远堡西","Tongyuanpu West","123","","","zh4841665",""
+"06","凤城东","Fengcheng East","163","","","zh4841658",""
+"07","五龙背东","Wulongbei East","190","","","zh4841648",""
+"08","丹东","Dandong","208","","","zh972923",""

@@ -1,15 +1,15 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","미남","Minam",,,,,
-"02","동래","Dongnae",,,,,
-"03","수안","Suan",,,,,
-"04","낙민","Nangmin",,,,,
-"05","충렬사","Chungnyeolsa",,,,,
-"06","명장","Myeongjang",,,,,
-"07","서동","Seo-dong",,,,,
-"08","금사","Geumsa",,,,,
-"09","반여농산물시장","Banyeo Agricultural Market",,,,,
-"0a","석대","Seokdae",,,,,
-"0b","영산대","Youngsan Univ.",,,,,
-"0c","동부산대학","Dong-Busan College",,,,,
-"0d","고촌","Gochon",,,,,
-"0e","안평","Anpyeong",,,,,
+"01","미남","Minam","0","","","ko76542",""
+"02","동래","Dongnae","1","","","ko94759",""
+"03","수안","Suan","1.7","","","ko610274",""
+"04","낙민","Nangmin","2.4","","","ko610280",""
+"05","충렬사","Chungnyeolsa","3.1","","","ko610283",""
+"06","명장","Myeongjang","3.8","","","ko610292",""
+"07","서동","Seo-dong","4.8","","","ko610297",""
+"08","금사","Geumsa","5.6","","","ko610299",""
+"09","반여농산물시장","Banyeo Agricultural Market","6.4","","","ko610301",""
+"0a","석대","Seokdae","7.6","","","ko610305",""
+"0b","영산대","Youngsan Univ.","9","","","ko610309",""
+"0c","동부산대학","Dong-Busan College","10.1","","","ko610310",""
+"0d","고촌","Gochon","10.9","","","ko1582861",""
+"0e","안평","Anpyeong","12","","","ko159079",""

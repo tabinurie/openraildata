@@ -1,22 +1,22 @@
 "id","endonym","exonym","distance","latitude","longitude","wikipedia","image"
-"01","신흥","Sinheung",,,,,
-"02","대동","Daedong",,,,,
-"03","대전역","Daejeon Station",,,,,
-"04","중앙로","Jungangno",,,,,
-"05","중구청","Jung-gu Office",,,,,
-"06","서대전네거리","Seodaejeonnegeori",,,,,
-"07","오룡","Oryong",,,,,
-"08","용문","Yongmun",,,,,
-"09","탄방","Tanbang",,,,,
-"0a","시청","City hall",,,,,
-"0b","정부청사","Government Complex Daejeon",,,,,
-"0c","갈마","Galma",,,,,
-"0d","월평","Wolpyeong",,,,,
-"0e","갑천","Gapcheon",,,,,
-"0f","유성온천","Yuseong Spa",,,,,
-"0g","구암","Guam",,,,,
-"0h","현충원","National Cemetery",,,,,
-"0i","월드컵경기장","Wold Cup Stadium",,,,,
-"0j","노은","Noeun",,,,,
-"0k","지족","Jijok",,,,,
-"0l","반석","Banseok",,,,,
+"01","신흥","Sinheung","0.94","","","ko70066",""
+"02","대동","Daedong","2.16","","","ko69807",""
+"03","대전역","Daejeon Station","3.17","","","ko69806",""
+"04","중앙로","Jungangno","4","","","ko69803",""
+"05","중구청","Jung-gu Office","4.7","","","ko69810",""
+"06","서대전네거리","Seodaejeonnegeori","5.54","","","ko69812",""
+"07","오룡","Oryong","6.32","","","ko69813",""
+"08","용문","Yongmun","7.82","","","ko70068",""
+"09","탄방","Tanbang","9.02","","","ko69815",""
+"0a","시청","City hall","9.77","","","ko47035",""
+"0b","정부청사","Government Complex Daejeon","10.76","","","ko69819",""
+"0c","갈마","Galma","11.51","","","ko715941",""
+"0d","월평","Wolpyeong","12.26","","","ko110341",""
+"0e","갑천","Gapcheon","13.3","","","ko110342",""
+"0f","유성온천","Yuseong Spa","14.59","","","ko110343",""
+"0g","구암","Guam","15.63","","","ko1065159",""
+"0h","현충원","National Cemetery","16.47","","","ko110347",""
+"0i","월드컵경기장","Wold Cup Stadium","17.53","","","ko110410",""
+"0j","노은","Noeun","18.34","","","ko110349",""
+"0k","지족","Jijok","19.49","","","ko110350",""
+"0l","반석","Banseok","20.47","","","ko110353",""
